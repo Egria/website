@@ -38,7 +38,28 @@ Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 
 
 ## IV. Research Interests
 
+### Bioinformatics and computational biology
+
+1. Automation of biological workflows
+2. Parallelization and acceleration of workflows
+3. Reproducibility
+4. Medical and genomic data mining
+
+### Data mining and natural language processing
+
+1. Knowledge network and knowledge base
+2. Taxonomy and ontology learning
+3. Multimodal learning
+4. Data visualization
+
+### Distributed systems and high performance computing
+
+1. Cloud computing
+2. Parallel computing
+
 ## V. Current Projects
+
+1. 
 
 ## VI. Previous Projects
 
