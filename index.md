@@ -59,20 +59,19 @@ Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 
 
 ## V. Current Projects
 
-1. Intelligent deployment of containerized bioinformatics workflows on the cloud, Dec.2018 - Present
-Affiliate with bioinformatics group at _University of Washington, Tacoma_
-Work with Ka Yee Yeung, Ling-Hong Hung, Wes Lloyd, Dimitar Kumanov
-Supported by NIH R01GM126019
+1. Intelligent deployment of containerized bioinformatics workflows on the cloud, Dec.2018 - Present  
+Affiliate with bioinformatics group at _University of Washington, Tacoma_  
+Work with Ka Yee Yeung, Ling-Hong Hung, Wes Lloyd, Dimitar Kumanov  
+Supported by NIH R01GM126019  
 
+2. Real-time street parking sign recognition and semantic analysis, Dec.2018 - Present  
+Affiliate with W. Cheng's lab at _University of Washington, Tacoma_  
+Work with Wei Cheng, Zhongyu Jiang, Juhua Hu  
 
-2. Real-time street parking sign recognition and semantic analysis, Dec.2018 - Present
-Affiliate with W. Cheng's lab at _University of Washington, Tacoma_
-Work with Wei Cheng, Zhongyu Jiang, Juhua Hu
-
-3. Reproducible and scalable variant discovery analyses using embedded Docker containers in Jupyter notebooks, Feb.2019 - Present
-Affiliate with School of Engineering and Technology at _University of Washington, Tacoma_ and Department of Medical and Health Informatics, _University of Washington, Seattle_
-Work with Ling-Hung Hong, Akash Sur, Vera Diaz, Wes Lloyd, Ka Yee Yeung
-NCBI Hackathon 2019 Project
+3. Reproducible and scalable variant discovery analyses using embedded Docker containers in Jupyter notebooks, Feb.2019 - Present  
+Affiliate with School of Engineering and Technology at _University of Washington, Tacoma_ and Department of Medical and Health Informatics, _University of Washington, Seattle_  
+Work with Ling-Hung Hong, Akash Sur, Vera Diaz, Wes Lloyd, Ka Yee Yeung  
+NCBI Hackathon 2019 Project  
 
 
 ## VI. Previous Projects
