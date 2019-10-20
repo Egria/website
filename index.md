@@ -71,52 +71,110 @@ Work with Wei Cheng, Zhongyu Jiang, Juhua Hu
 3. Reproducible and scalable variant discovery analyses using embedded Docker containers in Jupyter notebooks, Feb.2019 - Present  
 Affiliate with School of Engineering and Technology at _University of Washington, Tacoma_ and Department of Medical and Health Informatics, _University of Washington, Seattle_  
 Work with Ling-Hung Hong, Akash Sur, Vera Diaz, Wes Lloyd, Ka Yee Yeung  
-NCBI Hackathon 2019 Project  
+NCBI Hackathon 2019 Project, Supported by NIH R01GM126019   
 
 
 ## VI. Previous Projects
 
-1. Hierarchical taxonomy induction from unstructured corpus, Dec.2017 - Jul.2018  
-Affiliate with Database Group and Knowledge Engineering Group at _Tsinghua University_  
-Undergraduate thesis supervised by Jianyong Wang  
-[\[Request paper access\]]()[\[Request code access\]]()
+1. Prediction of event free survival time of AML patients based on phenotype clustering, Jan.2019 - Mar.2019  
+Affiliate with School of Engineering and Technology at _University of Washington, Tacoma_  
+Worked with Yizhou Pan, Shihao Qiu, Ling-Hung Hong  
+[\[report\]](https://github.com/Egria/website/raw/master/aml_report.pdf)[\[github\]](https://github.com/Egria/AML_Project)  
 
-2. Visual relation synthesis by adversarial networks, Aug.2017 - Nov.2017  
+2. Hierarchical taxonomy induction from unstructured corpus, Dec.2017 - Jul.2018  
+Affiliate with [Database Group](http://dbgroup.cs.tsinghua.edu.cn/) and [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) at _Tsinghua University_  
+Undergraduate thesis supervised by Jianyong Wang  
+[\[Request paper access\]]()[\[Request code access\]]()  
+
+3. 3X-Project, a tile-based strategic game by Python, Nov.2017 - Jun.2018  
+As LLNT [\[website\]](https://github.com/LLNT)   
+Worked with Xinyun Chen (As Antastsy)  
+[\[wiki\]](https://github.com/LLNT/3X-Project/wiki)[\[github\]](https://github.com/LLNT/3X-Project)  
+
+4. Operating system uCore+ on ARM architecture processor, Sept.2017 - Jan.2018  
+Affiliate with [Computer Networks Lab](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195501579371325/20101224195501579371325_.html) at _Tsinghua University_  
+Wroked with Sinan Tan, Yong Xiang  
+[\[Request report access\]]()[[\[github for software\]](https://github.com/xyongcn/ucore_plus)[\[github for hardware\]](https://github.com/oscourse-tsinghua/ucore-plus-fpga)  
+
+5. Visual relation synthesis by adversarial networks, Aug.2017 - Nov.2017  
 Affiliated with Knowledge Engineering Group at _Tsinghua University_  
 Worked with Jiaxin Shi, Juanzi Li  
 [\[Request paper access\]]()[\[Request code access\]]()  
 
-3. Distributed video & audio retrieval system based on MPI, Jun.2017 - Jul.2017  
+6. Distributed video & audio retrieval system based on MPI, Jun.2017 - Jul.2017  
 Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
 Worked with Guanyu Feng, Yongbin Li, Kang Chen  
 [\[github\]](https://github.com/Leidenschaft/MovSearch)  
 
-4. Distributed filesystem based on FUSE and MPI, Apr.2017 - Jun.2017  
+7. Distributed filesystem based on FUSE and MPI, Apr.2017 - Jun.2017  
 Affililated with [Holy High Point](https://github.com/HolyHighPoint) at _Tsinghua University_  
 Worked with Guanyu Feng, Jason Lau, Jidong Zhai  
 [\[github\]](https://github.com/HolyHighPoint/fuse-mpi)
 
-5. Traffic volume of particular transactions prediction by data mining, Mar.2017 - Jun.2017  
+8. Traffic volume of particular transactions prediction by data mining, Mar.2017 - Jun.2017  
 Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
 Worked with Guanyu Feng, Yongbin Li, Juanzi Li  
 Competed in KDD Cup 2017
 [\[github\]](https://github.com/Leidenschaft/KDDCup2017)  
 
-6. German dictionary and word learning system, Mar.2016 - Mar.2017  
+9. German dictionary and word learning system, Mar.2016 - Mar.2017  
 Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
 Worked with Feng Zhao, Ying Liu  
 Supported by Student Research Training Program (SRT) of Tsinghua University  
 [\[github\]](https://github.com/Leidenschaft/Deutsch-Lernen)[\[website\]](leidenschaft.cn)  
 
-7. Database management system, Sept.2016 - Jan.2017  
-Affiliated with [Holy High Point](https://github.com/HolyHighPoint) at _Tsinghua University_ 
+10. Database management system, Sept.2016 - Jan.2017  
+Affiliated with [Holy High Point](https://github.com/HolyHighPoint) at _Tsinghua University_  
 Worked with Guanyu Feng, Siqi Chen, Jianhua Feng  
 [\[github\]](https://github.com/HolyHighPoint/DBMS)  
 
 
 ## VII. Computational Skills
 
+### Programming languages
+- Python (Advanced)
+- Java (Advanced)
+- C (Intermediate)
+- R (Intermediate)
+- C++ (Intermediate)
+- Lua (Intermediate)
+- JavaScript (Novice)
+- VHDL (Novice)
+
+### High performance computing frameworks
+- MPI (Intermediate)
+- OpenMP (Intermediate)
+- Cuda (Novice)
+
+### Distributed frameworks
+- Hadoop (Intermediate)
+- Spark (Novice)
+
+### Machine learning tools
+- Keras (Advanced)
+- Torch (Advanced)
+- Tensorflow (Novice)
+- PyTorch (Novice)
+
+### Backend and database
+- Django (Advanced)
+- Flask (Intermediate)
+- MySQL (Intermediate)
+
 ## VIII. Others
+
+### Languages speaking
+
+- Madarin Chinese (Native)
+- English (Proficient)  
+- Japanese (Intermediate)
+- German (Intermediate)
+- Russian (Novice)
+- Latin (Novice)
+
+### Baking
+
+See this [\[repository\]](https://github.com/Egria/C17Bakery).
 
 ## IX. Contact
 
@@ -126,122 +184,3 @@ Worked with Guanyu Feng, Siqi Chen, Jianhua Feng
 | Email        | nxz18@uw.edu                               | ned1_32@sina.com                                 |
 | Address      | 1717 Market St, Apt 126, Tacoma, WA, 98402 | 1508 Caobao Rd, Bld 11 Apt 301, Shanghai, 201101 |
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
