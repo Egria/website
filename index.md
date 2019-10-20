@@ -181,6 +181,6 @@ See this [\[repository\]](https://github.com/Egria/C17Bakery).
 |              | In the U.S.                                | In China                                         |
 |:-------------|:-------------------------------------------|:-------------------------------------------------|
 | Phone        | +1 (253)678-0936                           | +86 18401653348                                  |
-| Email        | nxz18@uw.edu                               | ned1_32@sina.com                                 |
+| Email        | [nxz18@uw.edu](mailto:nxz18@uw.edu)           | [ned1_32@sina.com](mailto:ned1_32@sina.com)  |
 | Address      | 1717 Market St, Apt 126, Tacoma, WA, 98402 | 1508 Caobao Rd, Bld 11 Apt 301, Shanghai, 201101 |
 
