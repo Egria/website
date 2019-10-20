@@ -9,8 +9,15 @@ layout: default
 
 ## I. Education
 
-- **M.S**. Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Present
-- **B.E**. Computer Science and Technology, _Tsinghua University_, Aug.2014 - Jul.2018  
+- **M.S.** Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Present
+- **B.E.** Computer Science and Technology, _Tsinghua University_, Aug.2014 - Jul.2018  
+
+## II. Work Experience
+ 
+- **Research Assistant** [Bioinformatics Group](https://github.com/BioDepot), _University of Washington, Tacoma_, Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Dec.2018 - Present
+- **Research Fellow** Wei Cheng's Lab, _University of Washington, Tacoma_, Supervised by [Wei Cheng](http://faculty.washington.edu/uwcheng/), Dec.2018 - Present
+- **Research Fellow** [Database Group](http://dbgroup.cs.tsinghua.edu.cn/), _Tsinghua University_, Supervised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/), Sept.2017 - Jul.2018
+- **Research Assistant** [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/), _Tsinghua University_, Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 - Jul.2018
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
