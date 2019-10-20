@@ -4,8 +4,8 @@ layout: default
 
 # I. Education
 
-### **B.E**. Computer Science and Technology, _Tsinghua University_, Aug.2014 - Jul.2018  
-### **M.S**. Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Present
+- **M.S**. Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Present
+- **B.E**. Computer Science and Technology, _Tsinghua University_, Aug.2014 - Jul.2018  
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
