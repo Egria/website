@@ -76,13 +76,54 @@ NCBI Hackathon 2019 Project
 
 ## VI. Previous Projects
 
-1. 
+1. Hierarchical taxonomy induction from unstructured corpus, Dec.2017 - Jul.2018  
+Affiliate with Database Group and Knowledge Engineering Group at _Tsinghua University_  
+Undergraduate thesis supervised by Jianyong Wang  
+[\[Request paper access\]]()[\[Request code access\]]()
+
+2. Visual relation synthesis by adversarial networks, Aug.2017 - Nov.2017  
+Affiliated with Knowledge Engineering Group at _Tsinghua University_  
+Worked with Jiaxin Shi, Juanzi Li  
+[\[Request paper access\]]()[\[Request code access\]]()  
+
+3. Distributed video & audio retrieval system based on MPI, Jun.2017 - Jul.2017  
+Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
+Worked with Guanyu Feng, Yongbin Li, Kang Chen  
+[\[github\]](https://github.com/Leidenschaft/MovSearch)  
+
+4. Distributed filesystem based on FUSE and MPI, Apr.2017 - Jun.2017  
+Affililated with [Holy High Point](https://github.com/HolyHighPoint) at _Tsinghua University_  
+Worked with Guanyu Feng, Jason Lau, Jidong Zhai  
+[\[github\]](https://github.com/HolyHighPoint/fuse-mpi)
+
+5. Traffic volume of particular transactions prediction by data mining, Mar.2017 - Jun.2017  
+Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
+Worked with Guanyu Feng, Yongbin Li, Juanzi Li  
+Competed in KDD Cup 2017
+[\[github\]](https://github.com/Leidenschaft/KDDCup2017)  
+
+6. German dictionary and word learning system, Mar.2016 - Mar.2017  
+Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
+Worked with Feng Zhao, Ying Liu  
+Supported by Student Research Training Program (SRT) of Tsinghua University  
+[\[github\]](https://github.com/Leidenschaft/Deutsch-Lernen)[\[website\]](leidenschaft.cn)  
+
+7. Database management system, Sept.2016 - Jan.2017  
+Affiliated with [Holy High Point](https://github.com/HolyHighPoint) at _Tsinghua University_ 
+Worked with Guanyu Feng, Siqi Chen, Jianhua Feng  
+[\[github\]](https://github.com/HolyHighPoint/DBMS)  
+
 
 ## VII. Computational Skills
 
 ## VIII. Others
 
 ## IX. Contact
+
+|              | In the U.S.       | In China  |
+| Phone        | +1 (253)678-0936  | +86 18401653348  |
+| Email        | nxz18@uw.edu      | ned1_32@sina.com |
+| Address      | 1717 Market St, Apt 126, Tacoma, WA, 98402 | 1508 Caobao Rd, Bld 11 Apt 301, Shanghai, 201101 |
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
