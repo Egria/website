@@ -120,9 +120,10 @@ Worked with Guanyu Feng, Siqi Chen, Jianhua Feng
 
 ## IX. Contact
 
-|              | In the U.S.       | In China  |
-| Phone        | +1 (253)678-0936  | +86 18401653348  |
-| Email        | nxz18@uw.edu      | ned1_32@sina.com |
+|              | In the U.S.                                | In China                                         |
+|:-------------|:-------------------------------------------|:-------------------------------------------------|
+| Phone        | +1 (253)678-0936                           | +86 18401653348                                  |
+| Email        | nxz18@uw.edu                               | ned1_32@sina.com                                 |
 | Address      | 1717 Market St, Apt 126, Tacoma, WA, 98402 | 1508 Caobao Rd, Bld 11 Apt 301, Shanghai, 201101 |
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
