@@ -77,12 +77,12 @@ NCBI Hackathon 2019 Project, Supported by NIH R01GM126019
 ## VI. Previous Projects
 
 1. Prediction of event free survival time of AML patients based on phenotype clustering, Jan.2019 - Mar.2019  
-Affiliate with School of Engineering and Technology at _University of Washington, Tacoma_  
+Affiliated with School of Engineering and Technology at _University of Washington, Tacoma_  
 Worked with Yizhou Pan, Shihao Qiu, Ling-Hung Hong  
 [\[report\]](https://github.com/Egria/website/raw/master/aml_report.pdf)[\[github\]](https://github.com/Egria/AML_Project)  
 
 2. Hierarchical taxonomy induction from unstructured corpus, Dec.2017 - Jul.2018  
-Affiliate with [Database Group](http://dbgroup.cs.tsinghua.edu.cn/) and [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) at _Tsinghua University_  
+Affiliated with [Database Group](http://dbgroup.cs.tsinghua.edu.cn/) and [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) at _Tsinghua University_  
 Undergraduate thesis supervised by Jianyong Wang  
 [\[Request paper access\]]()[\[Request code access\]]()  
 
@@ -92,7 +92,7 @@ Worked with Xinyun Chen (As Antastsy)
 [\[wiki\]](https://github.com/LLNT/3X-Project/wiki)[\[github\]](https://github.com/LLNT/3X-Project)  
 
 4. Operating system uCore+ on ARM architecture processor, Sept.2017 - Jan.2018  
-Affiliate with [Computer Networks Lab](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195501579371325/20101224195501579371325_.html) at _Tsinghua University_  
+Affiliated with [Computer Networks Lab](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195501579371325/20101224195501579371325_.html) at _Tsinghua University_  
 Wroked with Sinan Tan, Yong Xiang  
 [\[Request report access\]]()[[\[github for software\]](https://github.com/xyongcn/ucore_plus)[\[github for hardware\]](https://github.com/oscourse-tsinghua/ucore-plus-fpga)  
 
