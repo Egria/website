@@ -4,6 +4,9 @@ layout: default
 
 # Curriculum Vitae 
 
+---
+
+
 ## I. Education
 
 - **M.S**. Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Present
