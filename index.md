@@ -114,7 +114,7 @@ Worked with Guanyu Feng, Jason Lau, Jidong Zhai
 8. Traffic volume of particular transactions prediction by data mining, Mar.2017 - Jun.2017  
 Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
 Worked with Guanyu Feng, Yongbin Li, Juanzi Li  
-Competed in KDD Cup 2017
+Competed in KDD Cup 2017  
 [\[github\]](https://github.com/Leidenschaft/KDDCup2017)  
 
 9. German dictionary and word learning system, Mar.2016 - Mar.2017  
