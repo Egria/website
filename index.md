@@ -26,6 +26,16 @@ Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 
 
 ## III. Publications
 
+### Published
+
+1. X. Niu, D. Kumanov, L.-H. Hung, W. Lloyd, K. Y. Yeung, "Leveraging serverless computing to improve performance for sequence comparison", _Proceedings of the 2019 ACM International Conference on Bioinformatics, Computational Biology and Health Information (BCB)_ [\[acm\]](https://dl.acm.org/citation.cfm?id=3343465)[\[pdf\]](https://github.com/Egria/website/raw/master/Serverless_ParBio_ACM_BCB.pdf)[\[slides\]](https://github.com/Egria/website/raw/master/BCB_slides%20_pdf.pdf)
+
+### Submitted
+
+2. L.-H. Hung, X. Niu, D. Kumanov, W. Lloyd, K. Y. Yeung, "Rapid RNA sequencing data analysis using serverless computing on cloud platforms", submitted to _Nature Communications_ [\[biorxiv\]](https://www.biorxiv.org/content/10.1101/576199v1.abstract)
+
+3. F. Zhao, X. Niu, S.-L. Huang, L. Zhang, "Reproducing scientific experiment with cloud DevOps", submitted to _Computing in Science & Engineering_
+
 ## IV. Research Interests
 
 ## V. Current Projects
