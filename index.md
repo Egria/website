@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# Education
+
+## B.E. Tsinghua University  
+Computer Science and Technology, Aug.2014 - Jul.2018
+
+## M.S. University of Washington, Tacoma
+Computer Science and Systems, Sept.2018 - Present
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
