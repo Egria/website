@@ -3,3 +3,5 @@ description: The Personal Page for Xingzhi Niu.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
+github: 
+  cv_url: https://github.com/Egria/website/raw/master/cv.pdf
