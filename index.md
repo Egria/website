@@ -121,7 +121,7 @@ Competed in KDD Cup 2017
 Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
 Worked with Feng Zhao, Ying Liu  
 Supported by Student Research Training Program (SRT) of Tsinghua University  
-[\[github\]](https://github.com/Leidenschaft/Deutsch-Lernen)[\[website\]](leidenschaft.cn)  
+[\[github\]](https://github.com/Leidenschaft/Deutsch-Lernen)
 
 10. Database management system, Sept.2016 - Jan.2017  
 Affiliated with [Holy High Point](https://github.com/HolyHighPoint) at _Tsinghua University_  
