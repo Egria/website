@@ -16,7 +16,7 @@ layout: default
  
 - **Research Assistant** [Bioinformatics Group](https://github.com/BioDepot), _University of Washington, Tacoma_  
 Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Dec.2018 - Present
-- **Research Fellow** Wei Cheng's Lab, _University of Washington, Tacoma_  
+- **Research Fellow** [Wei Cheng's Lab](http://faculty.washington.edu/uwcheng/), _University of Washington, Tacoma_  
 Supervised by [Wei Cheng](http://faculty.washington.edu/uwcheng/), Dec.2018 - Present
 - **Research Fellow** [Database Group](http://dbgroup.cs.tsinghua.edu.cn/), _Tsinghua University_  
 Supervised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/), Sept.2017 - Jul.2018
