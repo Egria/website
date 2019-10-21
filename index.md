@@ -84,22 +84,22 @@ Worked with Yizhou Pan, Shihao Qiu, Ling-Hung Hong
 2. Hierarchical taxonomy induction from unstructured corpus, Dec.2017 - Jul.2018  
 Affiliated with [Database Group](http://dbgroup.cs.tsinghua.edu.cn/) and [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) at _Tsinghua University_  
 Undergraduate thesis supervised by Jianyong Wang  
-[\[Request paper access\]]()[\[Request code access\]]()  
+[\[request paper access\]]()[\[request code access\]]()  
 
 3. 3X-Project, a tile-based strategic game by Python, Nov.2017 - Jun.2018  
 As LLNT [\[website\]](https://github.com/LLNT)   
-Worked with Xinyun Chen (As Antastsy)  
+Worked with Xinyun Chen (As Antastsy), Jikun Tao (As Amon), Feng Zhao (As zhaofeng-shu33)  
 [\[wiki\]](https://github.com/LLNT/3X-Project/wiki)[\[github\]](https://github.com/LLNT/3X-Project)  
 
 4. Operating system uCore+ on ARM architecture processor, Sept.2017 - Jan.2018  
 Affiliated with [Computer Networks Lab](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224195501579371325/20101224195501579371325_.html) at _Tsinghua University_  
 Wroked with Sinan Tan, Yong Xiang  
-[\[Request report access\]]()[[\[github for software\]](https://github.com/xyongcn/ucore_plus)[\[github for hardware\]](https://github.com/oscourse-tsinghua/ucore-plus-fpga)  
+[\[request report access\]]()[[\[github for software\]](https://github.com/xyongcn/ucore_plus)[\[github for hardware\]](https://github.com/oscourse-tsinghua/ucore-plus-fpga)  
 
 5. Visual relation synthesis by adversarial networks, Aug.2017 - Nov.2017  
 Affiliated with Knowledge Engineering Group at _Tsinghua University_  
 Worked with Jiaxin Shi, Juanzi Li  
-[\[Request paper access\]]()[\[Request code access\]]()  
+[\[request paper access\]]()[\[request code access\]]()  
 
 6. Distributed video & audio retrieval system based on MPI, Jun.2017 - Jul.2017  
 Affiliated with [Leidenschaft](https://github.com/Leidenschaft) at _Tsinghua University_  
