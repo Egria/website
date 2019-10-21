@@ -97,7 +97,7 @@ Wroked with Sinan Tan, Yong Xiang
 [\[request report access\]]()[[\[github for software\]](https://github.com/xyongcn/ucore_plus)[\[github for hardware\]](https://github.com/oscourse-tsinghua/ucore-plus-fpga)  
 
 5. Visual relation synthesis by adversarial networks, Aug.2017 - Nov.2017  
-Affiliated with Knowledge Engineering Group at _Tsinghua University_  
+Affiliated with [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) at _Tsinghua University_  
 Worked with Jiaxin Shi, Juanzi Li  
 [\[request paper access\]]()[\[request code access\]]()  
 
