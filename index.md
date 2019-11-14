@@ -32,7 +32,7 @@ Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 
 
 ### Submitted
 
-2. L.-H. Hung, X. Niu, D. Kumanov, W. Lloyd, K. Y. Yeung, "Rapid RNA sequencing data analysis using serverless computing on cloud platforms", submitted to _Nature Communications_ [\[biorxiv\]](https://www.biorxiv.org/content/10.1101/576199v1.abstract)
+2. L.-H. Hung, X. Niu, D. Kumanov, W. Lloyd, K. Y. Yeung, "Rapid RNA sequencing data analysis using serverless computing on cloud platforms", submitted to _Nature Methods_ [\[biorxiv\]](https://www.biorxiv.org/content/10.1101/576199v1.abstract)
 
 3. F. Zhao, X. Niu, S.-L. Huang, L. Zhang, "Reproducing scientific experiment with cloud DevOps", submitted to _Computing in Science & Engineering_ [\[arxiv\]](https://arxiv.org/abs/1910.13397)
 
