@@ -9,15 +9,19 @@ layout: default
 
 ## I. Education
 
-- **M.S.** Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Present
+- **M.S.** Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Dec.2019
 - **B.E.** Computer Science and Technology, _Tsinghua University_, Aug.2014 - Jul.2018  
 
 ## II. Research Experience
- 
+
+- **Research Assistant** [Goodwill Computing Lab](https://web.northeastern.edu/tiwari/team/), _Northeastern University_
+Supervised by [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/), Sept.2020 - Now
+- **Programmer/Analyst III** [Bioinformatics Group](https://github.com/BioDepot), _University of Washington, Tacoma_
+Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Feb.2020 - Aug.2020
 - **Research Assistant** [Bioinformatics Group](https://github.com/BioDepot), _University of Washington, Tacoma_  
-Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Dec.2018 - Present
+Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Dec.2018 - Dec.2019
 - **Research Fellow** [Wei Cheng's Lab](http://faculty.washington.edu/uwcheng/), _University of Washington, Tacoma_  
-Supervised by [Wei Cheng](http://faculty.washington.edu/uwcheng/), Dec.2018 - Present
+Supervised by [Wei Cheng](http://faculty.washington.edu/uwcheng/), Dec.2018 - Dec.2019
 - **Research Fellow** [Database Group](http://dbgroup.cs.tsinghua.edu.cn/), _Tsinghua University_  
 Supervised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/), Sept.2017 - Jul.2018
 - **Research Assistant** [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/), _Tsinghua University_  
@@ -30,13 +34,20 @@ Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 
 
 1. X. Niu, D. Kumanov, L.-H. Hung, W. Lloyd, K. Y. Yeung, "Leveraging serverless computing to improve performance for sequence comparison", _Proceedings of the 2019 ACM International Conference on Bioinformatics, Computational Biology and Health Information (BCB)_ [\[acm\]](https://dl.acm.org/citation.cfm?id=3343465)[\[pdf\]](https://github.com/Egria/website/raw/master/Serverless_ParBio_ACM_BCB.pdf)[\[slides\]](https://github.com/Egria/website/raw/master/BCB_slides%20_pdf.pdf)
 
+2. F. Zhao, X. Niu, S.-L. Huang, L. Zhang, "Reproducing scientific experiment with cloud DevOps", _2020 IEEE World Congress on Services (SERVICES)_ [\[arxiv\]](https://arxiv.org/abs/1910.13397)
+
 ### Submitted
 
-2. L.-H. Hung, X. Niu, D. Kumanov, W. Lloyd, K. Y. Yeung, "Rapid RNA sequencing data analysis using serverless computing on cloud platforms", submitted to _Nature Methods_ [\[biorxiv\]](https://www.biorxiv.org/content/10.1101/576199v1.abstract)
+3. L.-H. Hung, X. Niu, D. Kumanov, W. Lloyd, K. Y. Yeung, "Rapid RNA sequencing data analysis using serverless computing on cloud platforms", submitted to _Nature Methods_ [\[biorxiv\]](https://www.biorxiv.org/content/10.1101/576199v1.abstract)
 
-3. F. Zhao, X. Niu, S.-L. Huang, L. Zhang, "Reproducing scientific experiment with cloud DevOps", submitted to _Computing in Science & Engineering_ [\[arxiv\]](https://arxiv.org/abs/1910.13397)
+4. R.B. Roy, T. Patel, D. Tiwari, X. Niu, "Toward Understanding the I/O Performance and Storage Characteristics of Serverless Applications on AWS Lambda", submitted to _19th USENIX Conference on File and Storage Technologies (FAST)_
 
 ## IV. Research Interests
+
+### Distributed systems and high performance computing
+
+1. Cloud computing
+2. Parallel computing
 
 ### Bioinformatics and computational biology
 
@@ -51,11 +62,6 @@ Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 
 2. Taxonomy and ontology learning
 3. Multimodal learning
 4. Data visualization
-
-### Distributed systems and high performance computing
-
-1. Cloud computing
-2. Parallel computing
 
 ## V. Current Projects
 
