@@ -14,7 +14,7 @@ layout: default
 
 ## II. Research Experience
 
-- **Research Assistant** [Goodwill Computing Lab](https://web.northeastern.edu/tiwari/team/), _Northeastern University_
+- **Research Assistant** [Goodwill Computing Lab](https://web.northeastern.edu/tiwari/team/), _Northeastern University_ 
 Supervised by [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/), Sept.2020 - Now
 - **Programmer/Analyst III** [Bioinformatics Group](https://github.com/BioDepot), _University of Washington, Tacoma_
 Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Feb.2020 - Aug.2020
