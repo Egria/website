@@ -9,6 +9,7 @@ layout: default
 
 ## I. Education
 
+- **Ph.D. Student** Computer Engineering, _Northeastern University_, Sept.2020 - Now
 - **M.S.** Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Dec.2019
 - **B.E.** Computer Science and Technology, _Tsinghua University_, Aug.2014 - Jul.2018  
 
@@ -39,8 +40,6 @@ Supervised by [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/), Aug.2016 
 ### Submitted
 
 3. L.-H. Hung, X. Niu, D. Kumanov, W. Lloyd, K. Y. Yeung, "Rapid RNA sequencing data analysis using serverless computing on cloud platforms", submitted to _Nature Methods_ [\[biorxiv\]](https://www.biorxiv.org/content/10.1101/576199v1.abstract)
-
-4. R.B. Roy, T. Patel, D. Tiwari, X. Niu, "Toward Understanding the I/O Performance and Storage Characteristics of Serverless Applications on AWS Lambda", submitted to _19th USENIX Conference on File and Storage Technologies (FAST)_
 
 ## IV. Research Interests
 
