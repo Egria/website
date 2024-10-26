@@ -9,16 +9,18 @@ layout: default
 
 ## I. Education
 
-- **Ph.D. Student** Computer Engineering, _Northeastern University_, Sept.2020 - Now
 - **M.S.** Computer Science and Systems, _University of Washington, Tacoma_, Sept.2018 - Dec.2019
 - **B.E.** Computer Science and Technology, _Tsinghua University_, Aug.2014 - Jul.2018  
 
+## II. Career Experience
+
+- **Senior Bioinformatics Engineer** [GV20 Therapeutics](https://gv20tx.com/), _Shanghai, China_
+Supervised by [Xiaole Shirley Liu](https://gv20tx.com/team), Oct.2022 - Mar.2024
+
 ## II. Research Experience
 
-- **Research Assistant** [Goodwill Computing Lab](https://web.northeastern.edu/tiwari/team/), _Northeastern University_ 
-Supervised by [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/), Sept.2020 - Now
 - **Programmer/Analyst III** [Bioinformatics Group](https://github.com/BioDepot), _University of Washington, Tacoma_
-Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Feb.2020 - Aug.2020
+Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Feb.2020 - Dec.2020
 - **Research Assistant** [Bioinformatics Group](https://github.com/BioDepot), _University of Washington, Tacoma_  
 Supervised by [Ka Yee Yeung](http://faculty.washington.edu/kayee/), Dec.2018 - Dec.2019
 - **Research Fellow** [Wei Cheng's Lab](http://faculty.washington.edu/uwcheng/), _University of Washington, Tacoma_  
