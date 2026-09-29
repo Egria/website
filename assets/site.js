@@ -1,6 +1,6 @@
 
     (() => {
-      const root = document.getElementById('experience-projects-corner');
+      const root = document.getElementById('bwb-brand-demo');
       const canvas = root.querySelector('canvas');
       const ctx = canvas.getContext('2d');
       ctx.scale(2,2);
@@ -222,14 +222,13 @@
       };
       root.querySelectorAll('[data-page]').forEach(button=>button.addEventListener('click',event=>{
         if(button.tagName==='A'&&(event.metaKey||event.ctrlKey||event.shiftKey||event.altKey))return;
-        // Capture a shared card's destination before resetting its preview.
         const name=button.dataset.page;
         const projectId=button.dataset.project;
         if(button.tagName==='A')event.preventDefault();
         navigate(name,projectId);
       }));
       const restoreRoute=()=>{
-        const route=/^#(home|research|play|about)(?:-(palma|gamma|llm|serverless))?$/.exec(location.hash);
+        const route=/^#(home|research|play|about)(?:-(palma|gamma|llm|phialbcr|dna|bwb|serverless))?$/.exec(location.hash);
         navigate(route?route[1]:'home',route&&route[1]==='research'?route[2]:null,{updateUrl:false,scroll:false});
       };
       window.addEventListener('popstate',restoreRoute);
