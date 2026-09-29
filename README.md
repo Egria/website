@@ -1,109 +1,53 @@
-# The Midnight theme
+# Xingzhi Niu — Personal Website
 
-[![Build Status](https://travis-ci.org/pages-themes/midnight.svg?branch=master)](https://travis-ci.org/pages-themes/midnight) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-midnight.svg)](https://badge.fury.io/rb/jekyll-theme-midnight)
+这是可以直接部署的静态网页包，不需要 npm、构建步骤、后端或 API key。
 
-*Midnight is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/midnight), or even [use it today](#usage).*
+## 本地预览
 
-![Thumbnail of Midnight](thumbnail.png)
+解压后双击 `index.html` 即可查看。也可以在此目录运行：
 
-## Usage
-
-To use the Midnight theme:
-
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    theme: jekyll-theme-midnight
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
-## Customizing
-
-### Configuration variables
-
-Midnight will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+```bash
+python3 -m http.server 8000
 ```
 
-Additionally, you may choose to set the following optional variables:
+浏览器打开 <http://localhost:8000>。
 
-```yml
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+## 部署到现有 GitHub Pages
 
-### Stylesheet
+目标仓库：<https://github.com/Egria/website>
 
-If you'd like to add your own custom styles:
+当前默认分支：`master`。
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+1. 解压网页包，将 **index.html、assets 文件夹、licenses 文件夹、.nojekyll** 放到仓库的最外层。`index.html` 必须直接位于仓库根目录，不能隔着一层 `xingzhi-website` 文件夹。上传的是解压后的文件，不是 ZIP 本身。
+2. 在 GitHub 仓库页面使用 **Add file → Upload files** 上传文件和文件夹，然后提交到 `master`；也可以使用 GitHub Desktop 或 git。如果文件管理器隐藏 `.nojekyll`，在 GitHub 使用 **Add file → Create new file** 创建名为 `.nojekyll` 的空文件。
+3. 打开仓库 **Settings → Pages**。在 **Build and deployment** 中，Source 选择 **Deploy from a branch**，Branch 选择 **master**，目录选择 **/(root)**，点击 **Save**。
+4. 在 **Actions** 中等待 `pages build and deployment` 成功，然后访问 <https://egria.github.io/website/>。
+5. 如果仍显示旧页面，强制刷新浏览器。后续修改只需提交对应文件，GitHub Pages 会自动更新。
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+`.nojekyll` 用于直接发布静态文件。原仓库的 `_config.yml`、`index.md` 等旧 Jekyll 文件可以保留；本包的 `index.html` 是新的首页。请合并 `assets` 文件夹，不要删除仓库原有论文、简历或其他文件。本包未包含或更改这些文件。
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+官方部署说明：<https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site>
 
-### Layouts
+## 文件与维护
 
-If you'd like to change the theme's HTML layout:
+- `index.html`：网页内容、经历与 Supervisor 信息、项目链接。
+- `assets/site.css`：布局与样式。
+- `assets/site.js`：导航、悬停展开、固定项目、经历详情和猫咪互动。
+- `assets/fonts/`：本地字体；无需访问字体 CDN。
+- `assets/favicon.svg`：网页图标。
+- `licenses/`：字体与 Lucide 图标的授权说明，请保留。
+- `.nojekyll`：GitHub Pages 静态发布标记。
 
-1. [Copy the original template](https://github.com/pages-themes/midnight/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
+字体、图标、机构标志与插图已随包提供。所有内部资源使用相对路径，支持 GitHub Pages 的 `/website/` 子目录，也可以部署到其他静态托管服务。
 
-### Overriding GitHub-generated URLs
+## 本次修改
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+- 所有 Professional experience 和 Early appointments 条目均有 Supervisor 名称与外链。
+- UNM 的 GammaDelta 项目入口、UNMC 的 PalmaClust 项目入口与 Supervisor 位于同一行，窄屏自然换行。
+- 项目入口打开 Research 中对应项目，并保持 expanded 与 pinned 状态。
+- GammaDelta 在 Home 与 Research 中均有仓库链接：<https://github.com/vinash85/GammaDelta>。
+- 默认首页为 Home。支持直接访问 `#about`、`#research`、`#research-gamma`、`#research-palma` 等地址；刷新项目地址后会自动展开并固定相应项目。
 
-1. Look at [the template source](https://github.com/pages-themes/midnight/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+## 第三方资源
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/midnight/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Midnight theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Midnight? We'd love your help. Midnight is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/midnight`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+Lucide 图标使用 0.468.0 版本并以内联 SVG 提供（ISC）；DM Sans 与 Manrope 使用 SIL Open Font License。具体授权文本见 `licenses/`。机构标志保留原网页中提供的图像，仅用于标识对应机构。
