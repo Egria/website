@@ -1614,20 +1614,6 @@
       "admin1Id": "TUR-6",
       "administrativeUnit": "Antalya"
     },
-    "Cappadocia": {
-      "name": "Cappadocia",
-      "coordinates": [
-        34.83,
-        38.64
-      ],
-      "region": "Central Anatolia, Turkey",
-      "approximate": true,
-      "admin1": "Central Anatolia",
-      "country": "Turkey",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
-      "countryCode": "TUR",
-      "administrativeUnit": null
-    },
     "Baku": {
       "name": "Baku",
       "coordinates": [
@@ -3895,6 +3881,186 @@
       "admin1": "Shiga",
       "admin1Id": "JPN-5",
       "administrativeUnit": "Shiga"
+    },
+    "Kaman": {
+      "name": "Kaman",
+      "coordinates": [
+        33.72389,
+        39.3575
+      ],
+      "region": "Kırşehir, Turkey",
+      "approximate": false,
+      "geonamesId": "310641",
+      "admin1": "Kırşehir",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-51",
+      "administrativeUnit": "Kırşehir"
+    },
+    "Kırıkkale": {
+      "name": "Kırıkkale",
+      "coordinates": [
+        33.50639,
+        39.84528
+      ],
+      "region": "Kırıkkale, Turkey",
+      "approximate": false,
+      "geonamesId": "307654",
+      "admin1": "Kırıkkale",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-49",
+      "administrativeUnit": "Kırıkkale"
+    },
+    "Gerede": {
+      "name": "Gerede",
+      "coordinates": [
+        32.19694,
+        40.80083
+      ],
+      "region": "Bolu, Turkey",
+      "approximate": false,
+      "geonamesId": "746940",
+      "admin1": "Bolu",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-19",
+      "administrativeUnit": "Bolu"
+    },
+    "Kayseri": {
+      "name": "Kayseri",
+      "coordinates": [
+        35.48528,
+        38.73222
+      ],
+      "region": "Kayseri, Turkey",
+      "approximate": false,
+      "geonamesId": "308464",
+      "admin1": "Kayseri",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-47",
+      "administrativeUnit": "Kayseri"
+    },
+    "Avanos": {
+      "name": "Avanos",
+      "coordinates": [
+        34.84667,
+        38.715
+      ],
+      "region": "Nevşehir, Turkey",
+      "approximate": false,
+      "geonamesId": "322965",
+      "admin1": "Nevşehir",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-61",
+      "administrativeUnit": "Nevşehir"
+    },
+    "Çavuşin": {
+      "name": "Çavuşin",
+      "coordinates": [
+        34.839,
+        38.669
+      ],
+      "region": "Nevşehir, Turkey",
+      "approximate": false,
+      "geonamesId": "319130",
+      "admin1": "Nevşehir",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-61",
+      "administrativeUnit": "Nevşehir"
+    },
+    "Göreme": {
+      "name": "Göreme",
+      "coordinates": [
+        34.82885,
+        38.64284
+      ],
+      "region": "Nevşehir, Turkey",
+      "approximate": false,
+      "geonamesId": "313947",
+      "admin1": "Nevşehir",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-61",
+      "administrativeUnit": "Nevşehir"
+    },
+    "Nevşehir": {
+      "name": "Nevşehir",
+      "coordinates": [
+        34.71222,
+        38.625
+      ],
+      "region": "Nevşehir, Turkey",
+      "approximate": false,
+      "geonamesId": "303831",
+      "admin1": "Nevşehir",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-61",
+      "administrativeUnit": "Nevşehir"
+    },
+    "Iğdır": {
+      "name": "Iğdır",
+      "coordinates": [
+        44.045,
+        39.92371
+      ],
+      "region": "Iğdır, Turkey",
+      "approximate": false,
+      "geonamesId": "311665",
+      "admin1": "Iğdır",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-38",
+      "administrativeUnit": "Iğdır"
+    },
+    "Akçay": {
+      "name": "Akçay",
+      "coordinates": [
+        26.92389,
+        39.58583
+      ],
+      "region": "Balıkesir, Turkey",
+      "approximate": false,
+      "geonamesId": "324834",
+      "admin1": "Balıkesir",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-9",
+      "administrativeUnit": "Balıkesir"
+    },
+    "Gelibolu": {
+      "name": "Gelibolu",
+      "coordinates": [
+        26.67174,
+        40.40836
+      ],
+      "region": "Çanakkale, Turkey",
+      "approximate": false,
+      "geonamesId": "746983",
+      "admin1": "Çanakkale",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-22",
+      "administrativeUnit": "Çanakkale"
+    },
+    "Tekirdağ": {
+      "name": "Tekirdağ",
+      "coordinates": [
+        27.51101,
+        40.9781
+      ],
+      "region": "Tekirdağ, Turkey",
+      "approximate": false,
+      "geonamesId": "738927",
+      "admin1": "Tekirdağ",
+      "country": "Turkey",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-71",
+      "administrativeUnit": "Tekirdağ"
     }
   },
   "languages": [
@@ -3951,7 +4117,7 @@
   "notes": {
     "connections": "Lines connect recorded stops and do not represent actual roads or flight paths. Added Kiyama connections have unspecified direction; Otsu and Kyoto are explicitly linked in both directions.",
     "returns": "Departure and return links inferred from the original >/< notation are retained as city connections.",
-    "approximate": "Cappadocia, Nakagami, Iriomote, Oroqen and the Aral Sea use regional reference points.",
+    "approximate": "Nakagami, Iriomote, Oroqen and the Aral Sea use regional reference points.",
     "aliases": {
       "Haloong": "Ha Long",
       "Kota Kinabaru": "Kota Kinabalu",
@@ -3966,7 +4132,14 @@
       "Munagata": "Munakata",
       "Dawson": "Dawson City",
       "Chicago, MI": "Chicago, Illinois",
-      "Ōtsu": "Otsu"
+      "Ōtsu": "Otsu",
+      "Kirikkale": "Kırıkkale",
+      "Cavusin": "Çavuşin",
+      "Goreme": "Göreme",
+      "Nevsehir": "Nevşehir",
+      "Igdir": "Iğdır",
+      "Akcay": "Akçay",
+      "Tekirdag": "Tekirdağ"
     },
     "coordinates": "City-centre reference points, checked against GeoNames where a matching city record is available. Small localities and regions use approximate reference points.",
     "sources": [
@@ -3979,10 +4152,11 @@
       "https://www.town.kiyama.lg.jp/kiji0031143/index.html",
       "https://www.city.otsu.lg.jp/material/files/group/109/R2toukeinenkan_toukeizuhyou1.pdf"
     ],
-    "administrativeAreas": "Administrative areas filled from GeoNames, with local province/municipality equivalents. Singapore is displayed as Singapore, Singapore. Cappadocia and the Aral Sea remain regions.",
+    "administrativeAreas": "Administrative areas filled from GeoNames, with local province/municipality equivalents. Singapore is displayed as Singapore, Singapore. The Aral Sea remains a regional reference.",
     "baseCities": "Initially inferred from the relocation headings and the Tacoma base entry in the supplied place list.",
     "countrySelection": "Only visited countries are selectable. Taiwan city records and polygons are grouped under China.",
-    "administrativeStatistics": "First-level units containing recorded places; repeated places do not increase the visited-unit count. Unspecified regional stops and Singapore are not inferred into additional units."
+    "administrativeStatistics": "First-level units containing recorded places; repeated places do not increase the visited-unit count. Unspecified regional stops and Singapore are not inferred into additional units.",
+    "turkeyUpdates": "Cappadocia replaced by recorded cities. Updated chains: Ankara–Kaman–Kırıkkale–Boğazkale–Ankara; Antalya–Kayseri–Avanos–Çavuşin–Göreme–Nevşehir–Istanbul; Kars–Iğdır–Doğubayazıt; Bergama–Akçay–Troy–Çanakkale–Gelibolu–Tekirdağ–Istanbul. Gerede linked to Ankara and Safranbolu without inferring direction."
   },
   "connections": [
     {
@@ -4562,14 +4736,6 @@
       "to": "Antalya"
     },
     {
-      "from": "Antalya",
-      "to": "Cappadocia"
-    },
-    {
-      "from": "Cappadocia",
-      "to": "Istanbul"
-    },
-    {
       "from": "Istanbul",
       "to": "Shanghai"
     },
@@ -4612,10 +4778,6 @@
     {
       "from": "Artvin",
       "to": "Kars"
-    },
-    {
-      "from": "Kars",
-      "to": "Doğubayazıt"
     },
     {
       "from": "Doğubayazıt",
@@ -4704,18 +4866,6 @@
     {
       "from": "Çeşme",
       "to": "Bergama"
-    },
-    {
-      "from": "Bergama",
-      "to": "Çanakkale"
-    },
-    {
-      "from": "Çanakkale",
-      "to": "Troy"
-    },
-    {
-      "from": "Troy",
-      "to": "Istanbul"
     },
     {
       "from": "Jeju",
@@ -5466,6 +5616,88 @@
     {
       "from": "Otsu",
       "to": "Kyoto"
+    },
+    {
+      "from": "Ankara",
+      "to": "Kaman"
+    },
+    {
+      "from": "Kaman",
+      "to": "Kırıkkale"
+    },
+    {
+      "from": "Kırıkkale",
+      "to": "Boğazkale"
+    },
+    {
+      "from": "Boğazkale",
+      "to": "Ankara"
+    },
+    {
+      "from": "Antalya",
+      "to": "Kayseri"
+    },
+    {
+      "from": "Kayseri",
+      "to": "Avanos"
+    },
+    {
+      "from": "Avanos",
+      "to": "Çavuşin"
+    },
+    {
+      "from": "Çavuşin",
+      "to": "Göreme"
+    },
+    {
+      "from": "Göreme",
+      "to": "Nevşehir"
+    },
+    {
+      "from": "Nevşehir",
+      "to": "Istanbul"
+    },
+    {
+      "from": "Kars",
+      "to": "Iğdır"
+    },
+    {
+      "from": "Iğdır",
+      "to": "Doğubayazıt"
+    },
+    {
+      "from": "Bergama",
+      "to": "Akçay"
+    },
+    {
+      "from": "Akçay",
+      "to": "Troy"
+    },
+    {
+      "from": "Troy",
+      "to": "Çanakkale"
+    },
+    {
+      "from": "Çanakkale",
+      "to": "Gelibolu"
+    },
+    {
+      "from": "Gelibolu",
+      "to": "Tekirdağ"
+    },
+    {
+      "from": "Tekirdağ",
+      "to": "Istanbul"
+    },
+    {
+      "from": "Ankara",
+      "to": "Gerede",
+      "direction": "unspecified"
+    },
+    {
+      "from": "Gerede",
+      "to": "Safranbolu",
+      "direction": "unspecified"
     }
   ],
   "baseCities": [
