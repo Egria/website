@@ -1,0 +1,4284 @@
+{
+  "places": {
+    "Jilin": {
+      "name": "Jilin",
+      "coordinates": [
+        126.5608,
+        43.84652
+      ],
+      "region": "Jilin, China",
+      "approximate": false,
+      "geonamesId": "2036502"
+    },
+    "Huanren": {
+      "name": "Huanren",
+      "coordinates": [
+        125.36667,
+        41.26472
+      ],
+      "region": "Liaoning, China",
+      "approximate": false,
+      "geonamesId": "2036713"
+    },
+    "Shenyang": {
+      "name": "Shenyang",
+      "coordinates": [
+        123.43278,
+        41.79222
+      ],
+      "region": "Liaoning, China",
+      "approximate": false,
+      "geonamesId": "2034937"
+    },
+    "Shanghai": {
+      "name": "Shanghai",
+      "coordinates": [
+        121.45806,
+        31.22222
+      ],
+      "region": "Shanghai, China",
+      "approximate": false,
+      "geonamesId": "1796236"
+    },
+    "Guangzhou": {
+      "name": "Guangzhou",
+      "coordinates": [
+        113.25,
+        23.11667
+      ],
+      "region": "Guangdong, China",
+      "approximate": false,
+      "geonamesId": "1809858"
+    },
+    "Nanjing": {
+      "name": "Nanjing",
+      "coordinates": [
+        118.77778,
+        32.06167
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "1799962"
+    },
+    "Hangzhou": {
+      "name": "Hangzhou",
+      "coordinates": [
+        120.16142,
+        30.29365
+      ],
+      "region": "Zhejiang, China",
+      "approximate": false,
+      "geonamesId": "1808926"
+    },
+    "Ma'anshan": {
+      "name": "Ma'anshan",
+      "coordinates": [
+        118.51008,
+        31.68579
+      ],
+      "region": "Anhui, China",
+      "approximate": false,
+      "geonamesId": "1801620"
+    },
+    "Huangshan": {
+      "name": "Huangshan",
+      "coordinates": [
+        118.3125,
+        29.71139
+      ],
+      "region": "Anhui, China",
+      "approximate": false,
+      "geonamesId": "1792359"
+    },
+    "Hefei": {
+      "name": "Hefei",
+      "coordinates": [
+        117.28083,
+        31.86389
+      ],
+      "region": "Anhui, China",
+      "approximate": false,
+      "geonamesId": "1808722"
+    },
+    "Weihai": {
+      "name": "Weihai",
+      "coordinates": [
+        122.11356,
+        37.50914
+      ],
+      "region": "Shandong, China",
+      "approximate": false,
+      "geonamesId": "1791673"
+    },
+    "Dalian": {
+      "name": "Dalian",
+      "coordinates": [
+        121.60222,
+        38.91222
+      ],
+      "region": "Liaoning, China",
+      "approximate": false,
+      "geonamesId": "1814087"
+    },
+    "Changsha": {
+      "name": "Changsha",
+      "coordinates": [
+        112.97087,
+        28.19874
+      ],
+      "region": "Hunan, China",
+      "approximate": false,
+      "geonamesId": "1815577"
+    },
+    "Zhangjiajie": {
+      "name": "Zhangjiajie",
+      "coordinates": [
+        110.47833,
+        29.12944
+      ],
+      "region": "Hunan, China",
+      "approximate": false,
+      "geonamesId": "1813171"
+    },
+    "Haikou": {
+      "name": "Haikou",
+      "coordinates": [
+        110.34651,
+        20.03421
+      ],
+      "region": "Hainan, China",
+      "approximate": false,
+      "geonamesId": "1809078"
+    },
+    "Danzhou": {
+      "name": "Danzhou",
+      "coordinates": [
+        109.57895,
+        19.52134
+      ],
+      "region": "Hainan, China",
+      "approximate": false,
+      "geonamesId": "1800234"
+    },
+    "Sanya": {
+      "name": "Sanya",
+      "coordinates": [
+        109.50947,
+        18.25435
+      ],
+      "region": "Hainan, China",
+      "approximate": false,
+      "geonamesId": "1796556"
+    },
+    "Shouxian": {
+      "name": "Shouxian",
+      "coordinates": [
+        116.79291,
+        32.58162
+      ],
+      "region": "Anhui, China",
+      "approximate": false,
+      "geonamesId": "1794781"
+    },
+    "Huaiyang": {
+      "name": "Huaiyang",
+      "coordinates": [
+        114.87863,
+        33.74952
+      ],
+      "region": "Henan, China",
+      "approximate": false,
+      "geonamesId": "1807651"
+    },
+    "Luoyang": {
+      "name": "Luoyang",
+      "coordinates": [
+        112.43684,
+        34.67345
+      ],
+      "region": "Henan, China",
+      "approximate": false,
+      "geonamesId": "1801792"
+    },
+    "Yuncheng": {
+      "name": "Yuncheng",
+      "coordinates": [
+        110.99278,
+        35.02306
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1785738"
+    },
+    "Fenyang": {
+      "name": "Fenyang",
+      "coordinates": [
+        111.79,
+        37.27
+      ],
+      "region": "Shanxi, China",
+      "approximate": false
+    },
+    "Pingyao": {
+      "name": "Pingyao",
+      "coordinates": [
+        112.17806,
+        37.2025
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1798636"
+    },
+    "Taiyuan": {
+      "name": "Taiyuan",
+      "coordinates": [
+        112.56028,
+        37.86944
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1793511"
+    },
+    "Yingxian": {
+      "name": "Yingxian",
+      "coordinates": [
+        113.18554,
+        39.55912
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1786559"
+    },
+    "Datong": {
+      "name": "Datong",
+      "coordinates": [
+        113.29139,
+        40.09361
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "2037799"
+    },
+    "Shijiazhuang": {
+      "name": "Shijiazhuang",
+      "coordinates": [
+        114.47861,
+        38.04139
+      ],
+      "region": "Hebei, China",
+      "approximate": false,
+      "geonamesId": "1795270"
+    },
+    "Xuzhou": {
+      "name": "Xuzhou",
+      "coordinates": [
+        117.28386,
+        34.20442
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "10630003"
+    },
+    "Zhangzi": {
+      "name": "Zhangzi",
+      "coordinates": [
+        112.86101,
+        36.1245
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1785000"
+    },
+    "Shuozhou": {
+      "name": "Shuozhou",
+      "coordinates": [
+        112.4225,
+        39.31583
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1794328"
+    },
+    "Hohhot": {
+      "name": "Hohhot",
+      "coordinates": [
+        111.65222,
+        40.81056
+      ],
+      "region": "Inner Mongolia, China",
+      "approximate": false,
+      "geonamesId": "2036892"
+    },
+    "Baotou": {
+      "name": "Baotou",
+      "coordinates": [
+        109.84389,
+        40.6516
+      ],
+      "region": "Inner Mongolia, China",
+      "approximate": false,
+      "geonamesId": "2038432"
+    },
+    "Bayannur": {
+      "name": "Bayannur",
+      "coordinates": [
+        107.38599,
+        40.74143
+      ],
+      "region": "Inner Mongolia, China",
+      "approximate": false,
+      "geonamesId": "11838258"
+    },
+    "Ejina": {
+      "name": "Ejina",
+      "coordinates": [
+        101.06,
+        41.95
+      ],
+      "region": "Inner Mongolia, China",
+      "approximate": false
+    },
+    "Jiayuguan": {
+      "name": "Jiayuguan",
+      "coordinates": [
+        98.28618,
+        39.81121
+      ],
+      "region": "Gansu, China",
+      "approximate": false,
+      "geonamesId": "1280957"
+    },
+    "Jiuquan": {
+      "name": "Jiuquan",
+      "coordinates": [
+        98.51736,
+        39.74318
+      ],
+      "region": "Gansu, China",
+      "approximate": false,
+      "geonamesId": "1279945"
+    },
+    "Lanzhou": {
+      "name": "Lanzhou",
+      "coordinates": [
+        103.83987,
+        36.05701
+      ],
+      "region": "Gansu, China",
+      "approximate": false,
+      "geonamesId": "1804430"
+    },
+    "Yinchuan": {
+      "name": "Yinchuan",
+      "coordinates": [
+        106.27306,
+        38.46806
+      ],
+      "region": "Ningxia, China",
+      "approximate": false,
+      "geonamesId": "1786657"
+    },
+    "Yan'an": {
+      "name": "Yan'an",
+      "coordinates": [
+        109.49167,
+        36.59889
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "1787765"
+    },
+    "Houma": {
+      "name": "Houma",
+      "coordinates": [
+        111.3566,
+        35.61358
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1807818"
+    },
+    "Changzhi": {
+      "name": "Changzhi",
+      "coordinates": [
+        113.10528,
+        36.18389
+      ],
+      "region": "Shanxi, China",
+      "approximate": false,
+      "geonamesId": "1808956"
+    },
+    "Jiaozuo": {
+      "name": "Jiaozuo",
+      "coordinates": [
+        113.23914,
+        35.23925
+      ],
+      "region": "Henan, China",
+      "approximate": false,
+      "geonamesId": "1805987"
+    },
+    "Lianyungang": {
+      "name": "Lianyungang",
+      "coordinates": [
+        119.21556,
+        34.59845
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "10859300"
+    },
+    "Qufu": {
+      "name": "Qufu",
+      "coordinates": [
+        116.99111,
+        35.59667
+      ],
+      "region": "Shandong, China",
+      "approximate": false,
+      "geonamesId": "1797333"
+    },
+    "Mianyang": {
+      "name": "Mianyang",
+      "coordinates": [
+        104.68168,
+        31.46784
+      ],
+      "region": "Sichuan, China",
+      "approximate": false,
+      "geonamesId": "1800627"
+    },
+    "Guanghan": {
+      "name": "Guanghan",
+      "coordinates": [
+        104.28081,
+        30.98021
+      ],
+      "region": "Sichuan, China",
+      "approximate": false,
+      "geonamesId": "1801982"
+    },
+    "Beichuan": {
+      "name": "Beichuan",
+      "coordinates": [
+        104.47,
+        31.82
+      ],
+      "region": "Sichuan, China",
+      "approximate": false
+    },
+    "Jiangyou": {
+      "name": "Jiangyou",
+      "coordinates": [
+        104.73932,
+        31.77819
+      ],
+      "region": "Sichuan, China",
+      "approximate": false,
+      "geonamesId": "1784469"
+    },
+    "Qingchuan": {
+      "name": "Qingchuan",
+      "coordinates": [
+        105.23343,
+        32.59026
+      ],
+      "region": "Sichuan, China",
+      "approximate": false,
+      "geonamesId": "1798105"
+    },
+    "Jiuzhaigou": {
+      "name": "Jiuzhaigou",
+      "coordinates": [
+        104.24,
+        33.26
+      ],
+      "region": "Sichuan, China",
+      "approximate": false
+    },
+    "Longnan": {
+      "name": "Longnan",
+      "coordinates": [
+        104.91703,
+        33.39791
+      ],
+      "region": "Gansu, China",
+      "approximate": false,
+      "geonamesId": "11778484"
+    },
+    "Huixian": {
+      "name": "Huixian",
+      "coordinates": [
+        106.08083,
+        33.76833
+      ],
+      "region": "Gansu, China",
+      "approximate": false,
+      "geonamesId": "1806788"
+    },
+    "Baoji": {
+      "name": "Baoji",
+      "coordinates": [
+        107.23705,
+        34.36775
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "10942359"
+    },
+    "Qishan": {
+      "name": "Qishan",
+      "coordinates": [
+        107.61778,
+        34.44139
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "1811276"
+    },
+    "Fufeng": {
+      "name": "Fufeng",
+      "coordinates": [
+        107.87348,
+        34.36051
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "1811044"
+    },
+    "Xi'an": {
+      "name": "Xi'an",
+      "coordinates": [
+        108.92861,
+        34.25833
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "1790630"
+    },
+    "Huxian": {
+      "name": "Huxian",
+      "coordinates": [
+        108.61406,
+        34.10241
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "1806561"
+    },
+    "Foping": {
+      "name": "Foping",
+      "coordinates": [
+        107.983,
+        33.52319
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "1786077"
+    },
+    "Hanzhong": {
+      "name": "Hanzhong",
+      "coordinates": [
+        107.02214,
+        33.07507
+      ],
+      "region": "Shaanxi, China",
+      "approximate": false,
+      "geonamesId": "1808857"
+    },
+    "Sapporo": {
+      "name": "Sapporo",
+      "coordinates": [
+        141.35,
+        43.06667
+      ],
+      "region": "Hokkaido, Japan",
+      "approximate": false,
+      "geonamesId": "2128295"
+    },
+    "Asahikawa": {
+      "name": "Asahikawa",
+      "coordinates": [
+        142.36489,
+        43.77063
+      ],
+      "region": "Hokkaido, Japan",
+      "approximate": false,
+      "geonamesId": "2130629"
+    },
+    "Otaru": {
+      "name": "Otaru",
+      "coordinates": [
+        141.00222,
+        43.18944
+      ],
+      "region": "Hokkaido, Japan",
+      "approximate": false,
+      "geonamesId": "2128574"
+    },
+    "Hakodate": {
+      "name": "Hakodate",
+      "coordinates": [
+        140.73667,
+        41.77583
+      ],
+      "region": "Hokkaido, Japan",
+      "approximate": false,
+      "geonamesId": "2130188"
+    },
+    "Tokyo": {
+      "name": "Tokyo",
+      "coordinates": [
+        139.69171,
+        35.6895
+      ],
+      "region": "Tokyo, Japan",
+      "approximate": false,
+      "geonamesId": "1850147"
+    },
+    "Yokosuka": {
+      "name": "Yokosuka",
+      "coordinates": [
+        139.66722,
+        35.28361
+      ],
+      "region": "Kanagawa, Japan",
+      "approximate": false,
+      "geonamesId": "1848313"
+    },
+    "Jeju": {
+      "name": "Jeju",
+      "coordinates": [
+        126.52194,
+        33.50972
+      ],
+      "region": "Jeju, South Korea",
+      "approximate": false,
+      "geonamesId": "1846266"
+    },
+    "Hong Kong": {
+      "name": "Hong Kong",
+      "coordinates": [
+        114.17469,
+        22.27832
+      ],
+      "region": "Hong Kong, China",
+      "approximate": false,
+      "geonamesId": "1819729"
+    },
+    "Macau": {
+      "name": "Macau",
+      "coordinates": [
+        113.54611,
+        22.20056
+      ],
+      "region": "Macau, China",
+      "approximate": false,
+      "geonamesId": "1821274"
+    },
+    "Shenzhen": {
+      "name": "Shenzhen",
+      "coordinates": [
+        114.0683,
+        22.54554
+      ],
+      "region": "Guangdong, China",
+      "approximate": false,
+      "geonamesId": "1795565"
+    },
+    "Chaozhou": {
+      "name": "Chaozhou",
+      "coordinates": [
+        116.62262,
+        23.65396
+      ],
+      "region": "Guangdong, China",
+      "approximate": false,
+      "geonamesId": "1815395"
+    },
+    "Shantou": {
+      "name": "Shantou",
+      "coordinates": [
+        116.67876,
+        23.35489
+      ],
+      "region": "Guangdong, China",
+      "approximate": false,
+      "geonamesId": "1795940"
+    },
+    "Longchuan": {
+      "name": "Longchuan",
+      "coordinates": [
+        115.26,
+        24.1
+      ],
+      "region": "Guangdong, China",
+      "approximate": false
+    },
+    "Wuyishan": {
+      "name": "Wuyishan",
+      "coordinates": [
+        118.03066,
+        27.75995
+      ],
+      "region": "Fujian, China",
+      "approximate": false,
+      "geonamesId": "1922014"
+    },
+    "Guilin": {
+      "name": "Guilin",
+      "coordinates": [
+        110.29639,
+        25.28022
+      ],
+      "region": "Guangxi, China",
+      "approximate": false,
+      "geonamesId": "1809498"
+    },
+    "Wuhan": {
+      "name": "Wuhan",
+      "coordinates": [
+        114.26667,
+        30.58333
+      ],
+      "region": "Hubei, China",
+      "approximate": false,
+      "geonamesId": "1791247"
+    },
+    "Yangzhou": {
+      "name": "Yangzhou",
+      "coordinates": [
+        119.43583,
+        32.39722
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "1787227"
+    },
+    "Taizhou": {
+      "name": "Taizhou",
+      "coordinates": [
+        119.90812,
+        32.49069
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "1793505"
+    },
+    "Shaoxing": {
+      "name": "Shaoxing",
+      "coordinates": [
+        120.57864,
+        30.00237
+      ],
+      "region": "Zhejiang, China",
+      "approximate": false,
+      "geonamesId": "1795855"
+    },
+    "Lishui": {
+      "name": "Lishui",
+      "coordinates": [
+        119.91029,
+        28.46042
+      ],
+      "region": "Zhejiang, China",
+      "approximate": false,
+      "geonamesId": "1803245"
+    },
+    "Xinchang": {
+      "name": "Xinchang",
+      "coordinates": [
+        120.9,
+        29.5
+      ],
+      "region": "Zhejiang, China",
+      "approximate": false
+    },
+    "Huzhou": {
+      "name": "Huzhou",
+      "coordinates": [
+        120.0933,
+        30.8703
+      ],
+      "region": "Zhejiang, China",
+      "approximate": false,
+      "geonamesId": "1806535"
+    },
+    "Xuancheng": {
+      "name": "Xuancheng",
+      "coordinates": [
+        118.75528,
+        30.9525
+      ],
+      "region": "Anhui, China",
+      "approximate": false,
+      "geonamesId": "1788081"
+    },
+    "Dongtai": {
+      "name": "Dongtai",
+      "coordinates": [
+        120.30947,
+        32.85231
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "1812228"
+    },
+    "Dafeng": {
+      "name": "Dafeng",
+      "coordinates": [
+        120.4578,
+        33.19973
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "1813088"
+    },
+    "Sheyang": {
+      "name": "Sheyang",
+      "coordinates": [
+        120.26176,
+        33.7722
+      ],
+      "region": "Jiangsu, China",
+      "approximate": false,
+      "geonamesId": "1808744"
+    },
+    "Jingdezhen": {
+      "name": "Jingdezhen",
+      "coordinates": [
+        117.20789,
+        29.2947
+      ],
+      "region": "Jiangxi, China",
+      "approximate": false,
+      "geonamesId": "1805680"
+    },
+    "Nanchang": {
+      "name": "Nanchang",
+      "coordinates": [
+        115.85306,
+        28.68396
+      ],
+      "region": "Jiangxi, China",
+      "approximate": false,
+      "geonamesId": "1800163"
+    },
+    "Jiujiang": {
+      "name": "Jiujiang",
+      "coordinates": [
+        116.00206,
+        29.70475
+      ],
+      "region": "Jiangxi, China",
+      "approximate": false,
+      "geonamesId": "1805179"
+    },
+    "Jinzhai": {
+      "name": "Jinzhai",
+      "coordinates": [
+        115.91241,
+        31.72913
+      ],
+      "region": "Anhui, China",
+      "approximate": false,
+      "geonamesId": "1800815"
+    },
+    "Guangshan": {
+      "name": "Guangshan",
+      "coordinates": [
+        114.89998,
+        32.0107
+      ],
+      "region": "Henan, China",
+      "approximate": false,
+      "geonamesId": "1809881"
+    },
+    "Phnom Penh": {
+      "name": "Phnom Penh",
+      "coordinates": [
+        104.91601,
+        11.56245
+      ],
+      "region": "Phnom Penh, Cambodia",
+      "approximate": false,
+      "geonamesId": "1821306",
+      "admin1": "Phnom Penh",
+      "country": "Cambodia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Siem Reap": {
+      "name": "Siem Reap",
+      "coordinates": [
+        103.86056,
+        13.36179
+      ],
+      "region": "Siem Reap, Cambodia",
+      "approximate": false,
+      "geonamesId": "1822214",
+      "admin1": "Siem Reap",
+      "country": "Cambodia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Hanoi": {
+      "name": "Hanoi",
+      "coordinates": [
+        105.84117,
+        21.0245
+      ],
+      "region": "Hanoi, Vietnam",
+      "approximate": false,
+      "geonamesId": "1581130",
+      "admin1": "Hanoi",
+      "country": "Vietnam",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Ha Long": {
+      "name": "Ha Long",
+      "coordinates": [
+        107.07336,
+        20.95045
+      ],
+      "region": "Quảng Ninh, Vietnam",
+      "approximate": false,
+      "geonamesId": "1580410",
+      "admin1": "Quảng Ninh",
+      "country": "Vietnam",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Singapore": {
+      "name": "Singapore",
+      "coordinates": [
+        103.85007,
+        1.28967
+      ],
+      "region": "Singapore",
+      "approximate": false,
+      "geonamesId": "1880252",
+      "country": "Singapore",
+      "admin1": "Singapore",
+      "displayName": "Singapore, Singapore"
+    },
+    "Kota Kinabalu": {
+      "name": "Kota Kinabalu",
+      "coordinates": [
+        116.0724,
+        5.9749
+      ],
+      "region": "Sabah, Malaysia",
+      "approximate": false,
+      "geonamesId": "1733432"
+    },
+    "Semporna": {
+      "name": "Semporna",
+      "coordinates": [
+        118.61119,
+        4.48178
+      ],
+      "region": "Sabah, Malaysia",
+      "approximate": false,
+      "geonamesId": "1733697"
+    },
+    "Istanbul": {
+      "name": "Istanbul",
+      "coordinates": [
+        28.94966,
+        41.01384
+      ],
+      "region": "Istanbul, Turkey",
+      "approximate": false,
+      "geonamesId": "745044",
+      "admin1": "Istanbul",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Bursa": {
+      "name": "Bursa",
+      "coordinates": [
+        29.06013,
+        40.19559
+      ],
+      "region": "Bursa, Turkey",
+      "approximate": false,
+      "geonamesId": "750269",
+      "admin1": "Bursa",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Izmir": {
+      "name": "Izmir",
+      "coordinates": [
+        27.13838,
+        38.41273
+      ],
+      "region": "İzmir, Turkey",
+      "approximate": false,
+      "geonamesId": "311046",
+      "admin1": "İzmir",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Selçuk": {
+      "name": "Selçuk",
+      "coordinates": [
+        27.36849,
+        37.95137
+      ],
+      "region": "İzmir, Turkey",
+      "approximate": false,
+      "geonamesId": "301256",
+      "admin1": "İzmir",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Kuşadası": {
+      "name": "Kuşadası",
+      "coordinates": [
+        27.25713,
+        37.86014
+      ],
+      "region": "Aydın, Turkey",
+      "approximate": false,
+      "geonamesId": "305359",
+      "admin1": "Aydın",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Denizli": {
+      "name": "Denizli",
+      "coordinates": [
+        29.0875,
+        37.77417
+      ],
+      "region": "Denizli, Turkey",
+      "approximate": false,
+      "geonamesId": "317109",
+      "admin1": "Denizli",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Çanakkale": {
+      "name": "Çanakkale",
+      "coordinates": [
+        26.41271,
+        40.15552
+      ],
+      "region": "Çanakkale, Turkey",
+      "approximate": false,
+      "geonamesId": "749780",
+      "admin1": "Çanakkale",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Fethiye": {
+      "name": "Fethiye",
+      "coordinates": [
+        29.12758,
+        36.64038
+      ],
+      "region": "Muğla, Turkey",
+      "approximate": false,
+      "geonamesId": "314967",
+      "admin1": "Muğla",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Kaş": {
+      "name": "Kaş",
+      "coordinates": [
+        29.63766,
+        36.20176
+      ],
+      "region": "Antalya, Turkey",
+      "approximate": false,
+      "geonamesId": "308948",
+      "admin1": "Antalya",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Antalya": {
+      "name": "Antalya",
+      "coordinates": [
+        30.69556,
+        36.90812
+      ],
+      "region": "Antalya, Turkey",
+      "approximate": false,
+      "geonamesId": "323777",
+      "admin1": "Antalya",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Cappadocia": {
+      "name": "Cappadocia",
+      "coordinates": [
+        34.83,
+        38.64
+      ],
+      "region": "Central Anatolia, Turkey",
+      "approximate": true,
+      "admin1": "Central Anatolia",
+      "country": "Turkey",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Baku": {
+      "name": "Baku",
+      "coordinates": [
+        49.89201,
+        40.37767
+      ],
+      "region": "Baku, Azerbaijan",
+      "approximate": false,
+      "geonamesId": "587084",
+      "admin1": "Baku",
+      "country": "Azerbaijan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Sheki": {
+      "name": "Sheki",
+      "coordinates": [
+        47.17056,
+        41.19194
+      ],
+      "region": "Sheki, Azerbaijan",
+      "approximate": false,
+      "geonamesId": "585170",
+      "admin1": "Sheki",
+      "country": "Azerbaijan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Tbilisi": {
+      "name": "Tbilisi",
+      "coordinates": [
+        44.83412,
+        41.69143
+      ],
+      "region": "Tbilisi, Georgia",
+      "approximate": false,
+      "geonamesId": "611717",
+      "admin1": "Tbilisi",
+      "country": "Georgia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Gudauri": {
+      "name": "Gudauri",
+      "coordinates": [
+        44.47616,
+        42.47797
+      ],
+      "region": "Mtskheta-Mtianeti, Georgia",
+      "approximate": false,
+      "geonamesId": "614410",
+      "admin1": "Mtskheta-Mtianeti",
+      "country": "Georgia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Sevan": {
+      "name": "Sevan",
+      "coordinates": [
+        44.95314,
+        40.548
+      ],
+      "region": "Gegharkunik, Armenia",
+      "approximate": false,
+      "geonamesId": "616250",
+      "admin1": "Gegharkunik",
+      "country": "Armenia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Yerevan": {
+      "name": "Yerevan",
+      "coordinates": [
+        44.5126,
+        40.17765
+      ],
+      "region": "Yerevan, Armenia",
+      "approximate": false,
+      "geonamesId": "616052",
+      "admin1": "Yerevan",
+      "country": "Armenia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Batumi": {
+      "name": "Batumi",
+      "coordinates": [
+        41.6306,
+        41.64077
+      ],
+      "region": "Adjara, Georgia",
+      "approximate": false,
+      "geonamesId": "615532",
+      "admin1": "Adjara",
+      "country": "Georgia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Artvin": {
+      "name": "Artvin",
+      "coordinates": [
+        41.82172,
+        41.18161
+      ],
+      "region": "Artvin, Turkey",
+      "approximate": false,
+      "geonamesId": "751817",
+      "admin1": "Artvin",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Kars": {
+      "name": "Kars",
+      "coordinates": [
+        43.08548,
+        40.59825
+      ],
+      "region": "Kars, Turkey",
+      "approximate": false,
+      "geonamesId": "743952",
+      "admin1": "Kars",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Doğubayazıt": {
+      "name": "Doğubayazıt",
+      "coordinates": [
+        44.08417,
+        39.54694
+      ],
+      "region": "Ağrı, Turkey",
+      "approximate": false,
+      "geonamesId": "316411",
+      "admin1": "Ağrı",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Van": {
+      "name": "Van",
+      "coordinates": [
+        43.38323,
+        38.49457
+      ],
+      "region": "Van, Turkey",
+      "approximate": false,
+      "geonamesId": "298117",
+      "admin1": "Van",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Divriği": {
+      "name": "Divriği",
+      "coordinates": [
+        38.1137,
+        39.371
+      ],
+      "region": "Sivas, Turkey",
+      "approximate": false,
+      "geonamesId": "316544",
+      "admin1": "Sivas",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Sivas": {
+      "name": "Sivas",
+      "coordinates": [
+        37.01611,
+        39.74833
+      ],
+      "region": "Sivas, Turkey",
+      "approximate": false,
+      "geonamesId": "300619",
+      "admin1": "Sivas",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Ankara": {
+      "name": "Ankara",
+      "coordinates": [
+        32.85427,
+        39.91987
+      ],
+      "region": "Ankara, Turkey",
+      "approximate": false,
+      "geonamesId": "323786",
+      "admin1": "Ankara",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Tashkent": {
+      "name": "Tashkent",
+      "coordinates": [
+        69.21627,
+        41.26465
+      ],
+      "region": "Tashkent, Uzbekistan",
+      "approximate": false,
+      "geonamesId": "1512569",
+      "admin1": "Tashkent",
+      "country": "Uzbekistan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Samarkand": {
+      "name": "Samarkand",
+      "coordinates": [
+        66.96445,
+        39.65456
+      ],
+      "region": "Samarkand, Uzbekistan",
+      "approximate": false,
+      "geonamesId": "1216265",
+      "admin1": "Samarkand",
+      "country": "Uzbekistan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Bukhara": {
+      "name": "Bukhara",
+      "coordinates": [
+        64.43069,
+        39.77026
+      ],
+      "region": "Bukhara, Uzbekistan",
+      "approximate": false,
+      "geonamesId": "1217662",
+      "admin1": "Bukhara",
+      "country": "Uzbekistan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Khiva": {
+      "name": "Khiva",
+      "coordinates": [
+        60.36408,
+        41.38555
+      ],
+      "region": "Khorezm, Uzbekistan",
+      "approximate": false,
+      "geonamesId": "1513604",
+      "admin1": "Khorezm",
+      "country": "Uzbekistan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Nukus": {
+      "name": "Nukus",
+      "coordinates": [
+        59.60576,
+        42.45861
+      ],
+      "region": "Karakalpakstan, Uzbekistan",
+      "approximate": false,
+      "geonamesId": "601294",
+      "admin1": "Karakalpakstan",
+      "country": "Uzbekistan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Aral Sea": {
+      "name": "Aral Sea",
+      "coordinates": [
+        59.4,
+        44.7
+      ],
+      "region": "Central Asia",
+      "approximate": true
+    },
+    "Abu Dhabi": {
+      "name": "Abu Dhabi",
+      "coordinates": [
+        54.39696,
+        24.45118
+      ],
+      "region": "Abu Dhabi, UAE",
+      "approximate": false,
+      "geonamesId": "292968",
+      "admin1": "Abu Dhabi",
+      "country": "UAE",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Dubai": {
+      "name": "Dubai",
+      "coordinates": [
+        55.30927,
+        25.07725
+      ],
+      "region": "Dubai, UAE",
+      "approximate": false,
+      "geonamesId": "292223",
+      "admin1": "Dubai",
+      "country": "UAE",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Safranbolu": {
+      "name": "Safranbolu",
+      "coordinates": [
+        32.69417,
+        41.25083
+      ],
+      "region": "Karabük, Turkey",
+      "approximate": false,
+      "geonamesId": "740430",
+      "admin1": "Karabük",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Boğazkale": {
+      "name": "Boğazkale",
+      "coordinates": [
+        34.60947,
+        40.02191
+      ],
+      "region": "Çorum, Turkey",
+      "approximate": false,
+      "geonamesId": "750539",
+      "admin1": "Çorum",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Çeşme": {
+      "name": "Çeşme",
+      "coordinates": [
+        26.30574,
+        38.32614
+      ],
+      "region": "İzmir, Turkey",
+      "approximate": false,
+      "geonamesId": "318755",
+      "admin1": "İzmir",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Bergama": {
+      "name": "Bergama",
+      "coordinates": [
+        27.18052,
+        39.12074
+      ],
+      "region": "İzmir, Turkey",
+      "approximate": false,
+      "geonamesId": "321426",
+      "admin1": "İzmir",
+      "country": "Turkey",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Troy": {
+      "name": "Troy",
+      "coordinates": [
+        26.24,
+        39.96
+      ],
+      "region": "Çanakkale, Turkey",
+      "approximate": false,
+      "admin1": "Çanakkale",
+      "country": "Turkey",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Gwangju": {
+      "name": "Gwangju",
+      "coordinates": [
+        126.91556,
+        35.15472
+      ],
+      "region": "Gwangju, South Korea",
+      "approximate": false,
+      "geonamesId": "1841811",
+      "admin1": "Gwangju",
+      "country": "South Korea",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Seoul": {
+      "name": "Seoul",
+      "coordinates": [
+        126.9784,
+        37.566
+      ],
+      "region": "Seoul, South Korea",
+      "approximate": false,
+      "geonamesId": "1835848",
+      "admin1": "Seoul",
+      "country": "South Korea",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Dorasan": {
+      "name": "Dorasan",
+      "coordinates": [
+        126.71,
+        37.9
+      ],
+      "region": "Gyeonggi, South Korea",
+      "approximate": false
+    },
+    "Sokcho": {
+      "name": "Sokcho",
+      "coordinates": [
+        128.59181,
+        38.20701
+      ],
+      "region": "Gangwon, South Korea",
+      "approximate": false,
+      "geonamesId": "1836553"
+    },
+    "Osaka": {
+      "name": "Osaka",
+      "coordinates": [
+        135.50107,
+        34.69379
+      ],
+      "region": "Osaka, Japan",
+      "approximate": false,
+      "geonamesId": "1853909"
+    },
+    "Vancouver": {
+      "name": "Vancouver",
+      "coordinates": [
+        -123.11934,
+        49.24966
+      ],
+      "region": "British Columbia, Canada",
+      "approximate": false,
+      "geonamesId": "6173331"
+    },
+    "Whitehorse": {
+      "name": "Whitehorse",
+      "coordinates": [
+        -135.05375,
+        60.71611
+      ],
+      "region": "Yukon, Canada",
+      "approximate": false,
+      "geonamesId": "6180550"
+    },
+    "Old Crow": {
+      "name": "Old Crow",
+      "coordinates": [
+        -139.84,
+        67.57
+      ],
+      "region": "Yukon, Canada",
+      "approximate": false
+    },
+    "Mayo": {
+      "name": "Mayo",
+      "coordinates": [
+        -135.89984,
+        63.59274
+      ],
+      "region": "Yukon, Canada",
+      "approximate": false,
+      "geonamesId": "6068416"
+    },
+    "Dawson City": {
+      "name": "Dawson City",
+      "coordinates": [
+        -139.43328,
+        64.06013
+      ],
+      "region": "Yukon, Canada",
+      "approximate": false,
+      "geonamesId": "6943713"
+    },
+    "Victoria": {
+      "name": "Victoria",
+      "coordinates": [
+        -123.35155,
+        48.4359
+      ],
+      "region": "British Columbia, Canada",
+      "approximate": false,
+      "geonamesId": "6174041"
+    },
+    "Arima": {
+      "name": "Arima",
+      "coordinates": [
+        135.25,
+        34.8
+      ],
+      "region": "Hyogo, Japan",
+      "approximate": false
+    },
+    "Uji": {
+      "name": "Uji",
+      "coordinates": [
+        135.80325,
+        34.89044
+      ],
+      "region": "Kyoto, Japan",
+      "approximate": false,
+      "geonamesId": "1849372"
+    },
+    "Kyoto": {
+      "name": "Kyoto",
+      "coordinates": [
+        135.75385,
+        35.02107
+      ],
+      "region": "Kyoto, Japan",
+      "approximate": false,
+      "geonamesId": "1857910"
+    },
+    "Shirahama": {
+      "name": "Shirahama",
+      "coordinates": [
+        135.35,
+        33.68333
+      ],
+      "region": "Wakayama, Japan",
+      "approximate": false,
+      "geonamesId": "1851936"
+    },
+    "Hiroshima": {
+      "name": "Hiroshima",
+      "coordinates": [
+        132.45,
+        34.4
+      ],
+      "region": "Hiroshima, Japan",
+      "approximate": false,
+      "geonamesId": "1862415"
+    },
+    "Miyajima": {
+      "name": "Miyajima",
+      "coordinates": [
+        132.32186,
+        34.29907
+      ],
+      "region": "Hiroshima, Japan",
+      "approximate": false,
+      "geonamesId": "1856798"
+    },
+    "Hofu": {
+      "name": "Hofu",
+      "coordinates": [
+        131.56667,
+        34.05
+      ],
+      "region": "Yamaguchi, Japan",
+      "approximate": false,
+      "geonamesId": "1862302"
+    },
+    "Yamaguchi": {
+      "name": "Yamaguchi",
+      "coordinates": [
+        131.46667,
+        34.18333
+      ],
+      "region": "Yamaguchi, Japan",
+      "approximate": false,
+      "geonamesId": "1848689"
+    },
+    "Hagi": {
+      "name": "Hagi",
+      "coordinates": [
+        131.41667,
+        34.4
+      ],
+      "region": "Yamaguchi, Japan",
+      "approximate": false,
+      "geonamesId": "1863418"
+    },
+    "Shimonoseki": {
+      "name": "Shimonoseki",
+      "coordinates": [
+        130.93713,
+        33.95548
+      ],
+      "region": "Yamaguchi, Japan",
+      "approximate": false,
+      "geonamesId": "1852225"
+    },
+    "Nagato": {
+      "name": "Nagato",
+      "coordinates": [
+        131.2,
+        34.38333
+      ],
+      "region": "Yamaguchi, Japan",
+      "approximate": false,
+      "geonamesId": "1899102"
+    },
+    "Moji": {
+      "name": "Moji",
+      "coordinates": [
+        130.96,
+        33.95
+      ],
+      "region": "Fukuoka, Japan",
+      "approximate": false
+    },
+    "Asakura": {
+      "name": "Asakura",
+      "coordinates": [
+        130.71877,
+        33.41439
+      ],
+      "region": "Fukuoka, Japan",
+      "approximate": false,
+      "geonamesId": "11612701"
+    },
+    "Dazaifu": {
+      "name": "Dazaifu",
+      "coordinates": [
+        130.52389,
+        33.51278
+      ],
+      "region": "Fukuoka, Japan",
+      "approximate": false,
+      "geonamesId": "7422816"
+    },
+    "Munakata": {
+      "name": "Munakata",
+      "coordinates": [
+        130.55895,
+        33.7957
+      ],
+      "region": "Fukuoka, Japan",
+      "approximate": false,
+      "geonamesId": "11611614"
+    },
+    "Fukuoka": {
+      "name": "Fukuoka",
+      "coordinates": [
+        130.41667,
+        33.6
+      ],
+      "region": "Fukuoka, Japan",
+      "approximate": false,
+      "geonamesId": "1863967"
+    },
+    "Nagoya": {
+      "name": "Nagoya",
+      "coordinates": [
+        136.90641,
+        35.18147
+      ],
+      "region": "Aichi, Japan",
+      "approximate": false,
+      "geonamesId": "1856057"
+    },
+    "Nara": {
+      "name": "Nara",
+      "coordinates": [
+        135.80485,
+        34.68505
+      ],
+      "region": "Nara, Japan",
+      "approximate": false,
+      "geonamesId": "1855612"
+    },
+    "Wakayama": {
+      "name": "Wakayama",
+      "coordinates": [
+        135.16667,
+        34.23333
+      ],
+      "region": "Wakayama, Japan",
+      "approximate": false,
+      "geonamesId": "1926004"
+    },
+    "Himeji": {
+      "name": "Himeji",
+      "coordinates": [
+        134.7,
+        34.81667
+      ],
+      "region": "Hyogo, Japan",
+      "approximate": false,
+      "geonamesId": "1862627"
+    },
+    "Takahashi": {
+      "name": "Takahashi",
+      "coordinates": [
+        133.61667,
+        34.78333
+      ],
+      "region": "Okayama, Japan",
+      "approximate": false,
+      "geonamesId": "1851137"
+    },
+    "Mimasaka": {
+      "name": "Mimasaka",
+      "coordinates": [
+        134.15,
+        35.0
+      ],
+      "region": "Okayama, Japan",
+      "approximate": false,
+      "geonamesId": "1862968"
+    },
+    "Okayama": {
+      "name": "Okayama",
+      "coordinates": [
+        133.93333,
+        34.65
+      ],
+      "region": "Okayama, Japan",
+      "approximate": false,
+      "geonamesId": "1854383"
+    },
+    "Kurashiki": {
+      "name": "Kurashiki",
+      "coordinates": [
+        133.76667,
+        34.58333
+      ],
+      "region": "Okayama, Japan",
+      "approximate": false,
+      "geonamesId": "1858311"
+    },
+    "Kojima": {
+      "name": "Kojima",
+      "coordinates": [
+        133.81,
+        34.46
+      ],
+      "region": "Okayama, Japan",
+      "approximate": false
+    },
+    "Kotohira": {
+      "name": "Kotohira",
+      "coordinates": [
+        133.81667,
+        34.18333
+      ],
+      "region": "Kagawa, Japan",
+      "approximate": false,
+      "geonamesId": "1858667"
+    },
+    "Marugame": {
+      "name": "Marugame",
+      "coordinates": [
+        133.78333,
+        34.28333
+      ],
+      "region": "Kagawa, Japan",
+      "approximate": false,
+      "geonamesId": "1857665"
+    },
+    "Matsuyama": {
+      "name": "Matsuyama",
+      "coordinates": [
+        132.76574,
+        33.83916
+      ],
+      "region": "Ehime, Japan",
+      "approximate": false,
+      "geonamesId": "1926099"
+    },
+    "Ozu": {
+      "name": "Ozu",
+      "coordinates": [
+        132.55,
+        33.5
+      ],
+      "region": "Ehime, Japan",
+      "approximate": false,
+      "geonamesId": "1926055"
+    },
+    "Uwajima": {
+      "name": "Uwajima",
+      "coordinates": [
+        132.56001,
+        33.22375
+      ],
+      "region": "Ehime, Japan",
+      "approximate": false,
+      "geonamesId": "1926020"
+    },
+    "Shimanto": {
+      "name": "Shimanto",
+      "coordinates": [
+        132.98635,
+        32.94584
+      ],
+      "region": "Kochi, Japan",
+      "approximate": false,
+      "geonamesId": "1852358"
+    },
+    "Kochi": {
+      "name": "Kochi",
+      "coordinates": [
+        133.53333,
+        33.55
+      ],
+      "region": "Kochi, Japan",
+      "approximate": false,
+      "geonamesId": "1859146"
+    },
+    "Oboke": {
+      "name": "Oboke",
+      "coordinates": [
+        133.76,
+        33.88
+      ],
+      "region": "Tokushima, Japan",
+      "approximate": false
+    },
+    "Takamatsu": {
+      "name": "Takamatsu",
+      "coordinates": [
+        134.05,
+        34.33333
+      ],
+      "region": "Kagawa, Japan",
+      "approximate": false,
+      "geonamesId": "1851100"
+    },
+    "Naha": {
+      "name": "Naha",
+      "coordinates": [
+        127.67851,
+        26.213
+      ],
+      "region": "Okinawa, Japan",
+      "approximate": false,
+      "geonamesId": "1856035"
+    },
+    "Onna": {
+      "name": "Onna",
+      "coordinates": [
+        127.85098,
+        26.49543
+      ],
+      "region": "Okinawa, Japan",
+      "approximate": false,
+      "geonamesId": "1854037"
+    },
+    "Nakagami": {
+      "name": "Nakagami",
+      "coordinates": [
+        127.8,
+        26.32
+      ],
+      "region": "Okinawa, Japan",
+      "approximate": true
+    },
+    "Ishigaki": {
+      "name": "Ishigaki",
+      "coordinates": [
+        124.15717,
+        24.34478
+      ],
+      "region": "Okinawa, Japan",
+      "approximate": false,
+      "geonamesId": "1861416"
+    },
+    "Iriomote": {
+      "name": "Iriomote",
+      "coordinates": [
+        123.81,
+        24.34
+      ],
+      "region": "Okinawa, Japan",
+      "approximate": true
+    },
+    "Narita": {
+      "name": "Narita",
+      "coordinates": [
+        140.31667,
+        35.78333
+      ],
+      "region": "Chiba, Japan",
+      "approximate": false,
+      "geonamesId": "2111684"
+    },
+    "Kamakura": {
+      "name": "Kamakura",
+      "coordinates": [
+        139.54698,
+        35.31085
+      ],
+      "region": "Kanagawa, Japan",
+      "approximate": false,
+      "geonamesId": "1860672"
+    },
+    "Fujisawa": {
+      "name": "Fujisawa",
+      "coordinates": [
+        139.47666,
+        35.34926
+      ],
+      "region": "Kanagawa, Japan",
+      "approximate": false,
+      "geonamesId": "1864092"
+    },
+    "Hakone": {
+      "name": "Hakone",
+      "coordinates": [
+        139.02649,
+        35.18945
+      ],
+      "region": "Kanagawa, Japan",
+      "approximate": false,
+      "geonamesId": "1863357"
+    },
+    "Kawaguchiko": {
+      "name": "Kawaguchiko",
+      "coordinates": [
+        138.75,
+        35.5
+      ],
+      "region": "Yamanashi, Japan",
+      "approximate": false
+    },
+    "Tachikawa": {
+      "name": "Tachikawa",
+      "coordinates": [
+        139.41891,
+        35.7091
+      ],
+      "region": "Tokyo, Japan",
+      "approximate": false,
+      "geonamesId": "11611487"
+    },
+    "Tama": {
+      "name": "Tama",
+      "coordinates": [
+        139.46844,
+        35.6436
+      ],
+      "region": "Tokyo, Japan",
+      "approximate": false,
+      "geonamesId": "6822129"
+    },
+    "Manila": {
+      "name": "Manila",
+      "coordinates": [
+        120.9822,
+        14.6042
+      ],
+      "region": "National Capital Region, Philippines",
+      "approximate": false,
+      "geonamesId": "1701668",
+      "admin1": "National Capital Region",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Baler": {
+      "name": "Baler",
+      "coordinates": [
+        121.5607,
+        15.7589
+      ],
+      "region": "Aurora, Philippines",
+      "approximate": false,
+      "geonamesId": "1728264",
+      "admin1": "Aurora",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Santiago": {
+      "name": "Santiago",
+      "coordinates": [
+        121.5487,
+        16.68808
+      ],
+      "region": "Isabela, Philippines",
+      "approximate": false,
+      "geonamesId": "1687801",
+      "admin1": "Isabela",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Banaue": {
+      "name": "Banaue",
+      "coordinates": [
+        121.06184,
+        16.91356
+      ],
+      "region": "Ifugao, Philippines",
+      "approximate": false,
+      "geonamesId": "1727529",
+      "admin1": "Ifugao",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Sadanga": {
+      "name": "Sadanga",
+      "coordinates": [
+        121.01724,
+        17.16514
+      ],
+      "region": "Mountain Province, Philippines",
+      "approximate": false,
+      "geonamesId": "1691210",
+      "admin1": "Mountain Province",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Tabuk": {
+      "name": "Tabuk",
+      "coordinates": [
+        121.44157,
+        17.41456
+      ],
+      "region": "Kalinga, Philippines",
+      "approximate": false,
+      "geonamesId": "8031389",
+      "admin1": "Kalinga",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Vigan": {
+      "name": "Vigan",
+      "coordinates": [
+        120.38694,
+        17.57472
+      ],
+      "region": "Ilocos Sur, Philippines",
+      "approximate": false,
+      "geonamesId": "1679980",
+      "admin1": "Ilocos Sur",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Baguio": {
+      "name": "Baguio",
+      "coordinates": [
+        120.59306,
+        16.41639
+      ],
+      "region": "Cordillera Administrative Region, Philippines",
+      "approximate": false,
+      "geonamesId": "1728930",
+      "admin1": "Cordillera Administrative Region",
+      "country": "Philippines",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Kobe": {
+      "name": "Kobe",
+      "coordinates": [
+        135.183,
+        34.6913
+      ],
+      "region": "Hyogo, Japan",
+      "approximate": false,
+      "geonamesId": "1859171"
+    },
+    "Oita": {
+      "name": "Oita",
+      "coordinates": [
+        131.6,
+        33.23333
+      ],
+      "region": "Oita, Japan",
+      "approximate": false,
+      "geonamesId": "1854487"
+    },
+    "Beppu": {
+      "name": "Beppu",
+      "coordinates": [
+        131.49751,
+        33.27945
+      ],
+      "region": "Oita, Japan",
+      "approximate": false,
+      "geonamesId": "1864750"
+    },
+    "Yufuin": {
+      "name": "Yufuin",
+      "coordinates": [
+        131.36,
+        33.27
+      ],
+      "region": "Oita, Japan",
+      "approximate": false
+    },
+    "Beijing": {
+      "name": "Beijing",
+      "coordinates": [
+        116.39723,
+        39.9075
+      ],
+      "region": "Beijing, China",
+      "approximate": false,
+      "geonamesId": "1816670"
+    },
+    "Tianjin": {
+      "name": "Tianjin",
+      "coordinates": [
+        117.17667,
+        39.14222
+      ],
+      "region": "Tianjin, China",
+      "approximate": false,
+      "geonamesId": "1792947"
+    },
+    "Zhangjiakou": {
+      "name": "Zhangjiakou",
+      "coordinates": [
+        114.87139,
+        40.78341
+      ],
+      "region": "Hebei, China",
+      "approximate": false,
+      "geonamesId": "2033196"
+    },
+    "Baoding": {
+      "name": "Baoding",
+      "coordinates": [
+        115.46246,
+        38.87288
+      ],
+      "region": "Hebei, China",
+      "approximate": false,
+      "geonamesId": "1816971"
+    },
+    "Chongqing": {
+      "name": "Chongqing",
+      "coordinates": [
+        106.55771,
+        29.56026
+      ],
+      "region": "Chongqing, China",
+      "approximate": false,
+      "geonamesId": "1814906"
+    },
+    "Chengdu": {
+      "name": "Chengdu",
+      "coordinates": [
+        104.06667,
+        30.66667
+      ],
+      "region": "Sichuan, China",
+      "approximate": false,
+      "geonamesId": "1815286"
+    },
+    "Taoyuan": {
+      "name": "Taoyuan",
+      "coordinates": [
+        121.29696,
+        24.99368
+      ],
+      "region": "Taoyuan, Taiwan",
+      "approximate": false,
+      "geonamesId": "6696918",
+      "admin1": "Taoyuan",
+      "country": "Taiwan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Hsinchu": {
+      "name": "Hsinchu",
+      "coordinates": [
+        120.96861,
+        24.80361
+      ],
+      "region": "Hsinchu, Taiwan",
+      "approximate": false,
+      "geonamesId": "1675151",
+      "admin1": "Hsinchu",
+      "country": "Taiwan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Kaohsiung": {
+      "name": "Kaohsiung",
+      "coordinates": [
+        120.31333,
+        22.61626
+      ],
+      "region": "Kaohsiung, Taiwan",
+      "approximate": false,
+      "geonamesId": "1673820",
+      "admin1": "Kaohsiung",
+      "country": "Taiwan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Tainan": {
+      "name": "Tainan",
+      "coordinates": [
+        120.21333,
+        22.99083
+      ],
+      "region": "Tainan, Taiwan",
+      "approximate": false,
+      "geonamesId": "1668355",
+      "admin1": "Tainan",
+      "country": "Taiwan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Hualien": {
+      "name": "Hualien",
+      "coordinates": [
+        121.60444,
+        23.97694
+      ],
+      "region": "Hualien, Taiwan",
+      "approximate": false,
+      "geonamesId": "1674504",
+      "admin1": "Hualien",
+      "country": "Taiwan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Taipei": {
+      "name": "Taipei",
+      "coordinates": [
+        121.52639,
+        25.05306
+      ],
+      "region": "Taipei, Taiwan",
+      "approximate": false,
+      "geonamesId": "1668341",
+      "admin1": "Taipei",
+      "country": "Taiwan",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Dunhuang": {
+      "name": "Dunhuang",
+      "coordinates": [
+        94.68333,
+        40.16667
+      ],
+      "region": "Gansu, China",
+      "approximate": false,
+      "geonamesId": "1529531"
+    },
+    "Qingdao": {
+      "name": "Qingdao",
+      "coordinates": [
+        120.38042,
+        36.06488
+      ],
+      "region": "Shandong, China",
+      "approximate": false,
+      "geonamesId": "1797929"
+    },
+    "Jinan": {
+      "name": "Jinan",
+      "coordinates": [
+        116.99722,
+        36.66833
+      ],
+      "region": "Shandong, China",
+      "approximate": false,
+      "geonamesId": "1805753"
+    },
+    "Dandong": {
+      "name": "Dandong",
+      "coordinates": [
+        124.39472,
+        40.12917
+      ],
+      "region": "Liaoning, China",
+      "approximate": false,
+      "geonamesId": "2037886"
+    },
+    "Changchun": {
+      "name": "Changchun",
+      "coordinates": [
+        125.32278,
+        43.88
+      ],
+      "region": "Jilin, China",
+      "approximate": false,
+      "geonamesId": "2038180"
+    },
+    "Harbin": {
+      "name": "Harbin",
+      "coordinates": [
+        126.65,
+        45.75
+      ],
+      "region": "Heilongjiang, China",
+      "approximate": false,
+      "geonamesId": "2037013"
+    },
+    "Fuyuan": {
+      "name": "Fuyuan",
+      "coordinates": [
+        134.29843,
+        48.36346
+      ],
+      "region": "Heilongjiang, China",
+      "approximate": false,
+      "geonamesId": "2037330"
+    },
+    "Wuyuan": {
+      "name": "Wuyuan",
+      "coordinates": [
+        117.85472,
+        29.24972
+      ],
+      "region": "Jiangxi, China",
+      "approximate": false,
+      "geonamesId": "1790863"
+    },
+    "Anyang": {
+      "name": "Anyang",
+      "coordinates": [
+        114.38278,
+        36.096
+      ],
+      "region": "Henan, China",
+      "approximate": false,
+      "geonamesId": "1785294"
+    },
+    "Zhengzhou": {
+      "name": "Zhengzhou",
+      "coordinates": [
+        113.64861,
+        34.75778
+      ],
+      "region": "Henan, China",
+      "approximate": false,
+      "geonamesId": "1784658"
+    },
+    "Oroqen": {
+      "name": "Oroqen",
+      "coordinates": [
+        123.73,
+        50.59
+      ],
+      "region": "Inner Mongolia, China",
+      "approximate": true
+    },
+    "Jiagedaqi": {
+      "name": "Jiagedaqi",
+      "coordinates": [
+        124.11667,
+        50.41667
+      ],
+      "region": "Heilongjiang, China",
+      "approximate": false,
+      "geonamesId": "2036597"
+    },
+    "Seattle": {
+      "name": "Seattle",
+      "coordinates": [
+        -122.33207,
+        47.60621
+      ],
+      "region": "Washington, USA",
+      "approximate": false,
+      "geonamesId": "5809844"
+    },
+    "Tacoma": {
+      "name": "Tacoma",
+      "coordinates": [
+        -122.44429,
+        47.25288
+      ],
+      "region": "Washington, USA",
+      "approximate": false,
+      "geonamesId": "5812944"
+    },
+    "Everett": {
+      "name": "Everett",
+      "coordinates": [
+        -122.20208,
+        47.97898
+      ],
+      "region": "Washington, USA",
+      "approximate": false,
+      "geonamesId": "5793933"
+    },
+    "Olympia": {
+      "name": "Olympia",
+      "coordinates": [
+        -122.90169,
+        47.04491
+      ],
+      "region": "Washington, USA",
+      "approximate": false,
+      "geonamesId": "5805687"
+    },
+    "Snoqualmie": {
+      "name": "Snoqualmie",
+      "coordinates": [
+        -121.82539,
+        47.52871
+      ],
+      "region": "Washington, USA",
+      "approximate": false,
+      "geonamesId": "5810995"
+    },
+    "Yakima": {
+      "name": "Yakima",
+      "coordinates": [
+        -120.5059,
+        46.60207
+      ],
+      "region": "Washington, USA",
+      "approximate": false,
+      "geonamesId": "5816605"
+    },
+    "Spokane": {
+      "name": "Spokane",
+      "coordinates": [
+        -117.42908,
+        47.65966
+      ],
+      "region": "Washington, USA",
+      "approximate": false,
+      "geonamesId": "5811696"
+    },
+    "Maryhill": {
+      "name": "Maryhill",
+      "coordinates": [
+        -120.81,
+        45.69
+      ],
+      "region": "Washington, USA",
+      "approximate": false
+    },
+    "Hood River": {
+      "name": "Hood River",
+      "coordinates": [
+        -121.52146,
+        45.7054
+      ],
+      "region": "Oregon, USA",
+      "approximate": false,
+      "geonamesId": "5731777"
+    },
+    "Portland": {
+      "name": "Portland",
+      "coordinates": [
+        -122.67621,
+        45.52345
+      ],
+      "region": "Oregon, USA",
+      "approximate": false,
+      "geonamesId": "5746545"
+    },
+    "San Jose": {
+      "name": "San Jose",
+      "coordinates": [
+        -121.89496,
+        37.33939
+      ],
+      "region": "California, USA",
+      "approximate": false,
+      "geonamesId": "5392171"
+    },
+    "Mountain View": {
+      "name": "Mountain View",
+      "coordinates": [
+        -122.08385,
+        37.38605
+      ],
+      "region": "California, USA",
+      "approximate": false,
+      "geonamesId": "5375480"
+    },
+    "San Francisco": {
+      "name": "San Francisco",
+      "coordinates": [
+        -122.41942,
+        37.77493
+      ],
+      "region": "California, USA",
+      "approximate": false,
+      "geonamesId": "5391959"
+    },
+    "Chicago": {
+      "name": "Chicago",
+      "coordinates": [
+        -87.65005,
+        41.85003
+      ],
+      "region": "Illinois, USA",
+      "approximate": false,
+      "geonamesId": "4887398"
+    },
+    "Niagara Falls": {
+      "name": "Niagara Falls",
+      "coordinates": [
+        -79.05671,
+        43.0945
+      ],
+      "region": "New York, USA",
+      "approximate": false,
+      "geonamesId": "5128723"
+    },
+    "Buffalo": {
+      "name": "Buffalo",
+      "coordinates": [
+        -78.87837,
+        42.88645
+      ],
+      "region": "New York, USA",
+      "approximate": false,
+      "geonamesId": "5110629"
+    },
+    "Minneapolis": {
+      "name": "Minneapolis",
+      "coordinates": [
+        -93.26384,
+        44.97997
+      ],
+      "region": "Minnesota, USA",
+      "approximate": false,
+      "geonamesId": "5037649"
+    },
+    "Belgrade": {
+      "name": "Belgrade",
+      "coordinates": [
+        20.46513,
+        44.80401
+      ],
+      "region": "Belgrade, Serbia",
+      "approximate": false,
+      "geonamesId": "792680",
+      "admin1": "Belgrade",
+      "country": "Serbia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Novi Sad": {
+      "name": "Novi Sad",
+      "coordinates": [
+        19.83694,
+        45.25167
+      ],
+      "region": "Vojvodina, Serbia",
+      "approximate": false,
+      "geonamesId": "3194360",
+      "admin1": "Vojvodina",
+      "country": "Serbia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Niš": {
+      "name": "Niš",
+      "coordinates": [
+        21.90333,
+        43.32472
+      ],
+      "region": "Nišava District, Serbia",
+      "approximate": false,
+      "geonamesId": "787657",
+      "admin1": "Nišava District",
+      "country": "Serbia",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Kotor": {
+      "name": "Kotor",
+      "coordinates": [
+        18.76825,
+        42.42067
+      ],
+      "region": "Kotor, Montenegro",
+      "approximate": false,
+      "geonamesId": "3197538",
+      "admin1": "Kotor",
+      "country": "Montenegro",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+    },
+    "Mostar": {
+      "name": "Mostar",
+      "coordinates": [
+        17.80806,
+        43.34333
+      ],
+      "region": "Herzegovina-Neretva Canton, Bosnia and Herzegovina",
+      "approximate": false,
+      "geonamesId": "3194828",
+      "admin1": "Herzegovina-Neretva Canton",
+      "country": "Bosnia and Herzegovina",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Sarajevo": {
+      "name": "Sarajevo",
+      "coordinates": [
+        18.35644,
+        43.84864
+      ],
+      "region": "Sarajevo Canton, Bosnia and Herzegovina",
+      "approximate": false,
+      "geonamesId": "3191281",
+      "admin1": "Sarajevo Canton",
+      "country": "Bosnia and Herzegovina",
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+    },
+    "Detroit": {
+      "name": "Detroit",
+      "coordinates": [
+        -83.04575,
+        42.33143
+      ],
+      "region": "Michigan, USA",
+      "approximate": false,
+      "geonamesId": "4990729"
+    },
+    "Durham": {
+      "name": "Durham",
+      "coordinates": [
+        -78.89862,
+        35.99403
+      ],
+      "region": "North Carolina, USA",
+      "approximate": false,
+      "geonamesId": "4464368"
+    }
+  },
+  "languages": [
+    {
+      "name": "汉语",
+      "lang": "zh-Hans",
+      "quote": "知之者不如好之者，好之者不如乐之者。",
+      "author": "孔子",
+      "work": "论语·雍也",
+      "source": "https://ctext.org/text.pl?if=en&node=1240&show=parallel"
+    },
+    {
+      "name": "English",
+      "lang": "en",
+      "quote": "All the world’s a stage.",
+      "author": "William Shakespeare",
+      "work": "As You Like It, II.7",
+      "source": "https://www.folger.edu/explore/shakespeares-works/as-you-like-it/read/2/7/"
+    },
+    {
+      "name": "日本語",
+      "lang": "ja",
+      "quote": "古池や蛙飛びこむ水の音",
+      "author": "松尾芭蕉",
+      "source": "https://www.gakushikai.or.jp/magazine/article/archives/archives_859/"
+    },
+    {
+      "name": "Deutsch",
+      "lang": "de",
+      "quote": "Hier bin ich Mensch, hier darf ich’s sein.",
+      "author": "Johann Wolfgang von Goethe",
+      "work": "Faust I, 940",
+      "source": "https://de.wikisource.org/wiki/Faust_-_Der_Tragödie_erster_Teil",
+      "note": "Modern spelling: sein for historical seyn."
+    },
+    {
+      "name": "Lingua Latina",
+      "lang": "la",
+      "quote": "Omnia vincit Amor: et nos cedamus Amori.",
+      "author": "Vergilius",
+      "work": "Ecloga X, 69",
+      "source": "https://www.thelatinlibrary.com/vergil/ec10.shtml",
+      "note": "v/u spelling normalized."
+    },
+    {
+      "name": "Русский",
+      "lang": "ru",
+      "quote": "Да здравствует солнце, да скроется тьма!",
+      "author": "Александр Пушкин",
+      "work": "Вакхическая песня",
+      "source": "https://ru.wikisource.org/wiki/Вакхическая_песня_(Пушкин)"
+    }
+  ],
+  "notes": {
+    "connections": "Lines connect recorded stops and do not represent actual roads or flight paths.",
+    "returns": "Departure and return links inferred from the original >/< notation are retained as city connections.",
+    "approximate": "Cappadocia, Nakagami, Iriomote, Oroqen and the Aral Sea use regional reference points.",
+    "aliases": {
+      "Haloong": "Ha Long",
+      "Kota Kinabaru": "Kota Kinabalu",
+      "Saba": "Sabah",
+      "Bayannaoer": "Bayannur",
+      "Safranboru": "Safranbolu",
+      "Troya": "Troy",
+      "Hualian": "Hualien",
+      "Elunchun": "Oroqen",
+      "Everette": "Everett",
+      "Monji": "Moji",
+      "Munagata": "Munakata",
+      "Dawson": "Dawson City",
+      "Chicago, MI": "Chicago, Illinois"
+    },
+    "coordinates": "City-centre reference points, checked against GeoNames where a matching city record is available. Small localities and regions use approximate reference points.",
+    "sources": [
+      "https://download.geonames.org/export/dump/ (GeoNames, CC BY 4.0)",
+      "https://www.geonames.org/6068416/mayo.html",
+      "https://weather.gc.ca/past_conditions/index_e.html?station=zoc",
+      "https://www.naturalearthdata.com/ (Natural Earth, public domain)",
+      "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "https://download.geonames.org/export/dump/admin2Codes.txt"
+    ],
+    "administrativeAreas": "Administrative areas filled from GeoNames, with local province/municipality equivalents. Singapore is displayed as Singapore, Singapore. Cappadocia and the Aral Sea remain regions.",
+    "baseCities": "Initially inferred from the relocation headings and the Tacoma base entry in the supplied place list."
+  },
+  "connections": [
+    {
+      "from": "Jilin",
+      "to": "Huanren"
+    },
+    {
+      "from": "Huanren",
+      "to": "Jilin"
+    },
+    {
+      "from": "Jilin",
+      "to": "Shenyang"
+    },
+    {
+      "from": "Shenyang",
+      "to": "Jilin"
+    },
+    {
+      "from": "Jilin",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Guangzhou"
+    },
+    {
+      "from": "Guangzhou",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Nanjing"
+    },
+    {
+      "from": "Nanjing",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Hangzhou"
+    },
+    {
+      "from": "Hangzhou",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Ma'anshan"
+    },
+    {
+      "from": "Ma'anshan",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Huangshan"
+    },
+    {
+      "from": "Huangshan",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Hefei"
+    },
+    {
+      "from": "Hefei",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Weihai"
+    },
+    {
+      "from": "Weihai",
+      "to": "Dalian"
+    },
+    {
+      "from": "Dalian",
+      "to": "Huanren"
+    },
+    {
+      "from": "Huanren",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Changsha"
+    },
+    {
+      "from": "Changsha",
+      "to": "Zhangjiajie"
+    },
+    {
+      "from": "Zhangjiajie",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Haikou"
+    },
+    {
+      "from": "Haikou",
+      "to": "Danzhou"
+    },
+    {
+      "from": "Danzhou",
+      "to": "Sanya"
+    },
+    {
+      "from": "Sanya",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Shouxian"
+    },
+    {
+      "from": "Shouxian",
+      "to": "Huaiyang"
+    },
+    {
+      "from": "Huaiyang",
+      "to": "Luoyang"
+    },
+    {
+      "from": "Luoyang",
+      "to": "Yuncheng"
+    },
+    {
+      "from": "Yuncheng",
+      "to": "Fenyang"
+    },
+    {
+      "from": "Fenyang",
+      "to": "Pingyao"
+    },
+    {
+      "from": "Pingyao",
+      "to": "Taiyuan"
+    },
+    {
+      "from": "Taiyuan",
+      "to": "Yingxian"
+    },
+    {
+      "from": "Yingxian",
+      "to": "Datong"
+    },
+    {
+      "from": "Datong",
+      "to": "Shijiazhuang"
+    },
+    {
+      "from": "Shijiazhuang",
+      "to": "Xuzhou"
+    },
+    {
+      "from": "Xuzhou",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shouxian",
+      "to": "Luoyang"
+    },
+    {
+      "from": "Luoyang",
+      "to": "Zhangzi"
+    },
+    {
+      "from": "Zhangzi",
+      "to": "Taiyuan"
+    },
+    {
+      "from": "Taiyuan",
+      "to": "Shuozhou"
+    },
+    {
+      "from": "Shuozhou",
+      "to": "Hohhot"
+    },
+    {
+      "from": "Hohhot",
+      "to": "Baotou"
+    },
+    {
+      "from": "Baotou",
+      "to": "Bayannur"
+    },
+    {
+      "from": "Bayannur",
+      "to": "Ejina"
+    },
+    {
+      "from": "Ejina",
+      "to": "Jiayuguan"
+    },
+    {
+      "from": "Jiayuguan",
+      "to": "Jiuquan"
+    },
+    {
+      "from": "Jiuquan",
+      "to": "Lanzhou"
+    },
+    {
+      "from": "Lanzhou",
+      "to": "Yinchuan"
+    },
+    {
+      "from": "Yinchuan",
+      "to": "Yan'an"
+    },
+    {
+      "from": "Yan'an",
+      "to": "Houma"
+    },
+    {
+      "from": "Houma",
+      "to": "Changzhi"
+    },
+    {
+      "from": "Changzhi",
+      "to": "Jiaozuo"
+    },
+    {
+      "from": "Jiaozuo",
+      "to": "Xuzhou"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Lianyungang"
+    },
+    {
+      "from": "Lianyungang",
+      "to": "Qufu"
+    },
+    {
+      "from": "Qufu",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Mianyang"
+    },
+    {
+      "from": "Mianyang",
+      "to": "Guanghan"
+    },
+    {
+      "from": "Guanghan",
+      "to": "Beichuan"
+    },
+    {
+      "from": "Beichuan",
+      "to": "Jiangyou"
+    },
+    {
+      "from": "Jiangyou",
+      "to": "Qingchuan"
+    },
+    {
+      "from": "Qingchuan",
+      "to": "Jiuzhaigou"
+    },
+    {
+      "from": "Jiuzhaigou",
+      "to": "Longnan"
+    },
+    {
+      "from": "Longnan",
+      "to": "Huixian"
+    },
+    {
+      "from": "Huixian",
+      "to": "Baoji"
+    },
+    {
+      "from": "Baoji",
+      "to": "Qishan"
+    },
+    {
+      "from": "Qishan",
+      "to": "Fufeng"
+    },
+    {
+      "from": "Fufeng",
+      "to": "Xi'an"
+    },
+    {
+      "from": "Xi'an",
+      "to": "Huxian"
+    },
+    {
+      "from": "Huxian",
+      "to": "Foping"
+    },
+    {
+      "from": "Foping",
+      "to": "Hanzhong"
+    },
+    {
+      "from": "Hanzhong",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Sapporo"
+    },
+    {
+      "from": "Sapporo",
+      "to": "Asahikawa"
+    },
+    {
+      "from": "Asahikawa",
+      "to": "Otaru"
+    },
+    {
+      "from": "Otaru",
+      "to": "Hakodate"
+    },
+    {
+      "from": "Hakodate",
+      "to": "Tokyo"
+    },
+    {
+      "from": "Tokyo",
+      "to": "Yokosuka"
+    },
+    {
+      "from": "Yokosuka",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Jeju"
+    },
+    {
+      "from": "Jeju",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Hong Kong"
+    },
+    {
+      "from": "Hong Kong",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Macau"
+    },
+    {
+      "from": "Macau",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Shenzhen"
+    },
+    {
+      "from": "Shenzhen",
+      "to": "Guangzhou"
+    },
+    {
+      "from": "Guangzhou",
+      "to": "Chaozhou"
+    },
+    {
+      "from": "Chaozhou",
+      "to": "Shantou"
+    },
+    {
+      "from": "Shantou",
+      "to": "Longchuan"
+    },
+    {
+      "from": "Longchuan",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Wuyishan"
+    },
+    {
+      "from": "Wuyishan",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Guilin"
+    },
+    {
+      "from": "Guilin",
+      "to": "Wuhan"
+    },
+    {
+      "from": "Wuhan",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Yangzhou"
+    },
+    {
+      "from": "Yangzhou",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Taizhou"
+    },
+    {
+      "from": "Taizhou",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Shaoxing"
+    },
+    {
+      "from": "Shaoxing",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Lishui"
+    },
+    {
+      "from": "Lishui",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Xinchang"
+    },
+    {
+      "from": "Xinchang",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Huzhou"
+    },
+    {
+      "from": "Huzhou",
+      "to": "Xuancheng"
+    },
+    {
+      "from": "Xuancheng",
+      "to": "Ma'anshan"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Dongtai"
+    },
+    {
+      "from": "Dongtai",
+      "to": "Dafeng"
+    },
+    {
+      "from": "Dafeng",
+      "to": "Sheyang"
+    },
+    {
+      "from": "Sheyang",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Jingdezhen"
+    },
+    {
+      "from": "Jingdezhen",
+      "to": "Nanchang"
+    },
+    {
+      "from": "Nanchang",
+      "to": "Jiujiang"
+    },
+    {
+      "from": "Jiujiang",
+      "to": "Jinzhai"
+    },
+    {
+      "from": "Jinzhai",
+      "to": "Guangshan"
+    },
+    {
+      "from": "Guangshan",
+      "to": "Hefei"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Phnom Penh"
+    },
+    {
+      "from": "Phnom Penh",
+      "to": "Siem Reap"
+    },
+    {
+      "from": "Siem Reap",
+      "to": "Hanoi"
+    },
+    {
+      "from": "Hanoi",
+      "to": "Ha Long"
+    },
+    {
+      "from": "Ha Long",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Singapore"
+    },
+    {
+      "from": "Singapore",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Kota Kinabalu"
+    },
+    {
+      "from": "Kota Kinabalu",
+      "to": "Semporna"
+    },
+    {
+      "from": "Semporna",
+      "to": "Kota Kinabalu"
+    },
+    {
+      "from": "Kota Kinabalu",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Istanbul"
+    },
+    {
+      "from": "Istanbul",
+      "to": "Bursa"
+    },
+    {
+      "from": "Bursa",
+      "to": "Izmir"
+    },
+    {
+      "from": "Izmir",
+      "to": "Selçuk"
+    },
+    {
+      "from": "Selçuk",
+      "to": "Kuşadası"
+    },
+    {
+      "from": "Kuşadası",
+      "to": "Denizli"
+    },
+    {
+      "from": "Denizli",
+      "to": "Çanakkale"
+    },
+    {
+      "from": "Çanakkale",
+      "to": "Fethiye"
+    },
+    {
+      "from": "Fethiye",
+      "to": "Kaş"
+    },
+    {
+      "from": "Kaş",
+      "to": "Antalya"
+    },
+    {
+      "from": "Antalya",
+      "to": "Cappadocia"
+    },
+    {
+      "from": "Cappadocia",
+      "to": "Istanbul"
+    },
+    {
+      "from": "Istanbul",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Baku"
+    },
+    {
+      "from": "Baku",
+      "to": "Sheki"
+    },
+    {
+      "from": "Sheki",
+      "to": "Tbilisi"
+    },
+    {
+      "from": "Tbilisi",
+      "to": "Gudauri"
+    },
+    {
+      "from": "Gudauri",
+      "to": "Sevan"
+    },
+    {
+      "from": "Sevan",
+      "to": "Yerevan"
+    },
+    {
+      "from": "Yerevan",
+      "to": "Tbilisi"
+    },
+    {
+      "from": "Tbilisi",
+      "to": "Batumi"
+    },
+    {
+      "from": "Batumi",
+      "to": "Artvin"
+    },
+    {
+      "from": "Artvin",
+      "to": "Kars"
+    },
+    {
+      "from": "Kars",
+      "to": "Doğubayazıt"
+    },
+    {
+      "from": "Doğubayazıt",
+      "to": "Van"
+    },
+    {
+      "from": "Van",
+      "to": "Kars"
+    },
+    {
+      "from": "Kars",
+      "to": "Divriği"
+    },
+    {
+      "from": "Divriği",
+      "to": "Sivas"
+    },
+    {
+      "from": "Sivas",
+      "to": "Ankara"
+    },
+    {
+      "from": "Ankara",
+      "to": "Istanbul"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Tashkent"
+    },
+    {
+      "from": "Tashkent",
+      "to": "Samarkand"
+    },
+    {
+      "from": "Samarkand",
+      "to": "Bukhara"
+    },
+    {
+      "from": "Bukhara",
+      "to": "Khiva"
+    },
+    {
+      "from": "Khiva",
+      "to": "Nukus"
+    },
+    {
+      "from": "Nukus",
+      "to": "Aral Sea"
+    },
+    {
+      "from": "Aral Sea",
+      "to": "Nukus"
+    },
+    {
+      "from": "Nukus",
+      "to": "Tashkent"
+    },
+    {
+      "from": "Tashkent",
+      "to": "Abu Dhabi"
+    },
+    {
+      "from": "Abu Dhabi",
+      "to": "Dubai"
+    },
+    {
+      "from": "Dubai",
+      "to": "Ankara"
+    },
+    {
+      "from": "Ankara",
+      "to": "Safranbolu"
+    },
+    {
+      "from": "Safranbolu",
+      "to": "Boğazkale"
+    },
+    {
+      "from": "Boğazkale",
+      "to": "Izmir"
+    },
+    {
+      "from": "Izmir",
+      "to": "Çeşme"
+    },
+    {
+      "from": "Çeşme",
+      "to": "Bergama"
+    },
+    {
+      "from": "Bergama",
+      "to": "Çanakkale"
+    },
+    {
+      "from": "Çanakkale",
+      "to": "Troy"
+    },
+    {
+      "from": "Troy",
+      "to": "Istanbul"
+    },
+    {
+      "from": "Jeju",
+      "to": "Gwangju"
+    },
+    {
+      "from": "Gwangju",
+      "to": "Seoul"
+    },
+    {
+      "from": "Seoul",
+      "to": "Dorasan"
+    },
+    {
+      "from": "Dorasan",
+      "to": "Sokcho"
+    },
+    {
+      "from": "Sokcho",
+      "to": "Seoul"
+    },
+    {
+      "from": "Seoul",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Osaka"
+    },
+    {
+      "from": "Osaka",
+      "to": "Vancouver"
+    },
+    {
+      "from": "Vancouver",
+      "to": "Whitehorse"
+    },
+    {
+      "from": "Whitehorse",
+      "to": "Old Crow"
+    },
+    {
+      "from": "Old Crow",
+      "to": "Whitehorse"
+    },
+    {
+      "from": "Whitehorse",
+      "to": "Mayo"
+    },
+    {
+      "from": "Mayo",
+      "to": "Dawson City"
+    },
+    {
+      "from": "Dawson City",
+      "to": "Whitehorse"
+    },
+    {
+      "from": "Whitehorse",
+      "to": "Vancouver"
+    },
+    {
+      "from": "Vancouver",
+      "to": "Victoria"
+    },
+    {
+      "from": "Victoria",
+      "to": "Vancouver"
+    },
+    {
+      "from": "Vancouver",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Osaka",
+      "to": "Arima"
+    },
+    {
+      "from": "Arima",
+      "to": "Uji"
+    },
+    {
+      "from": "Uji",
+      "to": "Kyoto"
+    },
+    {
+      "from": "Kyoto",
+      "to": "Shirahama"
+    },
+    {
+      "from": "Shirahama",
+      "to": "Osaka"
+    },
+    {
+      "from": "Osaka",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Hiroshima"
+    },
+    {
+      "from": "Hiroshima",
+      "to": "Miyajima"
+    },
+    {
+      "from": "Miyajima",
+      "to": "Hofu"
+    },
+    {
+      "from": "Hofu",
+      "to": "Yamaguchi"
+    },
+    {
+      "from": "Yamaguchi",
+      "to": "Hagi"
+    },
+    {
+      "from": "Hagi",
+      "to": "Shimonoseki"
+    },
+    {
+      "from": "Shimonoseki",
+      "to": "Nagato"
+    },
+    {
+      "from": "Nagato",
+      "to": "Moji"
+    },
+    {
+      "from": "Moji",
+      "to": "Asakura"
+    },
+    {
+      "from": "Asakura",
+      "to": "Dazaifu"
+    },
+    {
+      "from": "Dazaifu",
+      "to": "Munakata"
+    },
+    {
+      "from": "Munakata",
+      "to": "Fukuoka"
+    },
+    {
+      "from": "Fukuoka",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Osaka",
+      "to": "Kyoto"
+    },
+    {
+      "from": "Kyoto",
+      "to": "Nagoya"
+    },
+    {
+      "from": "Nagoya",
+      "to": "Nara"
+    },
+    {
+      "from": "Nara",
+      "to": "Hiroshima"
+    },
+    {
+      "from": "Hiroshima",
+      "to": "Shimonoseki"
+    },
+    {
+      "from": "Shimonoseki",
+      "to": "Fukuoka"
+    },
+    {
+      "from": "Osaka",
+      "to": "Nara"
+    },
+    {
+      "from": "Nara",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Osaka",
+      "to": "Wakayama"
+    },
+    {
+      "from": "Wakayama",
+      "to": "Himeji"
+    },
+    {
+      "from": "Himeji",
+      "to": "Takahashi"
+    },
+    {
+      "from": "Takahashi",
+      "to": "Mimasaka"
+    },
+    {
+      "from": "Mimasaka",
+      "to": "Okayama"
+    },
+    {
+      "from": "Okayama",
+      "to": "Kurashiki"
+    },
+    {
+      "from": "Kurashiki",
+      "to": "Kojima"
+    },
+    {
+      "from": "Kojima",
+      "to": "Kotohira"
+    },
+    {
+      "from": "Kotohira",
+      "to": "Marugame"
+    },
+    {
+      "from": "Marugame",
+      "to": "Matsuyama"
+    },
+    {
+      "from": "Matsuyama",
+      "to": "Ozu"
+    },
+    {
+      "from": "Ozu",
+      "to": "Uwajima"
+    },
+    {
+      "from": "Uwajima",
+      "to": "Shimanto"
+    },
+    {
+      "from": "Shimanto",
+      "to": "Kochi"
+    },
+    {
+      "from": "Kochi",
+      "to": "Oboke"
+    },
+    {
+      "from": "Oboke",
+      "to": "Takamatsu"
+    },
+    {
+      "from": "Takamatsu",
+      "to": "Tokyo"
+    },
+    {
+      "from": "Tokyo",
+      "to": "Naha"
+    },
+    {
+      "from": "Naha",
+      "to": "Onna"
+    },
+    {
+      "from": "Onna",
+      "to": "Nakagami"
+    },
+    {
+      "from": "Nakagami",
+      "to": "Ishigaki"
+    },
+    {
+      "from": "Ishigaki",
+      "to": "Iriomote"
+    },
+    {
+      "from": "Iriomote",
+      "to": "Naha"
+    },
+    {
+      "from": "Naha",
+      "to": "Hong Kong"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Narita"
+    },
+    {
+      "from": "Narita",
+      "to": "Kamakura"
+    },
+    {
+      "from": "Kamakura",
+      "to": "Fujisawa"
+    },
+    {
+      "from": "Fujisawa",
+      "to": "Hakone"
+    },
+    {
+      "from": "Hakone",
+      "to": "Kawaguchiko"
+    },
+    {
+      "from": "Kawaguchiko",
+      "to": "Tachikawa"
+    },
+    {
+      "from": "Tachikawa",
+      "to": "Tama"
+    },
+    {
+      "from": "Tama",
+      "to": "Tokyo"
+    },
+    {
+      "from": "Tokyo",
+      "to": "Narita"
+    },
+    {
+      "from": "Narita",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Hong Kong",
+      "to": "Manila"
+    },
+    {
+      "from": "Manila",
+      "to": "Baler"
+    },
+    {
+      "from": "Baler",
+      "to": "Santiago"
+    },
+    {
+      "from": "Santiago",
+      "to": "Banaue"
+    },
+    {
+      "from": "Banaue",
+      "to": "Sadanga"
+    },
+    {
+      "from": "Sadanga",
+      "to": "Tabuk"
+    },
+    {
+      "from": "Tabuk",
+      "to": "Vigan"
+    },
+    {
+      "from": "Vigan",
+      "to": "Baguio"
+    },
+    {
+      "from": "Baguio",
+      "to": "Manila"
+    },
+    {
+      "from": "Manila",
+      "to": "Osaka"
+    },
+    {
+      "from": "Osaka",
+      "to": "Kobe"
+    },
+    {
+      "from": "Kobe",
+      "to": "Oita"
+    },
+    {
+      "from": "Oita",
+      "to": "Beppu"
+    },
+    {
+      "from": "Beppu",
+      "to": "Yufuin"
+    },
+    {
+      "from": "Yufuin",
+      "to": "Fukuoka"
+    },
+    {
+      "from": "Fukuoka",
+      "to": "Hiroshima"
+    },
+    {
+      "from": "Hiroshima",
+      "to": "Shanghai"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Tianjin"
+    },
+    {
+      "from": "Tianjin",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Zhangjiakou"
+    },
+    {
+      "from": "Zhangjiakou",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Shijiazhuang"
+    },
+    {
+      "from": "Shijiazhuang",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Baoding"
+    },
+    {
+      "from": "Baoding",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Chongqing"
+    },
+    {
+      "from": "Chongqing",
+      "to": "Chengdu"
+    },
+    {
+      "from": "Chengdu",
+      "to": "Xi'an"
+    },
+    {
+      "from": "Xi'an",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Taoyuan"
+    },
+    {
+      "from": "Taoyuan",
+      "to": "Hsinchu"
+    },
+    {
+      "from": "Hsinchu",
+      "to": "Kaohsiung"
+    },
+    {
+      "from": "Kaohsiung",
+      "to": "Tainan"
+    },
+    {
+      "from": "Tainan",
+      "to": "Hualien"
+    },
+    {
+      "from": "Hualien",
+      "to": "Taipei"
+    },
+    {
+      "from": "Taipei",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Hohhot"
+    },
+    {
+      "from": "Hohhot",
+      "to": "Ejina"
+    },
+    {
+      "from": "Jiayuguan",
+      "to": "Dunhuang"
+    },
+    {
+      "from": "Dunhuang",
+      "to": "Lanzhou"
+    },
+    {
+      "from": "Lanzhou",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Qingdao"
+    },
+    {
+      "from": "Qingdao",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Jinan"
+    },
+    {
+      "from": "Jinan",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Dandong"
+    },
+    {
+      "from": "Dandong",
+      "to": "Changchun"
+    },
+    {
+      "from": "Changchun",
+      "to": "Jilin"
+    },
+    {
+      "from": "Jilin",
+      "to": "Beijing"
+    },
+    {
+      "from": "Dandong",
+      "to": "Huanren"
+    },
+    {
+      "from": "Huanren",
+      "to": "Shenyang"
+    },
+    {
+      "from": "Shenyang",
+      "to": "Harbin"
+    },
+    {
+      "from": "Harbin",
+      "to": "Fuyuan"
+    },
+    {
+      "from": "Fuyuan",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Nanchang"
+    },
+    {
+      "from": "Nanchang",
+      "to": "Wuyuan"
+    },
+    {
+      "from": "Wuyuan",
+      "to": "Ma'anshan"
+    },
+    {
+      "from": "Ma'anshan",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Anyang"
+    },
+    {
+      "from": "Anyang",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Zhengzhou"
+    },
+    {
+      "from": "Zhengzhou",
+      "to": "Beijing"
+    },
+    {
+      "from": "Beijing",
+      "to": "Harbin"
+    },
+    {
+      "from": "Harbin",
+      "to": "Oroqen"
+    },
+    {
+      "from": "Oroqen",
+      "to": "Jiagedaqi"
+    },
+    {
+      "from": "Jiagedaqi",
+      "to": "Beijing"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Seattle"
+    },
+    {
+      "from": "Tacoma",
+      "to": "Seattle"
+    },
+    {
+      "from": "Seattle",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Tacoma",
+      "to": "Everett"
+    },
+    {
+      "from": "Everett",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Tacoma",
+      "to": "Olympia"
+    },
+    {
+      "from": "Olympia",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Tacoma",
+      "to": "Snoqualmie"
+    },
+    {
+      "from": "Snoqualmie",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Tacoma",
+      "to": "Yakima"
+    },
+    {
+      "from": "Yakima",
+      "to": "Spokane"
+    },
+    {
+      "from": "Spokane",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Yakima",
+      "to": "Maryhill"
+    },
+    {
+      "from": "Maryhill",
+      "to": "Hood River"
+    },
+    {
+      "from": "Hood River",
+      "to": "Portland"
+    },
+    {
+      "from": "Portland",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Tacoma",
+      "to": "San Jose"
+    },
+    {
+      "from": "San Jose",
+      "to": "Mountain View"
+    },
+    {
+      "from": "Mountain View",
+      "to": "San Francisco"
+    },
+    {
+      "from": "San Francisco",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Tacoma",
+      "to": "Chicago"
+    },
+    {
+      "from": "Chicago",
+      "to": "Niagara Falls"
+    },
+    {
+      "from": "Niagara Falls",
+      "to": "Buffalo"
+    },
+    {
+      "from": "Buffalo",
+      "to": "Minneapolis"
+    },
+    {
+      "from": "Minneapolis",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Chicago",
+      "to": "Istanbul"
+    },
+    {
+      "from": "Istanbul",
+      "to": "Belgrade"
+    },
+    {
+      "from": "Belgrade",
+      "to": "Novi Sad"
+    },
+    {
+      "from": "Novi Sad",
+      "to": "Niš"
+    },
+    {
+      "from": "Niš",
+      "to": "Kotor"
+    },
+    {
+      "from": "Kotor",
+      "to": "Mostar"
+    },
+    {
+      "from": "Mostar",
+      "to": "Sarajevo"
+    },
+    {
+      "from": "Sarajevo",
+      "to": "Belgrade"
+    },
+    {
+      "from": "Belgrade",
+      "to": "Abu Dhabi"
+    },
+    {
+      "from": "Dubai",
+      "to": "Tacoma"
+    },
+    {
+      "from": "Shanghai",
+      "to": "Durham"
+    },
+    {
+      "from": "Detroit",
+      "to": "Durham"
+    }
+  ],
+  "baseCities": [
+    "Jilin",
+    "Shanghai",
+    "Beijing",
+    "Seattle",
+    "Tacoma",
+    "Durham"
+  ]
+}
