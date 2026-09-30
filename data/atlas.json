@@ -3864,6 +3864,37 @@
       "admin1": "North Carolina",
       "admin1Id": "USA-2",
       "administrativeUnit": "North Carolina"
+    },
+    "Kiyama": {
+      "name": "Kiyama",
+      "coordinates": [
+        130.52306,
+        33.42694
+      ],
+      "region": "Saga, Japan",
+      "approximate": false,
+      "geonamesId": "7424599",
+      "coordinateReference": "Town hall",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Saga",
+      "admin1Id": "JPN-16",
+      "administrativeUnit": "Saga"
+    },
+    "Otsu": {
+      "name": "Otsu",
+      "coordinates": [
+        135.86667,
+        35.0
+      ],
+      "region": "Shiga, Japan",
+      "approximate": false,
+      "geonamesId": "1853574",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Shiga",
+      "admin1Id": "JPN-5",
+      "administrativeUnit": "Shiga"
     }
   },
   "languages": [
@@ -3918,7 +3949,7 @@
     }
   ],
   "notes": {
-    "connections": "Lines connect recorded stops and do not represent actual roads or flight paths.",
+    "connections": "Lines connect recorded stops and do not represent actual roads or flight paths. Added Kiyama connections have unspecified direction; Otsu and Kyoto are explicitly linked in both directions.",
     "returns": "Departure and return links inferred from the original >/< notation are retained as city connections.",
     "approximate": "Cappadocia, Nakagami, Iriomote, Oroqen and the Aral Sea use regional reference points.",
     "aliases": {
@@ -3934,7 +3965,8 @@
       "Monji": "Moji",
       "Munagata": "Munakata",
       "Dawson": "Dawson City",
-      "Chicago, MI": "Chicago, Illinois"
+      "Chicago, MI": "Chicago, Illinois",
+      "Ōtsu": "Otsu"
     },
     "coordinates": "City-centre reference points, checked against GeoNames where a matching city record is available. Small localities and regions use approximate reference points.",
     "sources": [
@@ -3943,7 +3975,9 @@
       "https://weather.gc.ca/past_conditions/index_e.html?station=zoc",
       "https://www.naturalearthdata.com/ (Natural Earth, public domain)",
       "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "https://download.geonames.org/export/dump/admin2Codes.txt"
+      "https://download.geonames.org/export/dump/admin2Codes.txt",
+      "https://www.town.kiyama.lg.jp/kiji0031143/index.html",
+      "https://www.city.otsu.lg.jp/material/files/group/109/R2toukeinenkan_toukeizuhyou1.pdf"
     ],
     "administrativeAreas": "Administrative areas filled from GeoNames, with local province/municipality equivalents. Singapore is displayed as Singapore, Singapore. Cappadocia and the Aral Sea remain regions.",
     "baseCities": "Initially inferred from the relocation headings and the Tacoma base entry in the supplied place list.",
@@ -5414,6 +5448,24 @@
     {
       "from": "Detroit",
       "to": "Durham"
+    },
+    {
+      "from": "Asakura",
+      "to": "Kiyama",
+      "direction": "unspecified"
+    },
+    {
+      "from": "Kiyama",
+      "to": "Fukuoka",
+      "direction": "unspecified"
+    },
+    {
+      "from": "Kyoto",
+      "to": "Otsu"
+    },
+    {
+      "from": "Otsu",
+      "to": "Kyoto"
     }
   ],
   "baseCities": [
@@ -5423,5 +5475,15 @@
     "Seattle",
     "Tacoma",
     "Durham"
-  ]
+  ],
+  "countryStatistics": {
+    "basis": "UN member states and non-member observer states",
+    "memberCount": 193,
+    "observerCount": 2,
+    "verifiedOn": "2026-09-30",
+    "sources": [
+      "https://www.un.org/en/model-united-nations/un-glance",
+      "https://research.un.org/en/unmembers/observers"
+    ]
+  }
 }

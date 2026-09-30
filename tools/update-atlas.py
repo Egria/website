@@ -8,6 +8,9 @@ root=Path(__file__).resolve().parent.parent
 data=json.loads((root/'data/atlas.json').read_text(encoding='utf-8'))
 countries=json.loads((root/'data/countries.json').read_text(encoding='utf-8'))
 assert data['places']
+assert data['countryStatistics']['memberCount']>0 and data['countryStatistics']['observerCount']>=0
+for country in countries['countries'].values():
+    assert country['unStatus'] in ('member','observer','other'), 'Missing UN membership classification'
 for name in data.get('baseCities',[]):
     assert name in data['places'], 'Unknown base city: '+name
 for edge in data['connections']:

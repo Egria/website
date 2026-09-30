@@ -4,10 +4,11 @@ index.html 包含完整样式、字体、地图、图像和交互，直接双击
 
 ## Personal 页面
 
-- 253 个地点与连接轨迹，统一展示在可拖动、旋转和缩放的地球仪上。
+- 255 个地点与连接轨迹，统一展示在可拖动、旋转和缩放的地球仪上。
 - Base 城市以暖橙色圆点和光环区分，其他地点为绿色；图例与城市列表也标注 Base。当前依据原始迁居节点标注 Jilin、Shanghai、Beijing、Seattle、Tacoma、Durham。
+- 全球视图新增 19 / 195 countries visited，分母采用 193 个联合国会员国加 2 个非会员观察员国；台湾、香港、澳门均归入中国，不重复计数。
 - 点击地球上的已到访国家，会停止旋转并缩放至全国视图，展示一级行政区边界；访问过的行政区为青绿色，其他为浅灰。仅提供已到访的 19 个国家。
-- 全国视图下方显示去重后的行政区访问比例，可用 Country 下拉框进行键盘选择；Back to globe、All footprints 或 Escape 返回全球视图。
+- 全国视图下方显示去重后的行政区访问比例，可用 Country 下拉框进行键盘选择；点击海洋或未到访国家、Back to globe、All footprints 或 Escape 返回全球视图；点击另一个到访国家则切换到该国。
 - 统计采用各国常见的通名：中国、加拿大为 provinces，美国为 states，日本为 prefectures。分母包含同级的特区、直辖市或领地；美国为 50 州加 DC，加拿大为 10 省加 3 领地。
 - 按城市/地区搜索；点击城市列表可定位并突出相连的轨迹。
 - 不再拆分单次旅程，不显示旅程编号、居住阶段或逐站播放。
@@ -32,8 +33,9 @@ README、licenses、data、tools 可一起上传；网页运行只依赖 index.h
 
 - places：地点名称、经纬度 [longitude, latitude]、地区及近似点标记。countryCode 对应 countries.json 的 ISO 三字母国家键，admin1Id 对应行政区 feature 的 id；访问统计据此去重。未确定的行政区使用 null，不凭近似点增加访问数量。
 - countries：全国轮廓、一级行政区 GeoJSON、通名 unitLabel、分母 total、来源年份与必要的覆盖说明；国家与行政区几何数据嵌入页面，可离线运行。
+- countryStatistics：国家统计口径、会员国/观察员国数量、核对日期和联合国来源；countries.json 中 unStatus 标注 member / observer / other。
 - baseCities：曾经以此为基地的城市名称列表；增删名称后运行更新脚本即可。
-- connections：from / to 记录地点之间的有向连接，不划分旅程。重复连接合并，去程与回程方向保留；地图上同一连接只绘制一次。
+- connections：from / to 记录地点之间的有向连接，不划分旅程。重复连接合并，去程与回程方向保留；direction 为 unspecified 的连接不推断旅行方向；地图上同一连接只绘制一次。
 - languages：本语言名称 name、语言代码 lang、名言 quote、作者 author、作品 work 和来源 source。替换 quote、author、source 后运行更新脚本即可。现有六句为名言占位，来源记录在 JSON 中。
 
 嵌入的中日文字体和俄文字体子集覆盖当前名称、名言与作者；替换为其他文字时，未包含的字符会使用设备上的系统字体。
@@ -52,6 +54,8 @@ README、licenses、data、tools 可一起上传；网页运行只依赖 index.h
 
 一级行政区采用 geoBoundaries 的简化边界，不同国家来源年份不同，并非统一日期的测绘结果。越南按 2025 年合并组重组为 34 个省级单位，菲律宾使用 18 个大区（包含 Negros Island Region）；黑山补充 Tuzi 和 Zeta 后为 25 个市镇。阿塞拜疆使用 2020 年的区/市边界；塞尔维亚图层为 25 个行政区，不含 Kosovo。各国覆盖说明和原始来源记录于 data/countries.json 与 data/admin-sources.json。
 
+新增 Kiyama, Saga, Japan（以町役场作中心参考点），连接 Asakura 和 Fukuoka；Otsu, Shiga, Japan 与 Kyoto 往返连接。日本访问统计为 23 / 47 prefectures visited。
+
 ## 第三方来源与许可
 
 - D3 7.9.0（ISC）：<https://d3js.org/>。
@@ -63,4 +67,4 @@ README、licenses、data、tools 可一起上传；网页运行只依赖 index.h
 
 ## 验证
 
-已检查 19 个国家的统计与选择、地图实际点击、台湾点击归入中国、拖动不误触选择、全国取景动画、390px 手机布局、城市搜索与定位、六种语言的展开、原有页面导航和减少动画。页面离线打开，无外部请求和脚本错误。
+已检查联合国口径国家统计、点击海洋与未访国家返回、新增地点和连接、19 个国家的统计与选择、地图实际点击、台湾点击归入中国、拖动不误触选择、全国取景动画、390px 手机布局、城市搜索与定位、六种语言的展开、原有页面导航和减少动画。页面离线打开，无外部请求和脚本错误。
