@@ -1,0 +1,13 @@
+Administrative boundary data
+
+geoBoundaries (William & Mary geoLab): https://www.geoboundaries.org/
+© geoBoundaries contributors. The gbOpen distribution uses CC BY 4.0. Individual input datasets retain their licenses, recorded in data/admin-sources.json, including OpenStreetMap ODbL 1.0, CC BY-SA 3.0 and CC BY 4.0. Geometry has been simplified, polygon winding normalised, and some administrative units regrouped.
+
+OpenStreetMap: © OpenStreetMap contributors, https://www.openstreetmap.org/copyright. ODbL 1.0: https://opendatacommons.org/licenses/odbl/1-0/
+
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+Natural Earth world basemap is public domain.
+
+Country selection is restricted to recorded visits. Taiwan records and polygons are grouped under China as requested. The map is a personal travel visualisation; source years and relevant layer coverage are recorded in data/countries.json.

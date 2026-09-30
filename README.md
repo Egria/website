@@ -6,9 +6,12 @@ index.html 包含完整样式、字体、地图、图像和交互，直接双击
 
 - 253 个地点与连接轨迹，统一展示在可拖动、旋转和缩放的地球仪上。
 - Base 城市以暖橙色圆点和光环区分，其他地点为绿色；图例与城市列表也标注 Base。当前依据原始迁居节点标注 Jilin、Shanghai、Beijing、Seattle、Tacoma、Durham。
-- 按城市/地区搜索、按国家或地区筛选；点击城市可定位并突出相连的轨迹。
+- 点击地球上的已到访国家，会停止旋转并缩放至全国视图，展示一级行政区边界；访问过的行政区为青绿色，其他为浅灰。仅提供已到访的 19 个国家。
+- 全国视图下方显示去重后的行政区访问比例，可用 Country 下拉框进行键盘选择；Back to globe、All footprints 或 Escape 返回全球视图。
+- 统计采用各国常见的通名：中国、加拿大为 provinces，美国为 states，日本为 prefectures。分母包含同级的特区、直辖市或领地；美国为 50 州加 DC，加拿大为 10 省加 3 领地。
+- 按城市/地区搜索；点击城市列表可定位并突出相连的轨迹。
 - 不再拆分单次旅程，不显示旅程编号、居住阶段或逐站播放。
-- 语言：汉语、English、日本語、Deutsch、Lingua Latina、Русский，未推断熟练程度。鼠标悬停或键盘聚焦时展开原文名言与作者，手机点按展开，再次点按收起；Escape 收起。
+- 语言：汉语、English、日本語、Deutsch、Lingua Latina、Русский，采用无边框透明设计，未推断熟练程度。鼠标悬停或键盘聚焦时展开原文名言与作者，手机点按展开，再次点按收起；Escape 收起。
 - 支持手机、键盘操作、减少动画偏好及全站动画暂停。
 
 ## 更新 GitHub Pages
@@ -25,9 +28,10 @@ README、licenses、data、tools 可一起上传；网页运行只依赖 index.h
 
     python tools/update-atlas.py
 
-这会将资料重新嵌入 index.html。无需第三方 Python 库。也可直接修改 HTML 内 id="atlas-data" 的 JSON。
+这会将 atlas.json 和 countries.json 重新嵌入 index.html，并校验国家、行政区与轨迹端点。无需第三方 Python 库。也可直接修改 HTML 内 id="atlas-data" 的 JSON。
 
-- places：地点名称、经纬度 [longitude, latitude]、地区及近似点标记。
+- places：地点名称、经纬度 [longitude, latitude]、地区及近似点标记。countryCode 对应 countries.json 的 ISO 三字母国家键，admin1Id 对应行政区 feature 的 id；访问统计据此去重。未确定的行政区使用 null，不凭近似点增加访问数量。
+- countries：全国轮廓、一级行政区 GeoJSON、通名 unitLabel、分母 total、来源年份与必要的覆盖说明；国家与行政区几何数据嵌入页面，可离线运行。
 - baseCities：曾经以此为基地的城市名称列表；增删名称后运行更新脚本即可。
 - connections：from / to 记录地点之间的有向连接，不划分旅程。重复连接合并，去程与回程方向保留；地图上同一连接只绘制一次。
 - languages：本语言名称 name、语言代码 lang、名言 quote、作者 author、作品 work 和来源 source。替换 quote、author、source 后运行更新脚本即可。现有六句为名言占位，来源记录在 JSON 中。
@@ -36,7 +40,9 @@ README、licenses、data、tools 可一起上传；网页运行只依赖 index.h
 
 ## 地理数据说明
 
-补齐缺失的省、州、市或同级行政区，依据 GeoNames 行政区表，并核对菲律宾省份、波黑州和部分城市的行政归属。新加坡写作 Singapore, Singapore；Cappadocia 和 Aral Sea 等跨行政区地点保留区域名称。
+补齐缺失的省、州、市或同级行政区，依据 GeoNames 行政区表，并核对菲律宾省份、波黑州和部分城市的行政归属。新加坡写作 Singapore, Singapore；它没有省州级行政区，显示 City-state，不将规划区域作为行政区统计。Cappadocia 跨多个省，不推断访问了哪一省；Aral Sea 根据原始 Nukus 往返节点归入 Uzbekistan / Karakalpakstan，并保留近似点说明。
+
+台湾地点统一显示为“城市名, Taiwan, China”，国家字段为 China、行政区字段与名称为 Taiwan, China；地图轮廓与省级访问统计均归入中国，不能独立选中为国家。
 
 连接保留原始地点顺序以及 >/< 记号所指的出发和返回关系。线段连接停靠点，不代表实际道路或飞行路径。没有推断出行日期、交通方式或新的旅行段落。
 
@@ -44,14 +50,17 @@ README、licenses、data、tools 可一起上传；网页运行只依赖 index.h
 
 拼写统一包括 Ha Long、Kota Kinabalu / Sabah、Bayannur、Safranbolu、Troy、Hualien、Oroqen、Everett、Moji、Munakata、Dawson City；Chicago 使用 Illinois。原拼写映射见 notes.aliases。
 
+一级行政区采用 geoBoundaries 的简化边界，不同国家来源年份不同，并非统一日期的测绘结果。越南按 2025 年合并组重组为 34 个省级单位，菲律宾使用 18 个大区（包含 Negros Island Region）；黑山补充 Tuzi 和 Zeta 后为 25 个市镇。阿塞拜疆使用 2020 年的区/市边界；塞尔维亚图层为 25 个行政区，不含 Kosovo。各国覆盖说明和原始来源记录于 data/countries.json 与 data/admin-sources.json。
+
 ## 第三方来源与许可
 
 - D3 7.9.0（ISC）：<https://d3js.org/>。
 - topojson-client 3.1.0 / world-atlas 2.0.2（ISC）：<https://github.com/topojson/world-atlas>。
 - 地理底图：Natural Earth（public domain），<https://www.naturalearthdata.com/>。
+- 行政区：<https://www.geoboundaries.org/> 的 gbOpen（CC BY 4.0），各输入数据许可证见 data/admin-sources.json。Tuzi / Zeta 补充边界来自 OpenStreetMap（ODbL）；说明见 licenses/administrative-boundaries-NOTICE.txt。
 - 大部分城市坐标经 GeoNames 核对（CC BY 4.0）：<https://www.geonames.org/>；小城镇及地区保留近似坐标。Mayo：<https://www.geonames.org/6068416/mayo.html>；Old Crow：<https://weather.gc.ca/past_conditions/index_e.html?station=zoc>。
 - Noto Sans SC / Noto Sans / DM Sans / Manrope（SIL OFL）；Lucide 0.468.0（ISC）；Font Awesome Free 6.7.2 品牌图标（CC BY 4.0）。许可在 licenses/，校徽版权归对应机构。
 
 ## 验证
 
-已检查本地离线打开、城市搜索及定位、地区筛选、空结果、全部六种语言的悬停、键盘聚焦和手机点按展开、缩放、键盘操作、原有页面导航、减少动画，以及 390px 手机布局。无外部请求和脚本错误。
+已检查 19 个国家的统计与选择、地图实际点击、台湾点击归入中国、拖动不误触选择、全国取景动画、390px 手机布局、城市搜索与定位、六种语言的展开、原有页面导航和减少动画。页面离线打开，无外部请求和脚本错误。

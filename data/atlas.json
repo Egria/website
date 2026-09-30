@@ -8,7 +8,12 @@
       ],
       "region": "Jilin, China",
       "approximate": false,
-      "geonamesId": "2036502"
+      "geonamesId": "2036502",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jilin",
+      "admin1Id": "CHN-28",
+      "administrativeUnit": "Jilin"
     },
     "Huanren": {
       "name": "Huanren",
@@ -18,7 +23,12 @@
       ],
       "region": "Liaoning, China",
       "approximate": false,
-      "geonamesId": "2036713"
+      "geonamesId": "2036713",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Liaoning",
+      "admin1Id": "CHN-27",
+      "administrativeUnit": "Liaoning"
     },
     "Shenyang": {
       "name": "Shenyang",
@@ -28,7 +38,12 @@
       ],
       "region": "Liaoning, China",
       "approximate": false,
-      "geonamesId": "2034937"
+      "geonamesId": "2034937",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Liaoning",
+      "admin1Id": "CHN-27",
+      "administrativeUnit": "Liaoning"
     },
     "Shanghai": {
       "name": "Shanghai",
@@ -38,7 +53,12 @@
       ],
       "region": "Shanghai, China",
       "approximate": false,
-      "geonamesId": "1796236"
+      "geonamesId": "1796236",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanghai",
+      "admin1Id": "CHN-10",
+      "administrativeUnit": "Shanghai"
     },
     "Guangzhou": {
       "name": "Guangzhou",
@@ -48,7 +68,12 @@
       ],
       "region": "Guangdong, China",
       "approximate": false,
-      "geonamesId": "1809858"
+      "geonamesId": "1809858",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Guangdong",
+      "admin1Id": "CHN-34",
+      "administrativeUnit": "Guangdong"
     },
     "Nanjing": {
       "name": "Nanjing",
@@ -58,7 +83,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "1799962"
+      "geonamesId": "1799962",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Hangzhou": {
       "name": "Hangzhou",
@@ -68,7 +98,12 @@
       ],
       "region": "Zhejiang, China",
       "approximate": false,
-      "geonamesId": "1808926"
+      "geonamesId": "1808926",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Zhejiang",
+      "admin1Id": "CHN-9",
+      "administrativeUnit": "Zhejiang"
     },
     "Ma'anshan": {
       "name": "Ma'anshan",
@@ -78,7 +113,12 @@
       ],
       "region": "Anhui, China",
       "approximate": false,
-      "geonamesId": "1801620"
+      "geonamesId": "1801620",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Anhui",
+      "admin1Id": "CHN-14",
+      "administrativeUnit": "Anhui"
     },
     "Huangshan": {
       "name": "Huangshan",
@@ -88,7 +128,12 @@
       ],
       "region": "Anhui, China",
       "approximate": false,
-      "geonamesId": "1792359"
+      "geonamesId": "1792359",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Anhui",
+      "admin1Id": "CHN-14",
+      "administrativeUnit": "Anhui"
     },
     "Hefei": {
       "name": "Hefei",
@@ -98,7 +143,12 @@
       ],
       "region": "Anhui, China",
       "approximate": false,
-      "geonamesId": "1808722"
+      "geonamesId": "1808722",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Anhui",
+      "admin1Id": "CHN-14",
+      "administrativeUnit": "Anhui"
     },
     "Weihai": {
       "name": "Weihai",
@@ -108,7 +158,12 @@
       ],
       "region": "Shandong, China",
       "approximate": false,
-      "geonamesId": "1791673"
+      "geonamesId": "1791673",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shandong",
+      "admin1Id": "CHN-18",
+      "administrativeUnit": "Shandong"
     },
     "Dalian": {
       "name": "Dalian",
@@ -118,7 +173,12 @@
       ],
       "region": "Liaoning, China",
       "approximate": false,
-      "geonamesId": "1814087"
+      "geonamesId": "1814087",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Liaoning",
+      "admin1Id": "CHN-27",
+      "administrativeUnit": "Liaoning"
     },
     "Changsha": {
       "name": "Changsha",
@@ -128,7 +188,12 @@
       ],
       "region": "Hunan, China",
       "approximate": false,
-      "geonamesId": "1815577"
+      "geonamesId": "1815577",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hunan",
+      "admin1Id": "CHN-8",
+      "administrativeUnit": "Hunan"
     },
     "Zhangjiajie": {
       "name": "Zhangjiajie",
@@ -138,7 +203,12 @@
       ],
       "region": "Hunan, China",
       "approximate": false,
-      "geonamesId": "1813171"
+      "geonamesId": "1813171",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hunan",
+      "admin1Id": "CHN-8",
+      "administrativeUnit": "Hunan"
     },
     "Haikou": {
       "name": "Haikou",
@@ -148,7 +218,12 @@
       ],
       "region": "Hainan, China",
       "approximate": false,
-      "geonamesId": "1809078"
+      "geonamesId": "1809078",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hainan",
+      "admin1Id": "CHN-1",
+      "administrativeUnit": "Hainan"
     },
     "Danzhou": {
       "name": "Danzhou",
@@ -158,7 +233,12 @@
       ],
       "region": "Hainan, China",
       "approximate": false,
-      "geonamesId": "1800234"
+      "geonamesId": "1800234",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hainan",
+      "admin1Id": "CHN-1",
+      "administrativeUnit": "Hainan"
     },
     "Sanya": {
       "name": "Sanya",
@@ -168,7 +248,12 @@
       ],
       "region": "Hainan, China",
       "approximate": false,
-      "geonamesId": "1796556"
+      "geonamesId": "1796556",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hainan",
+      "admin1Id": "CHN-1",
+      "administrativeUnit": "Hainan"
     },
     "Shouxian": {
       "name": "Shouxian",
@@ -178,7 +263,12 @@
       ],
       "region": "Anhui, China",
       "approximate": false,
-      "geonamesId": "1794781"
+      "geonamesId": "1794781",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Anhui",
+      "admin1Id": "CHN-14",
+      "administrativeUnit": "Anhui"
     },
     "Huaiyang": {
       "name": "Huaiyang",
@@ -188,7 +278,12 @@
       ],
       "region": "Henan, China",
       "approximate": false,
-      "geonamesId": "1807651"
+      "geonamesId": "1807651",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Henan",
+      "admin1Id": "CHN-16",
+      "administrativeUnit": "Henan"
     },
     "Luoyang": {
       "name": "Luoyang",
@@ -198,7 +293,12 @@
       ],
       "region": "Henan, China",
       "approximate": false,
-      "geonamesId": "1801792"
+      "geonamesId": "1801792",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Henan",
+      "admin1Id": "CHN-16",
+      "administrativeUnit": "Henan"
     },
     "Yuncheng": {
       "name": "Yuncheng",
@@ -208,7 +308,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1785738"
+      "geonamesId": "1785738",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Fenyang": {
       "name": "Fenyang",
@@ -217,7 +322,12 @@
         37.27
       ],
       "region": "Shanxi, China",
-      "approximate": false
+      "approximate": false,
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Pingyao": {
       "name": "Pingyao",
@@ -227,7 +337,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1798636"
+      "geonamesId": "1798636",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Taiyuan": {
       "name": "Taiyuan",
@@ -237,7 +352,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1793511"
+      "geonamesId": "1793511",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Yingxian": {
       "name": "Yingxian",
@@ -247,7 +367,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1786559"
+      "geonamesId": "1786559",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Datong": {
       "name": "Datong",
@@ -257,7 +382,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "2037799"
+      "geonamesId": "2037799",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Shijiazhuang": {
       "name": "Shijiazhuang",
@@ -267,7 +397,12 @@
       ],
       "region": "Hebei, China",
       "approximate": false,
-      "geonamesId": "1795270"
+      "geonamesId": "1795270",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hebei",
+      "admin1Id": "CHN-26",
+      "administrativeUnit": "Hebei"
     },
     "Xuzhou": {
       "name": "Xuzhou",
@@ -277,7 +412,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "10630003"
+      "geonamesId": "10630003",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Zhangzi": {
       "name": "Zhangzi",
@@ -287,7 +427,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1785000"
+      "geonamesId": "1785000",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Shuozhou": {
       "name": "Shuozhou",
@@ -297,7 +442,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1794328"
+      "geonamesId": "1794328",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Hohhot": {
       "name": "Hohhot",
@@ -307,7 +457,12 @@
       ],
       "region": "Inner Mongolia, China",
       "approximate": false,
-      "geonamesId": "2036892"
+      "geonamesId": "2036892",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Inner Mongolia",
+      "admin1Id": "CHN-30",
+      "administrativeUnit": "Inner Mongolia"
     },
     "Baotou": {
       "name": "Baotou",
@@ -317,7 +472,12 @@
       ],
       "region": "Inner Mongolia, China",
       "approximate": false,
-      "geonamesId": "2038432"
+      "geonamesId": "2038432",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Inner Mongolia",
+      "admin1Id": "CHN-30",
+      "administrativeUnit": "Inner Mongolia"
     },
     "Bayannur": {
       "name": "Bayannur",
@@ -327,7 +487,12 @@
       ],
       "region": "Inner Mongolia, China",
       "approximate": false,
-      "geonamesId": "11838258"
+      "geonamesId": "11838258",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Inner Mongolia",
+      "admin1Id": "CHN-30",
+      "administrativeUnit": "Inner Mongolia"
     },
     "Ejina": {
       "name": "Ejina",
@@ -336,7 +501,12 @@
         41.95
       ],
       "region": "Inner Mongolia, China",
-      "approximate": false
+      "approximate": false,
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Inner Mongolia",
+      "admin1Id": "CHN-30",
+      "administrativeUnit": "Inner Mongolia"
     },
     "Jiayuguan": {
       "name": "Jiayuguan",
@@ -346,7 +516,12 @@
       ],
       "region": "Gansu, China",
       "approximate": false,
-      "geonamesId": "1280957"
+      "geonamesId": "1280957",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Gansu",
+      "admin1Id": "CHN-25",
+      "administrativeUnit": "Gansu"
     },
     "Jiuquan": {
       "name": "Jiuquan",
@@ -356,7 +531,12 @@
       ],
       "region": "Gansu, China",
       "approximate": false,
-      "geonamesId": "1279945"
+      "geonamesId": "1279945",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Gansu",
+      "admin1Id": "CHN-25",
+      "administrativeUnit": "Gansu"
     },
     "Lanzhou": {
       "name": "Lanzhou",
@@ -366,7 +546,12 @@
       ],
       "region": "Gansu, China",
       "approximate": false,
-      "geonamesId": "1804430"
+      "geonamesId": "1804430",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Gansu",
+      "admin1Id": "CHN-25",
+      "administrativeUnit": "Gansu"
     },
     "Yinchuan": {
       "name": "Yinchuan",
@@ -376,7 +561,12 @@
       ],
       "region": "Ningxia, China",
       "approximate": false,
-      "geonamesId": "1786657"
+      "geonamesId": "1786657",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Ningxia",
+      "admin1Id": "CHN-20",
+      "administrativeUnit": "Ningxia"
     },
     "Yan'an": {
       "name": "Yan'an",
@@ -386,7 +576,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "1787765"
+      "geonamesId": "1787765",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Houma": {
       "name": "Houma",
@@ -396,7 +591,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1807818"
+      "geonamesId": "1807818",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Changzhi": {
       "name": "Changzhi",
@@ -406,7 +606,12 @@
       ],
       "region": "Shanxi, China",
       "approximate": false,
-      "geonamesId": "1808956"
+      "geonamesId": "1808956",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shanxi",
+      "admin1Id": "CHN-23",
+      "administrativeUnit": "Shanxi"
     },
     "Jiaozuo": {
       "name": "Jiaozuo",
@@ -416,7 +621,12 @@
       ],
       "region": "Henan, China",
       "approximate": false,
-      "geonamesId": "1805987"
+      "geonamesId": "1805987",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Henan",
+      "admin1Id": "CHN-16",
+      "administrativeUnit": "Henan"
     },
     "Lianyungang": {
       "name": "Lianyungang",
@@ -426,7 +636,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "10859300"
+      "geonamesId": "10859300",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Qufu": {
       "name": "Qufu",
@@ -436,7 +651,12 @@
       ],
       "region": "Shandong, China",
       "approximate": false,
-      "geonamesId": "1797333"
+      "geonamesId": "1797333",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shandong",
+      "admin1Id": "CHN-18",
+      "administrativeUnit": "Shandong"
     },
     "Mianyang": {
       "name": "Mianyang",
@@ -446,7 +666,12 @@
       ],
       "region": "Sichuan, China",
       "approximate": false,
-      "geonamesId": "1800627"
+      "geonamesId": "1800627",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Sichuan",
+      "admin1Id": "CHN-13",
+      "administrativeUnit": "Sichuan"
     },
     "Guanghan": {
       "name": "Guanghan",
@@ -456,7 +681,12 @@
       ],
       "region": "Sichuan, China",
       "approximate": false,
-      "geonamesId": "1801982"
+      "geonamesId": "1801982",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Sichuan",
+      "admin1Id": "CHN-13",
+      "administrativeUnit": "Sichuan"
     },
     "Beichuan": {
       "name": "Beichuan",
@@ -465,7 +695,12 @@
         31.82
       ],
       "region": "Sichuan, China",
-      "approximate": false
+      "approximate": false,
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Sichuan",
+      "admin1Id": "CHN-13",
+      "administrativeUnit": "Sichuan"
     },
     "Jiangyou": {
       "name": "Jiangyou",
@@ -475,7 +710,12 @@
       ],
       "region": "Sichuan, China",
       "approximate": false,
-      "geonamesId": "1784469"
+      "geonamesId": "1784469",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Sichuan",
+      "admin1Id": "CHN-13",
+      "administrativeUnit": "Sichuan"
     },
     "Qingchuan": {
       "name": "Qingchuan",
@@ -485,7 +725,12 @@
       ],
       "region": "Sichuan, China",
       "approximate": false,
-      "geonamesId": "1798105"
+      "geonamesId": "1798105",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Sichuan",
+      "admin1Id": "CHN-13",
+      "administrativeUnit": "Sichuan"
     },
     "Jiuzhaigou": {
       "name": "Jiuzhaigou",
@@ -494,7 +739,12 @@
         33.26
       ],
       "region": "Sichuan, China",
-      "approximate": false
+      "approximate": false,
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Sichuan",
+      "admin1Id": "CHN-13",
+      "administrativeUnit": "Sichuan"
     },
     "Longnan": {
       "name": "Longnan",
@@ -504,7 +754,12 @@
       ],
       "region": "Gansu, China",
       "approximate": false,
-      "geonamesId": "11778484"
+      "geonamesId": "11778484",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Gansu",
+      "admin1Id": "CHN-25",
+      "administrativeUnit": "Gansu"
     },
     "Huixian": {
       "name": "Huixian",
@@ -514,7 +769,12 @@
       ],
       "region": "Gansu, China",
       "approximate": false,
-      "geonamesId": "1806788"
+      "geonamesId": "1806788",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Gansu",
+      "admin1Id": "CHN-25",
+      "administrativeUnit": "Gansu"
     },
     "Baoji": {
       "name": "Baoji",
@@ -524,7 +784,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "10942359"
+      "geonamesId": "10942359",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Qishan": {
       "name": "Qishan",
@@ -534,7 +799,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "1811276"
+      "geonamesId": "1811276",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Fufeng": {
       "name": "Fufeng",
@@ -544,7 +814,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "1811044"
+      "geonamesId": "1811044",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Xi'an": {
       "name": "Xi'an",
@@ -554,7 +829,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "1790630"
+      "geonamesId": "1790630",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Huxian": {
       "name": "Huxian",
@@ -564,7 +844,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "1806561"
+      "geonamesId": "1806561",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Foping": {
       "name": "Foping",
@@ -574,7 +859,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "1786077"
+      "geonamesId": "1786077",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Hanzhong": {
       "name": "Hanzhong",
@@ -584,7 +874,12 @@
       ],
       "region": "Shaanxi, China",
       "approximate": false,
-      "geonamesId": "1808857"
+      "geonamesId": "1808857",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shaanxi",
+      "admin1Id": "CHN-21",
+      "administrativeUnit": "Shaanxi"
     },
     "Sapporo": {
       "name": "Sapporo",
@@ -594,7 +889,12 @@
       ],
       "region": "Hokkaido, Japan",
       "approximate": false,
-      "geonamesId": "2128295"
+      "geonamesId": "2128295",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hokkaido",
+      "admin1Id": "JPN-46",
+      "administrativeUnit": "Hokkaido"
     },
     "Asahikawa": {
       "name": "Asahikawa",
@@ -604,7 +904,12 @@
       ],
       "region": "Hokkaido, Japan",
       "approximate": false,
-      "geonamesId": "2130629"
+      "geonamesId": "2130629",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hokkaido",
+      "admin1Id": "JPN-46",
+      "administrativeUnit": "Hokkaido"
     },
     "Otaru": {
       "name": "Otaru",
@@ -614,7 +919,12 @@
       ],
       "region": "Hokkaido, Japan",
       "approximate": false,
-      "geonamesId": "2128574"
+      "geonamesId": "2128574",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hokkaido",
+      "admin1Id": "JPN-46",
+      "administrativeUnit": "Hokkaido"
     },
     "Hakodate": {
       "name": "Hakodate",
@@ -624,7 +934,12 @@
       ],
       "region": "Hokkaido, Japan",
       "approximate": false,
-      "geonamesId": "2130188"
+      "geonamesId": "2130188",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hokkaido",
+      "admin1Id": "JPN-46",
+      "administrativeUnit": "Hokkaido"
     },
     "Tokyo": {
       "name": "Tokyo",
@@ -634,7 +949,12 @@
       ],
       "region": "Tokyo, Japan",
       "approximate": false,
-      "geonamesId": "1850147"
+      "geonamesId": "1850147",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Tokyo",
+      "admin1Id": "JPN-10",
+      "administrativeUnit": "Tokyo"
     },
     "Yokosuka": {
       "name": "Yokosuka",
@@ -644,7 +964,12 @@
       ],
       "region": "Kanagawa, Japan",
       "approximate": false,
-      "geonamesId": "1848313"
+      "geonamesId": "1848313",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kanagawa",
+      "admin1Id": "JPN-25",
+      "administrativeUnit": "Kanagawa"
     },
     "Jeju": {
       "name": "Jeju",
@@ -654,7 +979,12 @@
       ],
       "region": "Jeju, South Korea",
       "approximate": false,
-      "geonamesId": "1846266"
+      "geonamesId": "1846266",
+      "country": "South Korea",
+      "countryCode": "KOR",
+      "admin1": "Jeju",
+      "admin1Id": "KOR-11",
+      "administrativeUnit": "Jeju"
     },
     "Hong Kong": {
       "name": "Hong Kong",
@@ -664,7 +994,12 @@
       ],
       "region": "Hong Kong, China",
       "approximate": false,
-      "geonamesId": "1819729"
+      "geonamesId": "1819729",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hong Kong",
+      "admin1Id": "CHN-33",
+      "administrativeUnit": "Hong Kong"
     },
     "Macau": {
       "name": "Macau",
@@ -674,7 +1009,12 @@
       ],
       "region": "Macau, China",
       "approximate": false,
-      "geonamesId": "1821274"
+      "geonamesId": "1821274",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Macau",
+      "admin1Id": "CHN-32",
+      "administrativeUnit": "Macau"
     },
     "Shenzhen": {
       "name": "Shenzhen",
@@ -684,7 +1024,12 @@
       ],
       "region": "Guangdong, China",
       "approximate": false,
-      "geonamesId": "1795565"
+      "geonamesId": "1795565",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Guangdong",
+      "admin1Id": "CHN-34",
+      "administrativeUnit": "Guangdong"
     },
     "Chaozhou": {
       "name": "Chaozhou",
@@ -694,7 +1039,12 @@
       ],
       "region": "Guangdong, China",
       "approximate": false,
-      "geonamesId": "1815395"
+      "geonamesId": "1815395",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Guangdong",
+      "admin1Id": "CHN-34",
+      "administrativeUnit": "Guangdong"
     },
     "Shantou": {
       "name": "Shantou",
@@ -704,7 +1054,12 @@
       ],
       "region": "Guangdong, China",
       "approximate": false,
-      "geonamesId": "1795940"
+      "geonamesId": "1795940",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Guangdong",
+      "admin1Id": "CHN-34",
+      "administrativeUnit": "Guangdong"
     },
     "Longchuan": {
       "name": "Longchuan",
@@ -713,7 +1068,12 @@
         24.1
       ],
       "region": "Guangdong, China",
-      "approximate": false
+      "approximate": false,
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Guangdong",
+      "admin1Id": "CHN-34",
+      "administrativeUnit": "Guangdong"
     },
     "Wuyishan": {
       "name": "Wuyishan",
@@ -723,7 +1083,12 @@
       ],
       "region": "Fujian, China",
       "approximate": false,
-      "geonamesId": "1922014"
+      "geonamesId": "1922014",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Fujian",
+      "admin1Id": "CHN-4",
+      "administrativeUnit": "Fujian"
     },
     "Guilin": {
       "name": "Guilin",
@@ -733,7 +1098,12 @@
       ],
       "region": "Guangxi, China",
       "approximate": false,
-      "geonamesId": "1809498"
+      "geonamesId": "1809498",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Guangxi",
+      "admin1Id": "CHN-3",
+      "administrativeUnit": "Guangxi"
     },
     "Wuhan": {
       "name": "Wuhan",
@@ -743,7 +1113,12 @@
       ],
       "region": "Hubei, China",
       "approximate": false,
-      "geonamesId": "1791247"
+      "geonamesId": "1791247",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hubei",
+      "admin1Id": "CHN-12",
+      "administrativeUnit": "Hubei"
     },
     "Yangzhou": {
       "name": "Yangzhou",
@@ -753,7 +1128,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "1787227"
+      "geonamesId": "1787227",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Taizhou": {
       "name": "Taizhou",
@@ -763,7 +1143,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "1793505"
+      "geonamesId": "1793505",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Shaoxing": {
       "name": "Shaoxing",
@@ -773,7 +1158,12 @@
       ],
       "region": "Zhejiang, China",
       "approximate": false,
-      "geonamesId": "1795855"
+      "geonamesId": "1795855",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Zhejiang",
+      "admin1Id": "CHN-9",
+      "administrativeUnit": "Zhejiang"
     },
     "Lishui": {
       "name": "Lishui",
@@ -783,7 +1173,12 @@
       ],
       "region": "Zhejiang, China",
       "approximate": false,
-      "geonamesId": "1803245"
+      "geonamesId": "1803245",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Zhejiang",
+      "admin1Id": "CHN-9",
+      "administrativeUnit": "Zhejiang"
     },
     "Xinchang": {
       "name": "Xinchang",
@@ -792,7 +1187,12 @@
         29.5
       ],
       "region": "Zhejiang, China",
-      "approximate": false
+      "approximate": false,
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Zhejiang",
+      "admin1Id": "CHN-9",
+      "administrativeUnit": "Zhejiang"
     },
     "Huzhou": {
       "name": "Huzhou",
@@ -802,7 +1202,12 @@
       ],
       "region": "Zhejiang, China",
       "approximate": false,
-      "geonamesId": "1806535"
+      "geonamesId": "1806535",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Zhejiang",
+      "admin1Id": "CHN-9",
+      "administrativeUnit": "Zhejiang"
     },
     "Xuancheng": {
       "name": "Xuancheng",
@@ -812,7 +1217,12 @@
       ],
       "region": "Anhui, China",
       "approximate": false,
-      "geonamesId": "1788081"
+      "geonamesId": "1788081",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Anhui",
+      "admin1Id": "CHN-14",
+      "administrativeUnit": "Anhui"
     },
     "Dongtai": {
       "name": "Dongtai",
@@ -822,7 +1232,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "1812228"
+      "geonamesId": "1812228",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Dafeng": {
       "name": "Dafeng",
@@ -832,7 +1247,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "1813088"
+      "geonamesId": "1813088",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Sheyang": {
       "name": "Sheyang",
@@ -842,7 +1262,12 @@
       ],
       "region": "Jiangsu, China",
       "approximate": false,
-      "geonamesId": "1808744"
+      "geonamesId": "1808744",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangsu",
+      "admin1Id": "CHN-15",
+      "administrativeUnit": "Jiangsu"
     },
     "Jingdezhen": {
       "name": "Jingdezhen",
@@ -852,7 +1277,12 @@
       ],
       "region": "Jiangxi, China",
       "approximate": false,
-      "geonamesId": "1805680"
+      "geonamesId": "1805680",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangxi",
+      "admin1Id": "CHN-7",
+      "administrativeUnit": "Jiangxi"
     },
     "Nanchang": {
       "name": "Nanchang",
@@ -862,7 +1292,12 @@
       ],
       "region": "Jiangxi, China",
       "approximate": false,
-      "geonamesId": "1800163"
+      "geonamesId": "1800163",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangxi",
+      "admin1Id": "CHN-7",
+      "administrativeUnit": "Jiangxi"
     },
     "Jiujiang": {
       "name": "Jiujiang",
@@ -872,7 +1307,12 @@
       ],
       "region": "Jiangxi, China",
       "approximate": false,
-      "geonamesId": "1805179"
+      "geonamesId": "1805179",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangxi",
+      "admin1Id": "CHN-7",
+      "administrativeUnit": "Jiangxi"
     },
     "Jinzhai": {
       "name": "Jinzhai",
@@ -882,7 +1322,12 @@
       ],
       "region": "Anhui, China",
       "approximate": false,
-      "geonamesId": "1800815"
+      "geonamesId": "1800815",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Anhui",
+      "admin1Id": "CHN-14",
+      "administrativeUnit": "Anhui"
     },
     "Guangshan": {
       "name": "Guangshan",
@@ -892,7 +1337,12 @@
       ],
       "region": "Henan, China",
       "approximate": false,
-      "geonamesId": "1809881"
+      "geonamesId": "1809881",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Henan",
+      "admin1Id": "CHN-16",
+      "administrativeUnit": "Henan"
     },
     "Phnom Penh": {
       "name": "Phnom Penh",
@@ -905,7 +1355,10 @@
       "geonamesId": "1821306",
       "admin1": "Phnom Penh",
       "country": "Cambodia",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "KHM",
+      "admin1Id": "KHM-4",
+      "administrativeUnit": "Phnom Penh"
     },
     "Siem Reap": {
       "name": "Siem Reap",
@@ -918,7 +1371,10 @@
       "geonamesId": "1822214",
       "admin1": "Siem Reap",
       "country": "Cambodia",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "KHM",
+      "admin1Id": "KHM-15",
+      "administrativeUnit": "Siem Reap"
     },
     "Hanoi": {
       "name": "Hanoi",
@@ -931,7 +1387,10 @@
       "geonamesId": "1581130",
       "admin1": "Hanoi",
       "country": "Vietnam",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "VNM",
+      "admin1Id": "VNM-18",
+      "administrativeUnit": "Hà Nội"
     },
     "Ha Long": {
       "name": "Ha Long",
@@ -944,7 +1403,10 @@
       "geonamesId": "1580410",
       "admin1": "Quảng Ninh",
       "country": "Vietnam",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "VNM",
+      "admin1Id": "VNM-31",
+      "administrativeUnit": "Quảng Ninh"
     },
     "Singapore": {
       "name": "Singapore",
@@ -957,7 +1419,9 @@
       "geonamesId": "1880252",
       "country": "Singapore",
       "admin1": "Singapore",
-      "displayName": "Singapore, Singapore"
+      "displayName": "Singapore, Singapore",
+      "countryCode": "SGP",
+      "administrativeUnit": null
     },
     "Kota Kinabalu": {
       "name": "Kota Kinabalu",
@@ -967,7 +1431,12 @@
       ],
       "region": "Sabah, Malaysia",
       "approximate": false,
-      "geonamesId": "1733432"
+      "geonamesId": "1733432",
+      "country": "Malaysia",
+      "countryCode": "MYS",
+      "admin1": "Sabah",
+      "admin1Id": "MYS-6",
+      "administrativeUnit": "Sabah"
     },
     "Semporna": {
       "name": "Semporna",
@@ -977,7 +1446,12 @@
       ],
       "region": "Sabah, Malaysia",
       "approximate": false,
-      "geonamesId": "1733697"
+      "geonamesId": "1733697",
+      "country": "Malaysia",
+      "countryCode": "MYS",
+      "admin1": "Sabah",
+      "admin1Id": "MYS-6",
+      "administrativeUnit": "Sabah"
     },
     "Istanbul": {
       "name": "Istanbul",
@@ -990,7 +1464,10 @@
       "geonamesId": "745044",
       "admin1": "Istanbul",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-40",
+      "administrativeUnit": "İstanbul"
     },
     "Bursa": {
       "name": "Bursa",
@@ -1003,7 +1480,10 @@
       "geonamesId": "750269",
       "admin1": "Bursa",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-21",
+      "administrativeUnit": "Bursa"
     },
     "Izmir": {
       "name": "Izmir",
@@ -1016,7 +1496,10 @@
       "geonamesId": "311046",
       "admin1": "İzmir",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-41",
+      "administrativeUnit": "İzmir"
     },
     "Selçuk": {
       "name": "Selçuk",
@@ -1029,7 +1512,10 @@
       "geonamesId": "301256",
       "admin1": "İzmir",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-41",
+      "administrativeUnit": "İzmir"
     },
     "Kuşadası": {
       "name": "Kuşadası",
@@ -1042,7 +1528,10 @@
       "geonamesId": "305359",
       "admin1": "Aydın",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-8",
+      "administrativeUnit": "Aydın"
     },
     "Denizli": {
       "name": "Denizli",
@@ -1055,7 +1544,10 @@
       "geonamesId": "317109",
       "admin1": "Denizli",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-25",
+      "administrativeUnit": "Denizli"
     },
     "Çanakkale": {
       "name": "Çanakkale",
@@ -1069,7 +1561,10 @@
       "admin1": "Çanakkale",
       "country": "Turkey",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-22",
+      "administrativeUnit": "Çanakkale"
     },
     "Fethiye": {
       "name": "Fethiye",
@@ -1082,7 +1577,10 @@
       "geonamesId": "314967",
       "admin1": "Muğla",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-59",
+      "administrativeUnit": "Muğla"
     },
     "Kaş": {
       "name": "Kaş",
@@ -1095,7 +1593,10 @@
       "geonamesId": "308948",
       "admin1": "Antalya",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-6",
+      "administrativeUnit": "Antalya"
     },
     "Antalya": {
       "name": "Antalya",
@@ -1108,7 +1609,10 @@
       "geonamesId": "323777",
       "admin1": "Antalya",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-6",
+      "administrativeUnit": "Antalya"
     },
     "Cappadocia": {
       "name": "Cappadocia",
@@ -1120,7 +1624,9 @@
       "approximate": true,
       "admin1": "Central Anatolia",
       "country": "Turkey",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "TUR",
+      "administrativeUnit": null
     },
     "Baku": {
       "name": "Baku",
@@ -1134,7 +1640,10 @@
       "admin1": "Baku",
       "country": "Azerbaijan",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "AZE",
+      "admin1Id": "AZE-9",
+      "administrativeUnit": "Baku City"
     },
     "Sheki": {
       "name": "Sheki",
@@ -1148,7 +1657,10 @@
       "admin1": "Sheki",
       "country": "Azerbaijan",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "AZE",
+      "admin1Id": "AZE-23",
+      "administrativeUnit": "Shaki City"
     },
     "Tbilisi": {
       "name": "Tbilisi",
@@ -1161,7 +1673,10 @@
       "geonamesId": "611717",
       "admin1": "Tbilisi",
       "country": "Georgia",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "GEO",
+      "admin1Id": "GEO-4",
+      "administrativeUnit": "Tbilisi"
     },
     "Gudauri": {
       "name": "Gudauri",
@@ -1174,7 +1689,10 @@
       "geonamesId": "614410",
       "admin1": "Mtskheta-Mtianeti",
       "country": "Georgia",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "GEO",
+      "admin1Id": "GEO-5",
+      "administrativeUnit": "Mtskheta-Mtianeti"
     },
     "Sevan": {
       "name": "Sevan",
@@ -1187,7 +1705,10 @@
       "geonamesId": "616250",
       "admin1": "Gegharkunik",
       "country": "Armenia",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "ARM",
+      "admin1Id": "ARM-1",
+      "administrativeUnit": "Gegharkunik"
     },
     "Yerevan": {
       "name": "Yerevan",
@@ -1200,7 +1721,10 @@
       "geonamesId": "616052",
       "admin1": "Yerevan",
       "country": "Armenia",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "ARM",
+      "admin1Id": "ARM-10",
+      "administrativeUnit": "Yerevan"
     },
     "Batumi": {
       "name": "Batumi",
@@ -1213,7 +1737,10 @@
       "geonamesId": "615532",
       "admin1": "Adjara",
       "country": "Georgia",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "GEO",
+      "admin1Id": "GEO-7",
+      "administrativeUnit": "Adjara"
     },
     "Artvin": {
       "name": "Artvin",
@@ -1226,7 +1753,10 @@
       "geonamesId": "751817",
       "admin1": "Artvin",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-7",
+      "administrativeUnit": "Artvin"
     },
     "Kars": {
       "name": "Kars",
@@ -1239,7 +1769,10 @@
       "geonamesId": "743952",
       "admin1": "Kars",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-45",
+      "administrativeUnit": "Kars"
     },
     "Doğubayazıt": {
       "name": "Doğubayazıt",
@@ -1252,7 +1785,10 @@
       "geonamesId": "316411",
       "admin1": "Ağrı",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-4",
+      "administrativeUnit": "Ağrı"
     },
     "Van": {
       "name": "Van",
@@ -1265,7 +1801,10 @@
       "geonamesId": "298117",
       "admin1": "Van",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-76",
+      "administrativeUnit": "Van"
     },
     "Divriği": {
       "name": "Divriği",
@@ -1278,7 +1817,10 @@
       "geonamesId": "316544",
       "admin1": "Sivas",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-70",
+      "administrativeUnit": "Sivas"
     },
     "Sivas": {
       "name": "Sivas",
@@ -1291,7 +1833,10 @@
       "geonamesId": "300619",
       "admin1": "Sivas",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-70",
+      "administrativeUnit": "Sivas"
     },
     "Ankara": {
       "name": "Ankara",
@@ -1304,7 +1849,10 @@
       "geonamesId": "323786",
       "admin1": "Ankara",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-10",
+      "administrativeUnit": "Ankara"
     },
     "Tashkent": {
       "name": "Tashkent",
@@ -1317,7 +1865,10 @@
       "geonamesId": "1512569",
       "admin1": "Tashkent",
       "country": "Uzbekistan",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "UZB",
+      "admin1Id": "UZB-14",
+      "administrativeUnit": "Tashkent"
     },
     "Samarkand": {
       "name": "Samarkand",
@@ -1331,7 +1882,10 @@
       "admin1": "Samarkand",
       "country": "Uzbekistan",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "UZB",
+      "admin1Id": "UZB-8",
+      "administrativeUnit": "Samarqand Region"
     },
     "Bukhara": {
       "name": "Bukhara",
@@ -1344,7 +1898,10 @@
       "geonamesId": "1217662",
       "admin1": "Bukhara",
       "country": "Uzbekistan",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "UZB",
+      "admin1Id": "UZB-12",
+      "administrativeUnit": "Bukhara Region"
     },
     "Khiva": {
       "name": "Khiva",
@@ -1358,7 +1915,10 @@
       "admin1": "Khorezm",
       "country": "Uzbekistan",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "UZB",
+      "admin1Id": "UZB-5",
+      "administrativeUnit": "Xorazm Region"
     },
     "Nukus": {
       "name": "Nukus",
@@ -1371,7 +1931,10 @@
       "geonamesId": "601294",
       "admin1": "Karakalpakstan",
       "country": "Uzbekistan",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "UZB",
+      "admin1Id": "UZB-4",
+      "administrativeUnit": "Republic of Karakalpakstan"
     },
     "Aral Sea": {
       "name": "Aral Sea",
@@ -1379,8 +1942,13 @@
         59.4,
         44.7
       ],
-      "region": "Central Asia",
-      "approximate": true
+      "region": "Karakalpakstan, Uzbekistan",
+      "approximate": true,
+      "country": "Uzbekistan",
+      "countryCode": "UZB",
+      "admin1": "Karakalpakstan",
+      "admin1Id": "UZB-4",
+      "administrativeUnit": "Republic of Karakalpakstan"
     },
     "Abu Dhabi": {
       "name": "Abu Dhabi",
@@ -1393,7 +1961,10 @@
       "geonamesId": "292968",
       "admin1": "Abu Dhabi",
       "country": "UAE",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "ARE",
+      "admin1Id": "ARE-1",
+      "administrativeUnit": "Abu Dhabi"
     },
     "Dubai": {
       "name": "Dubai",
@@ -1406,7 +1977,10 @@
       "geonamesId": "292223",
       "admin1": "Dubai",
       "country": "UAE",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "ARE",
+      "admin1Id": "ARE-3",
+      "administrativeUnit": "Dubai"
     },
     "Safranbolu": {
       "name": "Safranbolu",
@@ -1419,7 +1993,10 @@
       "geonamesId": "740430",
       "admin1": "Karabük",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-43",
+      "administrativeUnit": "Karabük"
     },
     "Boğazkale": {
       "name": "Boğazkale",
@@ -1432,7 +2009,10 @@
       "geonamesId": "750539",
       "admin1": "Çorum",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-24",
+      "administrativeUnit": "Çorum"
     },
     "Çeşme": {
       "name": "Çeşme",
@@ -1445,7 +2025,10 @@
       "geonamesId": "318755",
       "admin1": "İzmir",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-41",
+      "administrativeUnit": "İzmir"
     },
     "Bergama": {
       "name": "Bergama",
@@ -1458,7 +2041,10 @@
       "geonamesId": "321426",
       "admin1": "İzmir",
       "country": "Turkey",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-41",
+      "administrativeUnit": "İzmir"
     },
     "Troy": {
       "name": "Troy",
@@ -1470,7 +2056,10 @@
       "approximate": false,
       "admin1": "Çanakkale",
       "country": "Turkey",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "TUR",
+      "admin1Id": "TUR-22",
+      "administrativeUnit": "Çanakkale"
     },
     "Gwangju": {
       "name": "Gwangju",
@@ -1483,7 +2072,10 @@
       "geonamesId": "1841811",
       "admin1": "Gwangju",
       "country": "South Korea",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "KOR",
+      "admin1Id": "KOR-16",
+      "administrativeUnit": "Gwangju"
     },
     "Seoul": {
       "name": "Seoul",
@@ -1496,7 +2088,10 @@
       "geonamesId": "1835848",
       "admin1": "Seoul",
       "country": "South Korea",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "KOR",
+      "admin1Id": "KOR-12",
+      "administrativeUnit": "Seoul"
     },
     "Dorasan": {
       "name": "Dorasan",
@@ -1505,7 +2100,12 @@
         37.9
       ],
       "region": "Gyeonggi, South Korea",
-      "approximate": false
+      "approximate": false,
+      "country": "South Korea",
+      "countryCode": "KOR",
+      "admin1": "Gyeonggi",
+      "admin1Id": "KOR-2",
+      "administrativeUnit": "Gyeonggi"
     },
     "Sokcho": {
       "name": "Sokcho",
@@ -1515,7 +2115,12 @@
       ],
       "region": "Gangwon, South Korea",
       "approximate": false,
-      "geonamesId": "1836553"
+      "geonamesId": "1836553",
+      "country": "South Korea",
+      "countryCode": "KOR",
+      "admin1": "Gangwon",
+      "admin1Id": "KOR-1",
+      "administrativeUnit": "Gangwon"
     },
     "Osaka": {
       "name": "Osaka",
@@ -1525,7 +2130,12 @@
       ],
       "region": "Osaka, Japan",
       "approximate": false,
-      "geonamesId": "1853909"
+      "geonamesId": "1853909",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Osaka",
+      "admin1Id": "JPN-1",
+      "administrativeUnit": "Osaka"
     },
     "Vancouver": {
       "name": "Vancouver",
@@ -1535,7 +2145,12 @@
       ],
       "region": "British Columbia, Canada",
       "approximate": false,
-      "geonamesId": "6173331"
+      "geonamesId": "6173331",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "admin1": "British Columbia",
+      "admin1Id": "CAN-10",
+      "administrativeUnit": "British Columbia"
     },
     "Whitehorse": {
       "name": "Whitehorse",
@@ -1545,7 +2160,12 @@
       ],
       "region": "Yukon, Canada",
       "approximate": false,
-      "geonamesId": "6180550"
+      "geonamesId": "6180550",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "admin1": "Yukon",
+      "admin1Id": "CAN-11",
+      "administrativeUnit": "Yukon"
     },
     "Old Crow": {
       "name": "Old Crow",
@@ -1554,7 +2174,12 @@
         67.57
       ],
       "region": "Yukon, Canada",
-      "approximate": false
+      "approximate": false,
+      "country": "Canada",
+      "countryCode": "CAN",
+      "admin1": "Yukon",
+      "admin1Id": "CAN-11",
+      "administrativeUnit": "Yukon"
     },
     "Mayo": {
       "name": "Mayo",
@@ -1564,7 +2189,12 @@
       ],
       "region": "Yukon, Canada",
       "approximate": false,
-      "geonamesId": "6068416"
+      "geonamesId": "6068416",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "admin1": "Yukon",
+      "admin1Id": "CAN-11",
+      "administrativeUnit": "Yukon"
     },
     "Dawson City": {
       "name": "Dawson City",
@@ -1574,7 +2204,12 @@
       ],
       "region": "Yukon, Canada",
       "approximate": false,
-      "geonamesId": "6943713"
+      "geonamesId": "6943713",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "admin1": "Yukon",
+      "admin1Id": "CAN-11",
+      "administrativeUnit": "Yukon"
     },
     "Victoria": {
       "name": "Victoria",
@@ -1584,7 +2219,12 @@
       ],
       "region": "British Columbia, Canada",
       "approximate": false,
-      "geonamesId": "6174041"
+      "geonamesId": "6174041",
+      "country": "Canada",
+      "countryCode": "CAN",
+      "admin1": "British Columbia",
+      "admin1Id": "CAN-10",
+      "administrativeUnit": "British Columbia"
     },
     "Arima": {
       "name": "Arima",
@@ -1593,7 +2233,12 @@
         34.8
       ],
       "region": "Hyogo, Japan",
-      "approximate": false
+      "approximate": false,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hyogo",
+      "admin1Id": "JPN-3",
+      "administrativeUnit": "Hyogo"
     },
     "Uji": {
       "name": "Uji",
@@ -1603,7 +2248,12 @@
       ],
       "region": "Kyoto, Japan",
       "approximate": false,
-      "geonamesId": "1849372"
+      "geonamesId": "1849372",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kyoto",
+      "admin1Id": "JPN-22",
+      "administrativeUnit": "Kyoto"
     },
     "Kyoto": {
       "name": "Kyoto",
@@ -1613,7 +2263,12 @@
       ],
       "region": "Kyoto, Japan",
       "approximate": false,
-      "geonamesId": "1857910"
+      "geonamesId": "1857910",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kyoto",
+      "admin1Id": "JPN-22",
+      "administrativeUnit": "Kyoto"
     },
     "Shirahama": {
       "name": "Shirahama",
@@ -1623,7 +2278,12 @@
       ],
       "region": "Wakayama, Japan",
       "approximate": false,
-      "geonamesId": "1851936"
+      "geonamesId": "1851936",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Wakayama",
+      "admin1Id": "JPN-9",
+      "administrativeUnit": "Wakayama"
     },
     "Hiroshima": {
       "name": "Hiroshima",
@@ -1633,7 +2293,12 @@
       ],
       "region": "Hiroshima, Japan",
       "approximate": false,
-      "geonamesId": "1862415"
+      "geonamesId": "1862415",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hiroshima",
+      "admin1Id": "JPN-26",
+      "administrativeUnit": "Hiroshima"
     },
     "Miyajima": {
       "name": "Miyajima",
@@ -1643,7 +2308,12 @@
       ],
       "region": "Hiroshima, Japan",
       "approximate": false,
-      "geonamesId": "1856798"
+      "geonamesId": "1856798",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hiroshima",
+      "admin1Id": "JPN-26",
+      "administrativeUnit": "Hiroshima"
     },
     "Hofu": {
       "name": "Hofu",
@@ -1653,7 +2323,12 @@
       ],
       "region": "Yamaguchi, Japan",
       "approximate": false,
-      "geonamesId": "1862302"
+      "geonamesId": "1862302",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Yamaguchi",
+      "admin1Id": "JPN-47",
+      "administrativeUnit": "Yamaguchi"
     },
     "Yamaguchi": {
       "name": "Yamaguchi",
@@ -1663,7 +2338,12 @@
       ],
       "region": "Yamaguchi, Japan",
       "approximate": false,
-      "geonamesId": "1848689"
+      "geonamesId": "1848689",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Yamaguchi",
+      "admin1Id": "JPN-47",
+      "administrativeUnit": "Yamaguchi"
     },
     "Hagi": {
       "name": "Hagi",
@@ -1673,7 +2353,12 @@
       ],
       "region": "Yamaguchi, Japan",
       "approximate": false,
-      "geonamesId": "1863418"
+      "geonamesId": "1863418",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Yamaguchi",
+      "admin1Id": "JPN-47",
+      "administrativeUnit": "Yamaguchi"
     },
     "Shimonoseki": {
       "name": "Shimonoseki",
@@ -1683,7 +2368,12 @@
       ],
       "region": "Yamaguchi, Japan",
       "approximate": false,
-      "geonamesId": "1852225"
+      "geonamesId": "1852225",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Yamaguchi",
+      "admin1Id": "JPN-47",
+      "administrativeUnit": "Yamaguchi"
     },
     "Nagato": {
       "name": "Nagato",
@@ -1693,7 +2383,12 @@
       ],
       "region": "Yamaguchi, Japan",
       "approximate": false,
-      "geonamesId": "1899102"
+      "geonamesId": "1899102",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Yamaguchi",
+      "admin1Id": "JPN-47",
+      "administrativeUnit": "Yamaguchi"
     },
     "Moji": {
       "name": "Moji",
@@ -1702,7 +2397,12 @@
         33.95
       ],
       "region": "Fukuoka, Japan",
-      "approximate": false
+      "approximate": false,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Fukuoka",
+      "admin1Id": "JPN-11",
+      "administrativeUnit": "Fukuoka"
     },
     "Asakura": {
       "name": "Asakura",
@@ -1712,7 +2412,12 @@
       ],
       "region": "Fukuoka, Japan",
       "approximate": false,
-      "geonamesId": "11612701"
+      "geonamesId": "11612701",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Fukuoka",
+      "admin1Id": "JPN-11",
+      "administrativeUnit": "Fukuoka"
     },
     "Dazaifu": {
       "name": "Dazaifu",
@@ -1722,7 +2427,12 @@
       ],
       "region": "Fukuoka, Japan",
       "approximate": false,
-      "geonamesId": "7422816"
+      "geonamesId": "7422816",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Fukuoka",
+      "admin1Id": "JPN-11",
+      "administrativeUnit": "Fukuoka"
     },
     "Munakata": {
       "name": "Munakata",
@@ -1732,7 +2442,12 @@
       ],
       "region": "Fukuoka, Japan",
       "approximate": false,
-      "geonamesId": "11611614"
+      "geonamesId": "11611614",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Fukuoka",
+      "admin1Id": "JPN-11",
+      "administrativeUnit": "Fukuoka"
     },
     "Fukuoka": {
       "name": "Fukuoka",
@@ -1742,7 +2457,12 @@
       ],
       "region": "Fukuoka, Japan",
       "approximate": false,
-      "geonamesId": "1863967"
+      "geonamesId": "1863967",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Fukuoka",
+      "admin1Id": "JPN-11",
+      "administrativeUnit": "Fukuoka"
     },
     "Nagoya": {
       "name": "Nagoya",
@@ -1752,7 +2472,12 @@
       ],
       "region": "Aichi, Japan",
       "approximate": false,
-      "geonamesId": "1856057"
+      "geonamesId": "1856057",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Aichi",
+      "admin1Id": "JPN-31",
+      "administrativeUnit": "Aichi"
     },
     "Nara": {
       "name": "Nara",
@@ -1762,7 +2487,12 @@
       ],
       "region": "Nara, Japan",
       "approximate": false,
-      "geonamesId": "1855612"
+      "geonamesId": "1855612",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Nara",
+      "admin1Id": "JPN-6",
+      "administrativeUnit": "Nara"
     },
     "Wakayama": {
       "name": "Wakayama",
@@ -1772,7 +2502,12 @@
       ],
       "region": "Wakayama, Japan",
       "approximate": false,
-      "geonamesId": "1926004"
+      "geonamesId": "1926004",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Wakayama",
+      "admin1Id": "JPN-9",
+      "administrativeUnit": "Wakayama"
     },
     "Himeji": {
       "name": "Himeji",
@@ -1782,7 +2517,12 @@
       ],
       "region": "Hyogo, Japan",
       "approximate": false,
-      "geonamesId": "1862627"
+      "geonamesId": "1862627",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hyogo",
+      "admin1Id": "JPN-3",
+      "administrativeUnit": "Hyogo"
     },
     "Takahashi": {
       "name": "Takahashi",
@@ -1792,7 +2532,12 @@
       ],
       "region": "Okayama, Japan",
       "approximate": false,
-      "geonamesId": "1851137"
+      "geonamesId": "1851137",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okayama",
+      "admin1Id": "JPN-40",
+      "administrativeUnit": "Okayama"
     },
     "Mimasaka": {
       "name": "Mimasaka",
@@ -1802,7 +2547,12 @@
       ],
       "region": "Okayama, Japan",
       "approximate": false,
-      "geonamesId": "1862968"
+      "geonamesId": "1862968",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okayama",
+      "admin1Id": "JPN-40",
+      "administrativeUnit": "Okayama"
     },
     "Okayama": {
       "name": "Okayama",
@@ -1812,7 +2562,12 @@
       ],
       "region": "Okayama, Japan",
       "approximate": false,
-      "geonamesId": "1854383"
+      "geonamesId": "1854383",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okayama",
+      "admin1Id": "JPN-40",
+      "administrativeUnit": "Okayama"
     },
     "Kurashiki": {
       "name": "Kurashiki",
@@ -1822,7 +2577,12 @@
       ],
       "region": "Okayama, Japan",
       "approximate": false,
-      "geonamesId": "1858311"
+      "geonamesId": "1858311",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okayama",
+      "admin1Id": "JPN-40",
+      "administrativeUnit": "Okayama"
     },
     "Kojima": {
       "name": "Kojima",
@@ -1831,7 +2591,12 @@
         34.46
       ],
       "region": "Okayama, Japan",
-      "approximate": false
+      "approximate": false,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okayama",
+      "admin1Id": "JPN-40",
+      "administrativeUnit": "Okayama"
     },
     "Kotohira": {
       "name": "Kotohira",
@@ -1841,7 +2606,12 @@
       ],
       "region": "Kagawa, Japan",
       "approximate": false,
-      "geonamesId": "1858667"
+      "geonamesId": "1858667",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kagawa",
+      "admin1Id": "JPN-44",
+      "administrativeUnit": "Kagawa"
     },
     "Marugame": {
       "name": "Marugame",
@@ -1851,7 +2621,12 @@
       ],
       "region": "Kagawa, Japan",
       "approximate": false,
-      "geonamesId": "1857665"
+      "geonamesId": "1857665",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kagawa",
+      "admin1Id": "JPN-44",
+      "administrativeUnit": "Kagawa"
     },
     "Matsuyama": {
       "name": "Matsuyama",
@@ -1861,7 +2636,12 @@
       ],
       "region": "Ehime, Japan",
       "approximate": false,
-      "geonamesId": "1926099"
+      "geonamesId": "1926099",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Ehime",
+      "admin1Id": "JPN-43",
+      "administrativeUnit": "Ehime"
     },
     "Ozu": {
       "name": "Ozu",
@@ -1871,7 +2651,12 @@
       ],
       "region": "Ehime, Japan",
       "approximate": false,
-      "geonamesId": "1926055"
+      "geonamesId": "1926055",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Ehime",
+      "admin1Id": "JPN-43",
+      "administrativeUnit": "Ehime"
     },
     "Uwajima": {
       "name": "Uwajima",
@@ -1881,7 +2666,12 @@
       ],
       "region": "Ehime, Japan",
       "approximate": false,
-      "geonamesId": "1926020"
+      "geonamesId": "1926020",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Ehime",
+      "admin1Id": "JPN-43",
+      "administrativeUnit": "Ehime"
     },
     "Shimanto": {
       "name": "Shimanto",
@@ -1891,7 +2681,12 @@
       ],
       "region": "Kochi, Japan",
       "approximate": false,
-      "geonamesId": "1852358"
+      "geonamesId": "1852358",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kochi",
+      "admin1Id": "JPN-42",
+      "administrativeUnit": "Kochi"
     },
     "Kochi": {
       "name": "Kochi",
@@ -1901,7 +2696,12 @@
       ],
       "region": "Kochi, Japan",
       "approximate": false,
-      "geonamesId": "1859146"
+      "geonamesId": "1859146",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kochi",
+      "admin1Id": "JPN-42",
+      "administrativeUnit": "Kochi"
     },
     "Oboke": {
       "name": "Oboke",
@@ -1910,7 +2710,12 @@
         33.88
       ],
       "region": "Tokushima, Japan",
-      "approximate": false
+      "approximate": false,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Tokushima",
+      "admin1Id": "JPN-41",
+      "administrativeUnit": "Tokushima"
     },
     "Takamatsu": {
       "name": "Takamatsu",
@@ -1920,7 +2725,12 @@
       ],
       "region": "Kagawa, Japan",
       "approximate": false,
-      "geonamesId": "1851100"
+      "geonamesId": "1851100",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kagawa",
+      "admin1Id": "JPN-44",
+      "administrativeUnit": "Kagawa"
     },
     "Naha": {
       "name": "Naha",
@@ -1930,7 +2740,12 @@
       ],
       "region": "Okinawa, Japan",
       "approximate": false,
-      "geonamesId": "1856035"
+      "geonamesId": "1856035",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okinawa",
+      "admin1Id": "JPN-45",
+      "administrativeUnit": "Okinawa"
     },
     "Onna": {
       "name": "Onna",
@@ -1940,7 +2755,12 @@
       ],
       "region": "Okinawa, Japan",
       "approximate": false,
-      "geonamesId": "1854037"
+      "geonamesId": "1854037",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okinawa",
+      "admin1Id": "JPN-45",
+      "administrativeUnit": "Okinawa"
     },
     "Nakagami": {
       "name": "Nakagami",
@@ -1949,7 +2769,12 @@
         26.32
       ],
       "region": "Okinawa, Japan",
-      "approximate": true
+      "approximate": true,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okinawa",
+      "admin1Id": "JPN-45",
+      "administrativeUnit": "Okinawa"
     },
     "Ishigaki": {
       "name": "Ishigaki",
@@ -1959,7 +2784,12 @@
       ],
       "region": "Okinawa, Japan",
       "approximate": false,
-      "geonamesId": "1861416"
+      "geonamesId": "1861416",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okinawa",
+      "admin1Id": "JPN-45",
+      "administrativeUnit": "Okinawa"
     },
     "Iriomote": {
       "name": "Iriomote",
@@ -1968,7 +2798,12 @@
         24.34
       ],
       "region": "Okinawa, Japan",
-      "approximate": true
+      "approximate": true,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Okinawa",
+      "admin1Id": "JPN-45",
+      "administrativeUnit": "Okinawa"
     },
     "Narita": {
       "name": "Narita",
@@ -1978,7 +2813,12 @@
       ],
       "region": "Chiba, Japan",
       "approximate": false,
-      "geonamesId": "2111684"
+      "geonamesId": "2111684",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Chiba",
+      "admin1Id": "JPN-23",
+      "administrativeUnit": "Chiba"
     },
     "Kamakura": {
       "name": "Kamakura",
@@ -1988,7 +2828,12 @@
       ],
       "region": "Kanagawa, Japan",
       "approximate": false,
-      "geonamesId": "1860672"
+      "geonamesId": "1860672",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kanagawa",
+      "admin1Id": "JPN-25",
+      "administrativeUnit": "Kanagawa"
     },
     "Fujisawa": {
       "name": "Fujisawa",
@@ -1998,7 +2843,12 @@
       ],
       "region": "Kanagawa, Japan",
       "approximate": false,
-      "geonamesId": "1864092"
+      "geonamesId": "1864092",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kanagawa",
+      "admin1Id": "JPN-25",
+      "administrativeUnit": "Kanagawa"
     },
     "Hakone": {
       "name": "Hakone",
@@ -2008,7 +2858,12 @@
       ],
       "region": "Kanagawa, Japan",
       "approximate": false,
-      "geonamesId": "1863357"
+      "geonamesId": "1863357",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Kanagawa",
+      "admin1Id": "JPN-25",
+      "administrativeUnit": "Kanagawa"
     },
     "Kawaguchiko": {
       "name": "Kawaguchiko",
@@ -2017,7 +2872,12 @@
         35.5
       ],
       "region": "Yamanashi, Japan",
-      "approximate": false
+      "approximate": false,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Yamanashi",
+      "admin1Id": "JPN-32",
+      "administrativeUnit": "Yamanashi"
     },
     "Tachikawa": {
       "name": "Tachikawa",
@@ -2027,7 +2887,12 @@
       ],
       "region": "Tokyo, Japan",
       "approximate": false,
-      "geonamesId": "11611487"
+      "geonamesId": "11611487",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Tokyo",
+      "admin1Id": "JPN-10",
+      "administrativeUnit": "Tokyo"
     },
     "Tama": {
       "name": "Tama",
@@ -2037,7 +2902,12 @@
       ],
       "region": "Tokyo, Japan",
       "approximate": false,
-      "geonamesId": "6822129"
+      "geonamesId": "6822129",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Tokyo",
+      "admin1Id": "JPN-10",
+      "administrativeUnit": "Tokyo"
     },
     "Manila": {
       "name": "Manila",
@@ -2050,7 +2920,10 @@
       "geonamesId": "1701668",
       "admin1": "National Capital Region",
       "country": "Philippines",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-3",
+      "administrativeUnit": "National Capital Region"
     },
     "Baler": {
       "name": "Baler",
@@ -2064,7 +2937,10 @@
       "admin1": "Aurora",
       "country": "Philippines",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-6",
+      "administrativeUnit": "Central Luzon"
     },
     "Santiago": {
       "name": "Santiago",
@@ -2078,7 +2954,10 @@
       "admin1": "Isabela",
       "country": "Philippines",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-5",
+      "administrativeUnit": "Cagayan Valley"
     },
     "Banaue": {
       "name": "Banaue",
@@ -2092,7 +2971,10 @@
       "admin1": "Ifugao",
       "country": "Philippines",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-2",
+      "administrativeUnit": "Cordillera Administrative Region"
     },
     "Sadanga": {
       "name": "Sadanga",
@@ -2106,7 +2988,10 @@
       "admin1": "Mountain Province",
       "country": "Philippines",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-2",
+      "administrativeUnit": "Cordillera Administrative Region"
     },
     "Tabuk": {
       "name": "Tabuk",
@@ -2120,7 +3005,10 @@
       "admin1": "Kalinga",
       "country": "Philippines",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-2",
+      "administrativeUnit": "Cordillera Administrative Region"
     },
     "Vigan": {
       "name": "Vigan",
@@ -2134,7 +3022,10 @@
       "admin1": "Ilocos Sur",
       "country": "Philippines",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-4",
+      "administrativeUnit": "Ilocos Region"
     },
     "Baguio": {
       "name": "Baguio",
@@ -2148,7 +3039,10 @@
       "admin1": "Cordillera Administrative Region",
       "country": "Philippines",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "PHL",
+      "admin1Id": "PHL-2",
+      "administrativeUnit": "Cordillera Administrative Region"
     },
     "Kobe": {
       "name": "Kobe",
@@ -2158,7 +3052,12 @@
       ],
       "region": "Hyogo, Japan",
       "approximate": false,
-      "geonamesId": "1859171"
+      "geonamesId": "1859171",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Hyogo",
+      "admin1Id": "JPN-3",
+      "administrativeUnit": "Hyogo"
     },
     "Oita": {
       "name": "Oita",
@@ -2168,7 +3067,12 @@
       ],
       "region": "Oita, Japan",
       "approximate": false,
-      "geonamesId": "1854487"
+      "geonamesId": "1854487",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Oita",
+      "admin1Id": "JPN-2",
+      "administrativeUnit": "Oita"
     },
     "Beppu": {
       "name": "Beppu",
@@ -2178,7 +3082,12 @@
       ],
       "region": "Oita, Japan",
       "approximate": false,
-      "geonamesId": "1864750"
+      "geonamesId": "1864750",
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Oita",
+      "admin1Id": "JPN-2",
+      "administrativeUnit": "Oita"
     },
     "Yufuin": {
       "name": "Yufuin",
@@ -2187,7 +3096,12 @@
         33.27
       ],
       "region": "Oita, Japan",
-      "approximate": false
+      "approximate": false,
+      "country": "Japan",
+      "countryCode": "JPN",
+      "admin1": "Oita",
+      "admin1Id": "JPN-2",
+      "administrativeUnit": "Oita"
     },
     "Beijing": {
       "name": "Beijing",
@@ -2197,7 +3111,12 @@
       ],
       "region": "Beijing, China",
       "approximate": false,
-      "geonamesId": "1816670"
+      "geonamesId": "1816670",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Beijing",
+      "admin1Id": "CHN-24",
+      "administrativeUnit": "Beijing"
     },
     "Tianjin": {
       "name": "Tianjin",
@@ -2207,7 +3126,12 @@
       ],
       "region": "Tianjin, China",
       "approximate": false,
-      "geonamesId": "1792947"
+      "geonamesId": "1792947",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Tianjin",
+      "admin1Id": "CHN-22",
+      "administrativeUnit": "Tianjin"
     },
     "Zhangjiakou": {
       "name": "Zhangjiakou",
@@ -2217,7 +3141,12 @@
       ],
       "region": "Hebei, China",
       "approximate": false,
-      "geonamesId": "2033196"
+      "geonamesId": "2033196",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hebei",
+      "admin1Id": "CHN-26",
+      "administrativeUnit": "Hebei"
     },
     "Baoding": {
       "name": "Baoding",
@@ -2227,7 +3156,12 @@
       ],
       "region": "Hebei, China",
       "approximate": false,
-      "geonamesId": "1816971"
+      "geonamesId": "1816971",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Hebei",
+      "admin1Id": "CHN-26",
+      "administrativeUnit": "Hebei"
     },
     "Chongqing": {
       "name": "Chongqing",
@@ -2237,7 +3171,12 @@
       ],
       "region": "Chongqing, China",
       "approximate": false,
-      "geonamesId": "1814906"
+      "geonamesId": "1814906",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Chongqing",
+      "admin1Id": "CHN-11",
+      "administrativeUnit": "Chongqing"
     },
     "Chengdu": {
       "name": "Chengdu",
@@ -2247,7 +3186,12 @@
       ],
       "region": "Sichuan, China",
       "approximate": false,
-      "geonamesId": "1815286"
+      "geonamesId": "1815286",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Sichuan",
+      "admin1Id": "CHN-13",
+      "administrativeUnit": "Sichuan"
     },
     "Taoyuan": {
       "name": "Taoyuan",
@@ -2255,13 +3199,17 @@
         121.29696,
         24.99368
       ],
-      "region": "Taoyuan, Taiwan",
+      "region": "Taiwan, China",
       "approximate": false,
       "geonamesId": "6696918",
-      "admin1": "Taoyuan",
-      "country": "Taiwan",
+      "admin1": "Taiwan, China",
+      "country": "China",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "displayName": "Taoyuan, Taiwan, China",
+      "countryCode": "CHN",
+      "admin1Id": "CHN-2",
+      "administrativeUnit": "Taiwan, China"
     },
     "Hsinchu": {
       "name": "Hsinchu",
@@ -2269,13 +3217,17 @@
         120.96861,
         24.80361
       ],
-      "region": "Hsinchu, Taiwan",
+      "region": "Taiwan, China",
       "approximate": false,
       "geonamesId": "1675151",
-      "admin1": "Hsinchu",
-      "country": "Taiwan",
+      "admin1": "Taiwan, China",
+      "country": "China",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "displayName": "Hsinchu, Taiwan, China",
+      "countryCode": "CHN",
+      "admin1Id": "CHN-2",
+      "administrativeUnit": "Taiwan, China"
     },
     "Kaohsiung": {
       "name": "Kaohsiung",
@@ -2283,13 +3235,17 @@
         120.31333,
         22.61626
       ],
-      "region": "Kaohsiung, Taiwan",
+      "region": "Taiwan, China",
       "approximate": false,
       "geonamesId": "1673820",
-      "admin1": "Kaohsiung",
-      "country": "Taiwan",
+      "admin1": "Taiwan, China",
+      "country": "China",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "displayName": "Kaohsiung, Taiwan, China",
+      "countryCode": "CHN",
+      "admin1Id": "CHN-2",
+      "administrativeUnit": "Taiwan, China"
     },
     "Tainan": {
       "name": "Tainan",
@@ -2297,13 +3253,17 @@
         120.21333,
         22.99083
       ],
-      "region": "Tainan, Taiwan",
+      "region": "Taiwan, China",
       "approximate": false,
       "geonamesId": "1668355",
-      "admin1": "Tainan",
-      "country": "Taiwan",
+      "admin1": "Taiwan, China",
+      "country": "China",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "displayName": "Tainan, Taiwan, China",
+      "countryCode": "CHN",
+      "admin1Id": "CHN-2",
+      "administrativeUnit": "Taiwan, China"
     },
     "Hualien": {
       "name": "Hualien",
@@ -2311,13 +3271,17 @@
         121.60444,
         23.97694
       ],
-      "region": "Hualien, Taiwan",
+      "region": "Taiwan, China",
       "approximate": false,
       "geonamesId": "1674504",
-      "admin1": "Hualien",
-      "country": "Taiwan",
+      "admin1": "Taiwan, China",
+      "country": "China",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "displayName": "Hualien, Taiwan, China",
+      "countryCode": "CHN",
+      "admin1Id": "CHN-2",
+      "administrativeUnit": "Taiwan, China"
     },
     "Taipei": {
       "name": "Taipei",
@@ -2325,13 +3289,17 @@
         121.52639,
         25.05306
       ],
-      "region": "Taipei, Taiwan",
+      "region": "Taiwan, China",
       "approximate": false,
       "geonamesId": "1668341",
-      "admin1": "Taipei",
-      "country": "Taiwan",
+      "admin1": "Taiwan, China",
+      "country": "China",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "displayName": "Taipei, Taiwan, China",
+      "countryCode": "CHN",
+      "admin1Id": "CHN-2",
+      "administrativeUnit": "Taiwan, China"
     },
     "Dunhuang": {
       "name": "Dunhuang",
@@ -2341,7 +3309,12 @@
       ],
       "region": "Gansu, China",
       "approximate": false,
-      "geonamesId": "1529531"
+      "geonamesId": "1529531",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Gansu",
+      "admin1Id": "CHN-25",
+      "administrativeUnit": "Gansu"
     },
     "Qingdao": {
       "name": "Qingdao",
@@ -2351,7 +3324,12 @@
       ],
       "region": "Shandong, China",
       "approximate": false,
-      "geonamesId": "1797929"
+      "geonamesId": "1797929",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shandong",
+      "admin1Id": "CHN-18",
+      "administrativeUnit": "Shandong"
     },
     "Jinan": {
       "name": "Jinan",
@@ -2361,7 +3339,12 @@
       ],
       "region": "Shandong, China",
       "approximate": false,
-      "geonamesId": "1805753"
+      "geonamesId": "1805753",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Shandong",
+      "admin1Id": "CHN-18",
+      "administrativeUnit": "Shandong"
     },
     "Dandong": {
       "name": "Dandong",
@@ -2371,7 +3354,12 @@
       ],
       "region": "Liaoning, China",
       "approximate": false,
-      "geonamesId": "2037886"
+      "geonamesId": "2037886",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Liaoning",
+      "admin1Id": "CHN-27",
+      "administrativeUnit": "Liaoning"
     },
     "Changchun": {
       "name": "Changchun",
@@ -2381,7 +3369,12 @@
       ],
       "region": "Jilin, China",
       "approximate": false,
-      "geonamesId": "2038180"
+      "geonamesId": "2038180",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jilin",
+      "admin1Id": "CHN-28",
+      "administrativeUnit": "Jilin"
     },
     "Harbin": {
       "name": "Harbin",
@@ -2391,7 +3384,12 @@
       ],
       "region": "Heilongjiang, China",
       "approximate": false,
-      "geonamesId": "2037013"
+      "geonamesId": "2037013",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Heilongjiang",
+      "admin1Id": "CHN-31",
+      "administrativeUnit": "Heilongjiang"
     },
     "Fuyuan": {
       "name": "Fuyuan",
@@ -2401,7 +3399,12 @@
       ],
       "region": "Heilongjiang, China",
       "approximate": false,
-      "geonamesId": "2037330"
+      "geonamesId": "2037330",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Heilongjiang",
+      "admin1Id": "CHN-31",
+      "administrativeUnit": "Heilongjiang"
     },
     "Wuyuan": {
       "name": "Wuyuan",
@@ -2411,7 +3414,12 @@
       ],
       "region": "Jiangxi, China",
       "approximate": false,
-      "geonamesId": "1790863"
+      "geonamesId": "1790863",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Jiangxi",
+      "admin1Id": "CHN-7",
+      "administrativeUnit": "Jiangxi"
     },
     "Anyang": {
       "name": "Anyang",
@@ -2421,7 +3429,12 @@
       ],
       "region": "Henan, China",
       "approximate": false,
-      "geonamesId": "1785294"
+      "geonamesId": "1785294",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Henan",
+      "admin1Id": "CHN-16",
+      "administrativeUnit": "Henan"
     },
     "Zhengzhou": {
       "name": "Zhengzhou",
@@ -2431,7 +3444,12 @@
       ],
       "region": "Henan, China",
       "approximate": false,
-      "geonamesId": "1784658"
+      "geonamesId": "1784658",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Henan",
+      "admin1Id": "CHN-16",
+      "administrativeUnit": "Henan"
     },
     "Oroqen": {
       "name": "Oroqen",
@@ -2440,7 +3458,12 @@
         50.59
       ],
       "region": "Inner Mongolia, China",
-      "approximate": true
+      "approximate": true,
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Inner Mongolia",
+      "admin1Id": "CHN-30",
+      "administrativeUnit": "Inner Mongolia"
     },
     "Jiagedaqi": {
       "name": "Jiagedaqi",
@@ -2450,7 +3473,12 @@
       ],
       "region": "Heilongjiang, China",
       "approximate": false,
-      "geonamesId": "2036597"
+      "geonamesId": "2036597",
+      "country": "China",
+      "countryCode": "CHN",
+      "admin1": "Heilongjiang",
+      "admin1Id": "CHN-31",
+      "administrativeUnit": "Heilongjiang"
     },
     "Seattle": {
       "name": "Seattle",
@@ -2460,7 +3488,12 @@
       ],
       "region": "Washington, USA",
       "approximate": false,
-      "geonamesId": "5809844"
+      "geonamesId": "5809844",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Tacoma": {
       "name": "Tacoma",
@@ -2470,7 +3503,12 @@
       ],
       "region": "Washington, USA",
       "approximate": false,
-      "geonamesId": "5812944"
+      "geonamesId": "5812944",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Everett": {
       "name": "Everett",
@@ -2480,7 +3518,12 @@
       ],
       "region": "Washington, USA",
       "approximate": false,
-      "geonamesId": "5793933"
+      "geonamesId": "5793933",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Olympia": {
       "name": "Olympia",
@@ -2490,7 +3533,12 @@
       ],
       "region": "Washington, USA",
       "approximate": false,
-      "geonamesId": "5805687"
+      "geonamesId": "5805687",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Snoqualmie": {
       "name": "Snoqualmie",
@@ -2500,7 +3548,12 @@
       ],
       "region": "Washington, USA",
       "approximate": false,
-      "geonamesId": "5810995"
+      "geonamesId": "5810995",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Yakima": {
       "name": "Yakima",
@@ -2510,7 +3563,12 @@
       ],
       "region": "Washington, USA",
       "approximate": false,
-      "geonamesId": "5816605"
+      "geonamesId": "5816605",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Spokane": {
       "name": "Spokane",
@@ -2520,7 +3578,12 @@
       ],
       "region": "Washington, USA",
       "approximate": false,
-      "geonamesId": "5811696"
+      "geonamesId": "5811696",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Maryhill": {
       "name": "Maryhill",
@@ -2529,7 +3592,12 @@
         45.69
       ],
       "region": "Washington, USA",
-      "approximate": false
+      "approximate": false,
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Washington",
+      "admin1Id": "USA-12",
+      "administrativeUnit": "Washington"
     },
     "Hood River": {
       "name": "Hood River",
@@ -2539,7 +3607,12 @@
       ],
       "region": "Oregon, USA",
       "approximate": false,
-      "geonamesId": "5731777"
+      "geonamesId": "5731777",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Oregon",
+      "admin1Id": "USA-46",
+      "administrativeUnit": "Oregon"
     },
     "Portland": {
       "name": "Portland",
@@ -2549,7 +3622,12 @@
       ],
       "region": "Oregon, USA",
       "approximate": false,
-      "geonamesId": "5746545"
+      "geonamesId": "5746545",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Oregon",
+      "admin1Id": "USA-46",
+      "administrativeUnit": "Oregon"
     },
     "San Jose": {
       "name": "San Jose",
@@ -2559,7 +3637,12 @@
       ],
       "region": "California, USA",
       "approximate": false,
-      "geonamesId": "5392171"
+      "geonamesId": "5392171",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "California",
+      "admin1Id": "USA-16",
+      "administrativeUnit": "California"
     },
     "Mountain View": {
       "name": "Mountain View",
@@ -2569,7 +3652,12 @@
       ],
       "region": "California, USA",
       "approximate": false,
-      "geonamesId": "5375480"
+      "geonamesId": "5375480",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "California",
+      "admin1Id": "USA-16",
+      "administrativeUnit": "California"
     },
     "San Francisco": {
       "name": "San Francisco",
@@ -2579,7 +3667,12 @@
       ],
       "region": "California, USA",
       "approximate": false,
-      "geonamesId": "5391959"
+      "geonamesId": "5391959",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "California",
+      "admin1Id": "USA-16",
+      "administrativeUnit": "California"
     },
     "Chicago": {
       "name": "Chicago",
@@ -2589,7 +3682,12 @@
       ],
       "region": "Illinois, USA",
       "approximate": false,
-      "geonamesId": "4887398"
+      "geonamesId": "4887398",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Illinois",
+      "admin1Id": "USA-29",
+      "administrativeUnit": "Illinois"
     },
     "Niagara Falls": {
       "name": "Niagara Falls",
@@ -2599,7 +3697,12 @@
       ],
       "region": "New York, USA",
       "approximate": false,
-      "geonamesId": "5128723"
+      "geonamesId": "5128723",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "New York",
+      "admin1Id": "USA-25",
+      "administrativeUnit": "New York"
     },
     "Buffalo": {
       "name": "Buffalo",
@@ -2609,7 +3712,12 @@
       ],
       "region": "New York, USA",
       "approximate": false,
-      "geonamesId": "5110629"
+      "geonamesId": "5110629",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "New York",
+      "admin1Id": "USA-25",
+      "administrativeUnit": "New York"
     },
     "Minneapolis": {
       "name": "Minneapolis",
@@ -2619,7 +3727,12 @@
       ],
       "region": "Minnesota, USA",
       "approximate": false,
-      "geonamesId": "5037649"
+      "geonamesId": "5037649",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Minnesota",
+      "admin1Id": "USA-50",
+      "administrativeUnit": "Minnesota"
     },
     "Belgrade": {
       "name": "Belgrade",
@@ -2633,7 +3746,10 @@
       "admin1": "Belgrade",
       "country": "Serbia",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "SRB",
+      "admin1Id": "SRB-8",
+      "administrativeUnit": "Belgrade"
     },
     "Novi Sad": {
       "name": "Novi Sad",
@@ -2647,7 +3763,10 @@
       "admin1": "Vojvodina",
       "country": "Serbia",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "SRB",
+      "admin1Id": "SRB-7",
+      "administrativeUnit": "South Backa District"
     },
     "Niš": {
       "name": "Niš",
@@ -2661,7 +3780,10 @@
       "admin1": "Nišava District",
       "country": "Serbia",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "SRB",
+      "admin1Id": "SRB-24",
+      "administrativeUnit": "Nisava District"
     },
     "Kotor": {
       "name": "Kotor",
@@ -2674,7 +3796,10 @@
       "geonamesId": "3197538",
       "admin1": "Kotor",
       "country": "Montenegro",
-      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
+      "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "countryCode": "MNE",
+      "admin1Id": "MNE-13",
+      "administrativeUnit": "Kotor Municipality"
     },
     "Mostar": {
       "name": "Mostar",
@@ -2688,7 +3813,10 @@
       "admin1": "Herzegovina-Neretva Canton",
       "country": "Bosnia and Herzegovina",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "BIH",
+      "admin1Id": "BIH-3",
+      "administrativeUnit": "Federation of Bosnia and Herzegovina"
     },
     "Sarajevo": {
       "name": "Sarajevo",
@@ -2702,7 +3830,10 @@
       "admin1": "Sarajevo Canton",
       "country": "Bosnia and Herzegovina",
       "administrativeSource": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
-      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README."
+      "administrativeSourceNote": "Municipality, province-level subdivision, or regional reference; see README.",
+      "countryCode": "BIH",
+      "admin1Id": "BIH-3",
+      "administrativeUnit": "Federation of Bosnia and Herzegovina"
     },
     "Detroit": {
       "name": "Detroit",
@@ -2712,7 +3843,12 @@
       ],
       "region": "Michigan, USA",
       "approximate": false,
-      "geonamesId": "4990729"
+      "geonamesId": "4990729",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "Michigan",
+      "admin1Id": "USA-7",
+      "administrativeUnit": "Michigan"
     },
     "Durham": {
       "name": "Durham",
@@ -2722,7 +3858,12 @@
       ],
       "region": "North Carolina, USA",
       "approximate": false,
-      "geonamesId": "4464368"
+      "geonamesId": "4464368",
+      "country": "USA",
+      "countryCode": "USA",
+      "admin1": "North Carolina",
+      "admin1Id": "USA-2",
+      "administrativeUnit": "North Carolina"
     }
   },
   "languages": [
@@ -2805,7 +3946,9 @@
       "https://download.geonames.org/export/dump/admin2Codes.txt"
     ],
     "administrativeAreas": "Administrative areas filled from GeoNames, with local province/municipality equivalents. Singapore is displayed as Singapore, Singapore. Cappadocia and the Aral Sea remain regions.",
-    "baseCities": "Initially inferred from the relocation headings and the Tacoma base entry in the supplied place list."
+    "baseCities": "Initially inferred from the relocation headings and the Tacoma base entry in the supplied place list.",
+    "countrySelection": "Only visited countries are selectable. Taiwan city records and polygons are grouped under China.",
+    "administrativeStatistics": "First-level units containing recorded places; repeated places do not increase the visited-unit count. Unspecified regional stops and Singapore are not inferred into additional units."
   },
   "connections": [
     {
