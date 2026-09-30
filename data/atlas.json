@@ -4067,51 +4067,56 @@
     {
       "name": "汉语",
       "lang": "zh-Hans",
-      "quote": "知之者不如好之者，好之者不如乐之者。",
-      "author": "孔子",
-      "work": "论语·雍也",
-      "source": "https://ctext.org/text.pl?if=en&node=1240&show=parallel"
+      "quote": "天接云涛连晓雾，星河欲转千帆舞。",
+      "author": "李清照",
+      "work": "渔家傲·记梦",
+      "source": "https://zh.wikisource.org/wiki/漁家傲_(李清照)",
+      "effect": "stars"
     },
     {
       "name": "English",
       "lang": "en",
-      "quote": "All the world’s a stage.",
-      "author": "William Shakespeare",
-      "work": "As You Like It, II.7",
-      "source": "https://www.folger.edu/explore/shakespeares-works/as-you-like-it/read/2/7/"
+      "quote": "The blue deep thou wingest, And singing still dost soar, and soaring ever singest.",
+      "author": "Percy Bysshe Shelley",
+      "work": "To a Skylark",
+      "source": "https://www.poetryfoundation.org/poems/45146/to-a-skylark",
+      "effect": "notes"
     },
     {
       "name": "日本語",
       "lang": "ja",
-      "quote": "古池や蛙飛びこむ水の音",
-      "author": "松尾芭蕉",
-      "source": "https://www.gakushikai.or.jp/magazine/article/archives/archives_859/"
+      "quote": "雨ニモマケズ、風ニモマケズ",
+      "author": "宮澤賢治",
+      "source": "https://www.aozora.gr.jp/cards/000081/files/45630_23908.html",
+      "work": "〔雨ニモマケズ〕",
+      "effect": "rain"
     },
     {
       "name": "Deutsch",
       "lang": "de",
-      "quote": "Hier bin ich Mensch, hier darf ich’s sein.",
-      "author": "Johann Wolfgang von Goethe",
-      "work": "Faust I, 940",
-      "source": "https://de.wikisource.org/wiki/Faust_-_Der_Tragödie_erster_Teil",
-      "note": "Modern spelling: sein for historical seyn."
+      "quote": "Wer geboren werden will, muss eine Welt zerstören.",
+      "author": "Hermann Hesse",
+      "work": "Demian",
+      "source": "https://www.hhesse.de/werk/demian/",
+      "effect": "feathers"
     },
     {
       "name": "Lingua Latina",
       "lang": "la",
-      "quote": "Omnia vincit Amor: et nos cedamus Amori.",
-      "author": "Vergilius",
-      "work": "Ecloga X, 69",
-      "source": "https://www.thelatinlibrary.com/vergil/ec10.shtml",
-      "note": "v/u spelling normalized."
+      "quote": "Imperare sibi maximum imperium est.",
+      "author": "Seneca",
+      "work": "Epistulae morales ad Lucilium, 113",
+      "source": "https://latin.packhum.org/loc/1017/15/112/5711-5716",
+      "effect": "clock"
     },
     {
       "name": "Русский",
       "lang": "ru",
-      "quote": "Да здравствует солнце, да скроется тьма!",
-      "author": "Александр Пушкин",
-      "work": "Вакхическая песня",
-      "source": "https://ru.wikisource.org/wiki/Вакхическая_песня_(Пушкин)"
+      "quote": "Слаб голос мой, но воля не слабеет",
+      "author": "Анна Ахматова",
+      "work": "Слаб голос мой, но воля не слабеет…",
+      "source": "https://www.culture.ru/poems/10312/slab-golos-moi-no-volya-ne-slabeet",
+      "effect": "sun"
     }
   ],
   "notes": {
