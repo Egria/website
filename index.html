@@ -357,6 +357,7 @@ html{color-scheme:light;background:#fff}body{margin:0;background:#fff}
 #bwb-brand-demo .sc-research-page .sc-page-intro{max-width:575px;line-height:1.85}
 #bwb-brand-demo .sc-research-group-title{margin-top:35px;margin-bottom:7px}
 #bwb-brand-demo .sc-story{--story-tint:#f4f7ef;--story-ink:#58714e;display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:34px;align-items:center;padding:28px 0 30px;border-top:1px solid #e9ece5;scroll-margin-top:18px}
+#bwb-brand-demo .sc-project.hiv-bcr,#bwb-brand-demo .sc-story.hiv-bcr{--story-tint:#eff7f4;--story-ink:#376c62;--project-accent:#54887d;--project-tint:#eff7f4;border-top-color:#ccded7}
 #bwb-brand-demo .sc-story.gamma{--story-tint:#fbf4f5;--story-ink:#8a617d}
 #bwb-brand-demo .sc-story.llm{--story-tint:#f3f6fb;--story-ink:#697c99}
 #bwb-brand-demo .sc-story.serverless{--story-tint:#f8f6f0;--story-ink:#8c7657}
@@ -701,6 +702,72 @@ html{color-scheme:light;background:#fff}body{margin:0;background:#fff}
 
 </style></head><body>
 <div id="bwb-brand-demo">
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" width="0" height="0" style="position:absolute">
+    <defs>
+      <symbol id="diagram-hiv-bcr" viewBox="0 0 320 228">
+        <g font-family="DM Sans, sans-serif" text-anchor="middle" font-size="15" fill="#235e58">
+          <rect x="12" y="14" width="142" height="94" rx="13" fill="#fff" stroke="#cadfda"/>
+          <rect x="166" y="14" width="142" height="94" rx="13" fill="#fff" stroke="#cadfda"/>
+          <g fill="#36837b">
+            <rect x="60" y="55" width="10" height="11" rx="2"/>
+            <rect x="76" y="45" width="10" height="21" rx="2"/>
+            <rect x="92" y="32" width="10" height="34" rx="2"/>
+          </g>
+          <text x="83" y="90">High BEAM score</text>
+          <g stroke="#9b644f" stroke-width="5" stroke-linecap="round" fill="none">
+            <path d="M212 64V52l-9-10m9 10 9-10"/>
+            <path d="m232 49 7 7m0-7-7 7" stroke-width="2"/>
+          </g>
+          <g stroke="#458179" fill="#a6cfc2">
+            <circle cx="257" cy="47" r="8"/><circle cx="265" cy="54" r="8"/><circle cx="254" cy="58" r="8"/>
+          </g>
+          <text x="237" y="90">No binding in assay</text>
+          <path d="M13 123h294" stroke="#c6dcd5"/>
+          <g stroke-width="6" stroke-linecap="round">
+            <path d="M26 150h18m10 0h12m10 0h20M36 162h11m10 0h21m10 0h17" stroke="#489489"/>
+            <path d="M26 174h26m10 0h12m10 0h15" stroke="#d3a176"/>
+          </g>
+          <path d="M121 162h36m-7-6 7 6-7 6" fill="none" stroke="#669990" stroke-width="2"/>
+          <g fill="none" stroke-linecap="round">
+            <path d="m203 177 11-20-6-20m6 20 20-8" stroke="#ae765c" stroke-width="7"/>
+            <path d="m207 137-1-5m28 17 5-2" stroke="#e6b488" stroke-width="7"/>
+          </g>
+          <g stroke="#448478" stroke-width="1.6">
+            <path d="M241 143c-4-9 3-17 12-18 8 0 15 8 13 14l-12 13z" fill="#bfded1"/>
+            <path d="M255 148c4-12 16-15 22-8 6 8 2 19-8 21l-13-2z" fill="#8cbdaf"/>
+            <path d="M243 145c11-5 22 2 20 11-1 10-10 16-18 12-9-4-11-16-2-23z" fill="#a4cebd"/>
+          </g>
+          <text x="65" y="204">BCR sequences</text>
+          <text x="236" y="204">Candidate binders</text>
+        </g>
+      </symbol>
+      <symbol id="diagram-llm" viewBox="0 0 320 228">
+        <g font-family="DM Sans, sans-serif" font-size="15" text-anchor="middle" fill="#394e70">
+          <rect x="39" y="12" width="242" height="46" rx="12" fill="#fff" stroke="#bccadc"/>
+          <g fill="#c2d1e4" stroke="#7892b1" stroke-width="1.3">
+            <rect x="54" y="23" width="22" height="19" rx="3"/><rect x="58" y="27" width="22" height="19" rx="3"/>
+            <path d="m61 40 5-5 4 3 7-7" fill="none"/>
+          </g>
+          <text x="175" y="40">Multi-view RNA evidence</text>
+          <g fill="none" stroke="#8198b6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M160 59v9H82v13m-4-4 4 4 4-4M160 68h78v13m-4-4 4 4 4-4"/>
+            <path d="M82 139v18h78v16m-4-4 4 4 4-4M238 139v18h-78"/>
+          </g>
+          <g fill="#e8eef7" stroke="#b2c3d9">
+            <rect x="9" y="84" width="146" height="54" rx="12"/><rect x="165" y="84" width="146" height="54" rx="12"/>
+          </g>
+          <g fill="none" stroke="#57779c" stroke-width="2">
+            <circle cx="78" cy="101" r="6"/><path d="m83 106 5 5"/>
+            <circle cx="233" cy="101" r="3" fill="#637fa3"/><path d="m239 99 7-4m-7 8 7 4"/>
+          </g>
+          <text x="82" y="128">Test a type name</text><text x="238" y="128">Expand a cell seed</text>
+          <rect x="36" y="176" width="248" height="40" rx="12" fill="#e8e3f2" stroke="#bdaed0"/>
+          <g fill="#8a70a3"><circle cx="57" cy="195" r="3"/><circle cx="66" cy="191" r="3"/><circle cx="64" cy="201" r="3"/></g>
+          <text x="177" y="201" fill="#59456c">Resolve cell membership</text>
+        </g>
+      </symbol>
+    </defs>
+  </svg>
   <header class="sc-header">
     <button class="sc-brand cursor-interaction" data-page="home" aria-label="Xingzhi Niu, home"><span class="sc-logo" aria-hidden="true"><i></i></span>xingzhi.</button>
     <nav class="sc-nav" aria-label="Main navigation">
@@ -741,74 +808,36 @@ html{color-scheme:light;background:#fff}body{margin:0;background:#fff}
       <div class="sc-work">
         <div class="sc-section-top"><h2>Ongoing Projects</h2><span class="sc-project-help"><span class="sc-project-help-pointer">Hover to explore · click to pin</span><span class="sc-project-help-touch">Tap to pin open · tap again to close</span></span></div>
         <div class="sc-research-grid">
-          <article class="sc-project palma">
-            <div class="sc-project-heading"><h3><button type="button" id="project-toggle-palma" class="sc-project-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" aria-controls="project-panel-palma" aria-label="Pin open PalmaClust"><span>PalmaClust</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+          <article class="sc-project hiv-bcr">
+            <div class="sc-project-heading"><h3><button type="button" id="project-toggle-hiv-bcr" class="sc-project-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" aria-controls="project-panel-hiv-bcr" aria-label="Pin open HIV BCR"><span>HIV BCR</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
   <path d="M12 17v5"></path>
   <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"></path>
 </svg><span class="sc-pin-label">Pin</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-chevron-down sc-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
   <path d="m6 9 6 6 6-6"></path>
 </svg></span></button></h3></div>
-            <p class="sc-project-field">Finding the cells hidden in the crowd</p>
-            <div class="sc-project-body" id="project-panel-palma" role="region" aria-labelledby="project-toggle-palma" aria-hidden="true" inert><div class="sc-project-body-inner"><div class="sc-project-content">
-            <figure class="sc-story-figure" data-figure="palma">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 228" role="img" aria-label="Rare cells can disappear among abundant populations. The Palma ratio highlights gene expression concentrated in a small tail, helping bring rare populations into focus. Schematic, not experimental data.">
-          <ellipse cx="97" cy="115" rx="80" ry="81" fill="#e9eee4"></ellipse>
-          <g data-marks="palma-crowd"><circle cx="104.79" cy="154.86" r="3.03" fill="#c4d1b9"></circle><circle cx="116.57" cy="115.27" r="2.53" fill="#bcccb0"></circle><circle cx="40.0" cy="138.36" r="2.15" fill="#d1dbc7"></circle><circle cx="135.84" cy="98.71" r="3.04" fill="#c4d1b9"></circle><circle cx="95.04" cy="114.35" r="2.84" fill="#bcccb0"></circle><circle cx="89.42" cy="88.21" r="2.99" fill="#d1dbc7"></circle><circle cx="120.71" cy="83.22" r="2.83" fill="#c4d1b9"></circle><circle cx="98.3" cy="149.21" r="2.23" fill="#bcccb0"></circle><circle cx="105.25" cy="168.13" r="2.68" fill="#d1dbc7"></circle><circle cx="94.93" cy="100.4" r="2.56" fill="#c4d1b9"></circle><circle cx="63.96" cy="52.93" r="3.06" fill="#bcccb0"></circle><circle cx="103.1" cy="114.51" r="2.81" fill="#d1dbc7"></circle><circle cx="72.41" cy="102.98" r="2.71" fill="#c4d1b9"></circle><circle cx="138.27" cy="134.51" r="3.21" fill="#bcccb0"></circle><circle cx="98.48" cy="79.81" r="3.2" fill="#d1dbc7"></circle><circle cx="56.23" cy="71.17" r="2.38" fill="#c4d1b9"></circle><circle cx="91.22" cy="73.69" r="2.22" fill="#bcccb0"></circle><circle cx="119.24" cy="118.38" r="2.78" fill="#d1dbc7"></circle><circle cx="83.41" cy="121.1" r="2.15" fill="#c4d1b9"></circle><circle cx="109.24" cy="172.33" r="2.29" fill="#bcccb0"></circle><circle cx="114.86" cy="144.33" r="2.67" fill="#d1dbc7"></circle><circle cx="108.27" cy="141.83" r="3.02" fill="#c4d1b9"></circle><circle cx="148.45" cy="129.81" r="2.37" fill="#bcccb0"></circle><circle cx="145.69" cy="109.77" r="2.24" fill="#d1dbc7"></circle><circle cx="66.62" cy="51.49" r="2.79" fill="#c4d1b9"></circle><circle cx="39.83" cy="74.42" r="2.16" fill="#bcccb0"></circle><circle cx="95.65" cy="60.37" r="2.27" fill="#d1dbc7"></circle><circle cx="86.55" cy="45.78" r="2.84" fill="#c4d1b9"></circle><circle cx="77.26" cy="141.46" r="2.92" fill="#bcccb0"></circle><circle cx="66.53" cy="123.79" r="2.83" fill="#d1dbc7"></circle><circle cx="40.3" cy="95.55" r="2.75" fill="#c4d1b9"></circle><circle cx="58.35" cy="115.8" r="2.5" fill="#bcccb0"></circle><circle cx="92.86" cy="57.17" r="2.67" fill="#d1dbc7"></circle><circle cx="39.28" cy="116.83" r="2.66" fill="#c4d1b9"></circle><circle cx="117.1" cy="64.81" r="2.68" fill="#bcccb0"></circle><circle cx="138.28" cy="112.08" r="2.22" fill="#d1dbc7"></circle><circle cx="111.09" cy="100.14" r="3.1" fill="#c4d1b9"></circle><circle cx="101.73" cy="164.23" r="2.76" fill="#bcccb0"></circle><circle cx="68.19" cy="126.32" r="2.11" fill="#d1dbc7"></circle><circle cx="35.97" cy="91.79" r="2.65" fill="#c4d1b9"></circle><circle cx="62.58" cy="163.78" r="2.74" fill="#bcccb0"></circle><circle cx="72.93" cy="173.92" r="2.79" fill="#d1dbc7"></circle><circle cx="101.37" cy="70.11" r="2.88" fill="#c4d1b9"></circle><circle cx="115.9" cy="106.14" r="3.18" fill="#bcccb0"></circle><circle cx="85.62" cy="74.45" r="2.83" fill="#d1dbc7"></circle><circle cx="77.27" cy="134.74" r="2.69" fill="#c4d1b9"></circle><circle cx="72.73" cy="58.26" r="3.17" fill="#bcccb0"></circle><circle cx="64.23" cy="115.43" r="2.92" fill="#d1dbc7"></circle><circle cx="99.38" cy="150.42" r="2.25" fill="#c4d1b9"></circle><circle cx="112.09" cy="101.41" r="2.76" fill="#bcccb0"></circle><circle cx="65.51" cy="57.06" r="2.98" fill="#d1dbc7"></circle><circle cx="123.09" cy="85.13" r="3.18" fill="#c4d1b9"></circle><circle cx="34.89" cy="119.27" r="2.83" fill="#bcccb0"></circle><circle cx="51.61" cy="153.32" r="2.36" fill="#d1dbc7"></circle><circle cx="102.78" cy="59.78" r="2.29" fill="#c4d1b9"></circle><circle cx="74.43" cy="54.04" r="2.96" fill="#bcccb0"></circle><circle cx="62.23" cy="167.28" r="2.42" fill="#d1dbc7"></circle><circle cx="93.95" cy="112.7" r="2.84" fill="#c4d1b9"></circle><circle cx="94.83" cy="89.01" r="2.66" fill="#bcccb0"></circle><circle cx="56.76" cy="59.55" r="3.14" fill="#d1dbc7"></circle><circle cx="130.28" cy="86.92" r="2.16" fill="#c4d1b9"></circle><circle cx="116.85" cy="134.21" r="2.75" fill="#bcccb0"></circle><circle cx="86.26" cy="110.15" r="3.05" fill="#d1dbc7"></circle><circle cx="112.54" cy="108.63" r="3.06" fill="#c4d1b9"></circle><circle cx="86.86" cy="51.72" r="2.36" fill="#bcccb0"></circle><circle cx="36.69" cy="112.9" r="2.28" fill="#d1dbc7"></circle><circle cx="37.96" cy="133.18" r="2.92" fill="#c4d1b9"></circle><circle cx="89.89" cy="53.57" r="2.8" fill="#bcccb0"></circle><circle cx="112.96" cy="114.29" r="2.44" fill="#d1dbc7"></circle><circle cx="95.09" cy="130.03" r="2.83" fill="#c4d1b9"></circle><circle cx="48.1" cy="102.12" r="2.92" fill="#bcccb0"></circle><circle cx="133.62" cy="126.97" r="2.48" fill="#d1dbc7"></circle><circle cx="56.86" cy="74.85" r="3.17" fill="#c4d1b9"></circle><circle cx="62.48" cy="151.77" r="2.19" fill="#bcccb0"></circle><circle cx="63.28" cy="63.5" r="2.15" fill="#d1dbc7"></circle><circle cx="73.39" cy="126.55" r="2.18" fill="#c4d1b9"></circle><circle cx="74.89" cy="74.98" r="2.16" fill="#bcccb0"></circle><circle cx="90.53" cy="63.5" r="3.14" fill="#d1dbc7"></circle><circle cx="92.81" cy="121.5" r="2.57" fill="#c4d1b9"></circle><circle cx="116.34" cy="102.13" r="2.35" fill="#bcccb0"></circle><circle cx="123.58" cy="69.15" r="2.88" fill="#d1dbc7"></circle><circle cx="110.08" cy="68.2" r="2.68" fill="#c4d1b9"></circle><circle cx="149.04" cy="117.63" r="2.71" fill="#bcccb0"></circle><circle cx="111.59" cy="120.78" r="3.18" fill="#d1dbc7"></circle><circle cx="151.86" cy="94.07" r="2.95" fill="#c4d1b9"></circle><circle cx="85.4" cy="95.54" r="2.68" fill="#bcccb0"></circle><circle cx="134.11" cy="92.86" r="2.93" fill="#d1dbc7"></circle><circle cx="83.02" cy="92.02" r="3.15" fill="#c4d1b9"></circle><circle cx="79.15" cy="122.99" r="2.79" fill="#bcccb0"></circle><circle cx="60.64" cy="115.37" r="2.33" fill="#d1dbc7"></circle><circle cx="119.14" cy="120.96" r="2.5" fill="#c4d1b9"></circle><circle cx="36.94" cy="135.54" r="2.23" fill="#bcccb0"></circle><circle cx="81.63" cy="111.08" r="3.13" fill="#d1dbc7"></circle><circle cx="117.48" cy="169.08" r="3.09" fill="#c4d1b9"></circle><circle cx="69.88" cy="58.05" r="2.61" fill="#bcccb0"></circle><circle cx="112.15" cy="99.99" r="3.11" fill="#d1dbc7"></circle><circle cx="126.15" cy="145.94" r="2.12" fill="#c4d1b9"></circle><circle cx="117.12" cy="61.31" r="2.27" fill="#bcccb0"></circle><circle cx="63.16" cy="86.08" r="2.57" fill="#d1dbc7"></circle><circle cx="103.48" cy="105.02" r="2.23" fill="#c4d1b9"></circle><circle cx="79.14" cy="76.52" r="3.17" fill="#bcccb0"></circle><circle cx="130.78" cy="142.18" r="2.6" fill="#d1dbc7"></circle><circle cx="50.74" cy="125.95" r="3.13" fill="#c4d1b9"></circle><circle cx="62.0" cy="75.55" r="2.59" fill="#bcccb0"></circle><circle cx="81.18" cy="119.25" r="2.11" fill="#d1dbc7"></circle><circle cx="102.73" cy="60.86" r="2.14" fill="#c4d1b9"></circle><circle cx="122.17" cy="140.68" r="2.25" fill="#bcccb0"></circle><circle cx="66.94" cy="69.95" r="2.78" fill="#d1dbc7"></circle><circle cx="111.57" cy="131.43" r="2.31" fill="#c4d1b9"></circle><circle cx="47.82" cy="141.67" r="2.5" fill="#bcccb0"></circle><circle cx="107.42" cy="79.54" r="2.31" fill="#d1dbc7"></circle><circle cx="137.89" cy="130.83" r="2.89" fill="#c4d1b9"></circle><circle cx="82.02" cy="112.56" r="2.64" fill="#bcccb0"></circle><circle cx="89.83" cy="147.77" r="2.33" fill="#d1dbc7"></circle><circle cx="92.01" cy="91.49" r="2.64" fill="#c4d1b9"></circle><circle cx="55.01" cy="112.31" r="2.48" fill="#bcccb0"></circle><circle cx="55.93" cy="98.95" r="2.58" fill="#d1dbc7"></circle><circle cx="111.07" cy="81.62" r="2.16" fill="#c4d1b9"></circle><circle cx="78.76" cy="170.88" r="2.32" fill="#bcccb0"></circle><circle cx="58.36" cy="73.62" r="2.18" fill="#d1dbc7"></circle><circle cx="79.98" cy="91.89" r="2.6" fill="#c4d1b9"></circle><circle cx="90.43" cy="127.41" r="2.67" fill="#bcccb0"></circle><circle cx="105.98" cy="169.89" r="2.75" fill="#d1dbc7"></circle><circle cx="127.86" cy="130.58" r="2.43" fill="#c4d1b9"></circle><circle cx="76.97" cy="97.75" r="2.28" fill="#bcccb0"></circle></g>
-          <path d="M130 96L136 107H124Z M141 112L147 123H135Z M121 118L127 129H115Z" fill="#a27648"></path>
-          <circle cx="132" cy="113" r="25" fill="none" stroke="#879a72" stroke-width="1.5" stroke-dasharray="3 4"></circle>
-          <path d="M147 93L211 66M149 133L211 168" fill="none" stroke="#b9c8ad" stroke-width="1.2"></path>
-          <circle cx="245" cy="116" r="63" fill="#fdfefb" stroke="#cfdbc5" stroke-width="1.5"></circle>
-          <circle cx="245" cy="116" r="52" fill="#edf2e7"></circle>
-          <g fill="#d6e0ca"><circle cx="214" cy="89" r="7"></circle><circle cx="275" cy="95" r="6"></circle><circle cx="222" cy="150" r="6"></circle><circle cx="273" cy="144" r="8"></circle></g>
-          <g fill="#ad8051" stroke="#fffaf4" stroke-width="2"><path d="M238 87L250 109H226Z"></path><path d="M257 115L269 137H245Z"></path><path d="M231 122L243 144H219Z"></path></g>
-          <path d="M232 106L235 125M247 102L255 120M241 133L250 130" fill="none" stroke="#c9ae85" stroke-width="1.5"></path>
-        <g data-marks="palma-expression-tail" aria-label="Schematic expression values concentrated in a small high-expression tail; highlighted by the Palma ratio.">
-  <text x="244" y="31" class="sc-figure-keyword" fill="#58714e">Palma ratio</text>
-  <g fill="#c4d1b9">
-    <rect x="182" y="216" width="6" height="3" rx="1"></rect>
-    <rect x="192" y="216" width="6" height="3" rx="1"></rect>
-    <rect x="202" y="215" width="6" height="4" rx="1"></rect>
-    <rect x="212" y="215" width="6" height="4" rx="1"></rect>
-    <rect x="222" y="214" width="6" height="5" rx="1"></rect>
-    <rect x="232" y="213" width="6" height="6" rx="1"></rect>
-    <rect x="242" y="211" width="6" height="8" rx="1"></rect>
-  </g>
-  <g fill="#ad8051">
-    <rect x="252" y="207" width="6" height="12" rx="1"></rect>
-    <rect x="262" y="201" width="6" height="18" rx="1"></rect>
-    <rect x="272" y="191" width="6" height="28" rx="1"></rect>
-    <rect x="282" y="178" width="6" height="41" rx="1"></rect>
-  </g>
-  <text x="77" y="213" class="sc-figure-label" fill="#687b5b">A few strong signals</text>
-</g>
-</svg>
-        <figcaption><span>Lost in the crowd</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-move-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M18 8L22 12L18 16"></path>
-  <path d="M2 12H22"></path>
-</svg><span>Rare cells in focus</span></figcaption>
+            <p class="sc-project-field">Predicting HIV Env trimer binding from BCR sequences</p>
+            <div class="sc-project-body" id="project-panel-hiv-bcr" role="region" aria-labelledby="project-toggle-hiv-bcr" aria-hidden="true" inert><div class="sc-project-body-inner"><div class="sc-project-content">
+            <figure class="sc-story-figure" data-figure="hiv-bcr">
+        <svg viewBox="0 0 320 228" role="img" aria-label="Two observations for the same antibody: a high BEAM score and no detectable trimer binding in a follow-up assay. BCR sequences are used to prioritize candidate Env trimer binders for testing."><use href="#diagram-hiv-bcr"/></svg>
       </figure>
-      <p class="sc-project-abstract" data-abstract="palma">Rare cells can reveal immune defenses and treatment resistance, yet common gene-selection methods may overlook signals concentrated in very few cells. Losing these signals leaves important biology hidden. PalmaClust uses the Palma ratio, a tail-sensitive inequality measure, to prioritize rare-cell marker genes and combine complementary views for discovery.</p>
-            <div class="sc-story-links">
-          <a class="cursor-interaction" href="https://doi.org/10.64898/2026.03.16.712161" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-file-text" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path>
-  <path d="M14 2v4a2 2 0 0 0 2 2h4"></path>
-  <path d="M10 9H8"></path>
-  <path d="M16 13H8"></path>
-  <path d="M16 17H8"></path>
-</svg>Preprint<svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-arrow-up-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M7 7h10v10"></path>
-  <path d="M7 17 17 7"></path>
-</svg></a>
-          <a class="cursor-interaction" href="https://github.com/wan-mlab/PalmaClust" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-code-xml" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="m18 16 4-4-4-4"></path>
-  <path d="m6 8-4 4 4 4"></path>
-  <path d="m14.5 4-5 16"></path>
-</svg>Repository<svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-arrow-up-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M7 7h10v10"></path>
-  <path d="M7 17 17 7"></path>
-</svg></a>
-        </div>
-      <button class="sc-project-open cursor-interaction" data-page="research" data-project="palma">Explore PalmaClust <span aria-hidden="true">↗</span></button>
+      <p class="sc-project-abstract" data-abstract="hiv-bcr">Some antibodies with high BEAM scores show no detectable binding to the HIV envelope (Env) trimer in follow-up assays. We compare the B-cell receptor (BCR) sequences of these antibodies with those of confirmed binders. Our goal is to identify sequence features that help prioritize candidate trimer-binding antibodies for experimental testing in HIV vaccine research.</p>
+            <button class="sc-project-open cursor-interaction" data-page="research" data-project="hiv-bcr">Explore HIV BCR <span aria-hidden="true">↗</span></button>
+            </div></div></div>
+          </article>
+          <article class="sc-project llm">
+            <div class="sc-project-heading"><h3><button type="button" id="project-toggle-llm" class="sc-project-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" aria-controls="project-panel-llm" aria-label="Pin open LLM Rare Cell"><span>LLM Rare Cell</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M12 17v5"></path>
+  <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"></path>
+</svg><span class="sc-pin-label">Pin</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-chevron-down sc-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="m6 9 6 6 6-6"></path>
+</svg></span></button></h3></div>
+            <p class="sc-project-field">Finding rare populations in single-cell RNA data</p>
+            <div class="sc-project-body" id="project-panel-llm" role="region" aria-labelledby="project-toggle-llm" aria-hidden="true" inert><div class="sc-project-body-inner"><div class="sc-project-content">
+            <figure class="sc-story-figure" data-figure="llm">
+        <svg viewBox="0 0 320 228" role="img" aria-label="A discovery agent uses frozen multi-view RNA evidence to test proposed cell-type names across the dataset and to expand uncertain or unnamed seeds. Competing claims are reconciled into cell memberships."><use href="#diagram-llm"/></svg>
+      </figure>
+      <p class="sc-project-abstract" data-abstract="llm">LLM Rare Cell starts with several views of the same single-cell RNA data, including small clusters and individual outlier cells. A discovery agent tests proposed cell-type names against expression across the dataset and expands uncertain or unnamed groups from their seed cells. It then checks overlapping claims to decide which cells belong to each population.</p>
+            <button class="sc-project-open cursor-interaction" data-page="research" data-project="llm">Explore LLM Rare Cell <span aria-hidden="true">↗</span></button>
             </div></div></div>
           </article>
           <article class="sc-project gamma">
@@ -877,41 +906,6 @@ html{color-scheme:light;background:#fff}body{margin:0;background:#fff}
       <button class="sc-project-open cursor-interaction" data-page="research" data-project="gamma">Explore GammaDelta <span aria-hidden="true">↗</span></button>
             </div></div></div>
           </article>
-          <article class="sc-project llm">
-            <div class="sc-project-heading"><h3><button type="button" id="project-toggle-llm" class="sc-project-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" aria-controls="project-panel-llm" aria-label="Pin open LLM Rare Cell"><span>LLM Rare Cell</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M12 17v5"></path>
-  <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"></path>
-</svg><span class="sc-pin-label">Pin</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-chevron-down sc-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="m6 9 6 6 6-6"></path>
-</svg></span></button></h3></div>
-            <p class="sc-project-field">New questions. New views. New discoveries.</p>
-            <div class="sc-project-body" id="project-panel-llm" role="region" aria-labelledby="project-toggle-llm" aria-hidden="true" inert><div class="sc-project-body-inner"><div class="sc-project-content">
-            <figure class="sc-story-figure" data-figure="llm">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 228" role="img" aria-label="One fixed view can conceal a rare population. Revisiting the same cells through different views can expose a small group worth investigating.">
-          <rect x="21" y="60" width="113" height="118" rx="14" fill="#e9edf2" stroke="#d9e0e8"></rect>
-          <g data-marks="llm-fixed"><circle cx="67.16" cy="111.15" r="2.54" fill="#bcc9d8"></circle><circle cx="42.44" cy="100.54" r="2.72" fill="#cbd5e1"></circle><circle cx="83.71" cy="116.18" r="3.18" fill="#bcc9d8"></circle><circle cx="44.58" cy="92.12" r="2.75" fill="#cbd5e1"></circle><circle cx="50.74" cy="119.04" r="2.32" fill="#bcc9d8"></circle><circle cx="77.04" cy="106.9" r="3.05" fill="#cbd5e1"></circle><circle cx="37.09" cy="96.35" r="2.21" fill="#bcc9d8"></circle><circle cx="59.94" cy="121.46" r="2.44" fill="#cbd5e1"></circle><circle cx="82.18" cy="114.08" r="2.56" fill="#bcc9d8"></circle><circle cx="53.02" cy="126.41" r="2.39" fill="#cbd5e1"></circle><circle cx="78.87" cy="104.02" r="2.25" fill="#bcc9d8"></circle><circle cx="66.3" cy="106.22" r="2.13" fill="#cbd5e1"></circle><circle cx="47.37" cy="108.39" r="2.3" fill="#bcc9d8"></circle><circle cx="42.96" cy="95.2" r="3.0" fill="#cbd5e1"></circle><circle cx="60.76" cy="106.64" r="2.69" fill="#bcc9d8"></circle><circle cx="66.22" cy="89.08" r="2.54" fill="#cbd5e1"></circle><circle cx="42.45" cy="96.83" r="2.14" fill="#bcc9d8"></circle><circle cx="66.93" cy="119.28" r="2.86" fill="#cbd5e1"></circle><circle cx="69.26" cy="122.31" r="2.75" fill="#bcc9d8"></circle><circle cx="38.16" cy="98.75" r="2.29" fill="#cbd5e1"></circle><circle cx="64.87" cy="84.78" r="2.19" fill="#bcc9d8"></circle><circle cx="66.23" cy="102.06" r="2.48" fill="#cbd5e1"></circle><circle cx="68.3" cy="110.14" r="3.09" fill="#bcc9d8"></circle><circle cx="75.51" cy="87.68" r="2.83" fill="#cbd5e1"></circle><circle cx="66.27" cy="86.18" r="2.32" fill="#bcc9d8"></circle><circle cx="57.16" cy="89.22" r="2.12" fill="#cbd5e1"></circle><circle cx="62.53" cy="88.45" r="3.15" fill="#bcc9d8"></circle><circle cx="54.05" cy="96.29" r="2.33" fill="#cbd5e1"></circle><circle cx="53.32" cy="113.74" r="3.21" fill="#bcc9d8"></circle><circle cx="72.24" cy="116.34" r="2.77" fill="#cbd5e1"></circle><circle cx="111.75" cy="145.35" r="2.17" fill="#b9c7d8"></circle><circle cx="88.35" cy="130.55" r="2.12" fill="#c6d1e0"></circle><circle cx="85.95" cy="146.75" r="2.67" fill="#b9c7d8"></circle><circle cx="102.43" cy="158.52" r="2.77" fill="#c6d1e0"></circle><circle cx="113.82" cy="138.63" r="2.07" fill="#b9c7d8"></circle><circle cx="104.67" cy="149.26" r="2.03" fill="#c6d1e0"></circle><circle cx="114.33" cy="150.35" r="2.76" fill="#b9c7d8"></circle><circle cx="88.87" cy="128.77" r="2.27" fill="#c6d1e0"></circle><circle cx="106.84" cy="151.05" r="2.17" fill="#b9c7d8"></circle><circle cx="83.1" cy="146.84" r="2.94" fill="#c6d1e0"></circle><circle cx="104.98" cy="155.09" r="2.67" fill="#b9c7d8"></circle><circle cx="87.55" cy="138.62" r="2.49" fill="#c6d1e0"></circle><circle cx="107.08" cy="151.09" r="2.48" fill="#b9c7d8"></circle><circle cx="91.37" cy="138.3" r="2.71" fill="#c6d1e0"></circle><circle cx="96.67" cy="133.96" r="2.78" fill="#b9c7d8"></circle><circle cx="102.74" cy="135.19" r="2.67" fill="#c6d1e0"></circle><circle cx="101.72" cy="133.32" r="2.86" fill="#b9c7d8"></circle><circle cx="97.79" cy="124.03" r="2.06" fill="#c6d1e0"></circle><circle cx="85.59" cy="154.2" r="2.47" fill="#b9c7d8"></circle><circle cx="105.48" cy="150.3" r="2.69" fill="#c6d1e0"></circle><circle cx="108.39" cy="155.17" r="2.87" fill="#b9c7d8"></circle><circle cx="99.89" cy="124.68" r="2.11" fill="#c6d1e0"></circle><circle cx="115.17" cy="145.9" r="2.9" fill="#b9c7d8"></circle><circle cx="83.75" cy="143.02" r="3.05" fill="#c6d1e0"></circle></g>
-          <path d="M90 126L95 135H85Z M78 119L83 128H73Z M87 112L92 121H82Z" fill="#b3afc7"></path>
-          <path d="M142 88C163 49 210 31 249 45" fill="none" stroke="#a9b9cd" stroke-width="1.5" stroke-dasharray="3 4"></path>
-          <path d="M235 38L250 45L239 55" fill="none" stroke="#a9b9cd" stroke-width="1.5"></path>
-          <rect x="187" y="55" width="96" height="123" rx="13" transform="rotate(12 235 116)" fill="#e1e7f1" stroke="#c4cfdf"></rect>
-          <rect x="174" y="64" width="96" height="123" rx="13" transform="rotate(-6 222 125)" fill="#edf1f7" stroke="#c4cfdf"></rect>
-          <rect x="163" y="76" width="101" height="123" rx="13" fill="#fff" stroke="#b6c5d9" stroke-width="1.4"></rect>
-          <g data-marks="llm-revisit"><circle cx="206.36" cy="134.64" r="2.71" fill="#bccbde"></circle><circle cx="210.48" cy="103.58" r="2.03" fill="#d1dcea"></circle><circle cx="204.69" cy="126.13" r="1.98" fill="#bccbde"></circle><circle cx="187.55" cy="105.65" r="1.92" fill="#d1dcea"></circle><circle cx="191.4" cy="106.74" r="2.04" fill="#bccbde"></circle><circle cx="191.67" cy="133.75" r="2.07" fill="#d1dcea"></circle><circle cx="197.75" cy="97.31" r="2.68" fill="#bccbde"></circle><circle cx="181.45" cy="122.69" r="2.2" fill="#d1dcea"></circle><circle cx="176.25" cy="109.78" r="2.76" fill="#bccbde"></circle><circle cx="181.04" cy="125.54" r="2.62" fill="#d1dcea"></circle><circle cx="192.54" cy="129.86" r="1.89" fill="#bccbde"></circle><circle cx="202.89" cy="128.23" r="1.99" fill="#d1dcea"></circle><circle cx="200.44" cy="104.65" r="2.05" fill="#bccbde"></circle><circle cx="204.51" cy="111.61" r="2.79" fill="#d1dcea"></circle><circle cx="182.4" cy="115.47" r="2.0" fill="#bccbde"></circle><circle cx="195.58" cy="123.77" r="2.85" fill="#d1dcea"></circle><circle cx="204.33" cy="111.42" r="2.75" fill="#bccbde"></circle><circle cx="196.33" cy="102.98" r="2.26" fill="#d1dcea"></circle><circle cx="194.65" cy="117.05" r="1.99" fill="#bccbde"></circle><circle cx="182.11" cy="114.49" r="2.53" fill="#d1dcea"></circle><circle cx="195.81" cy="127.07" r="2.11" fill="#bccbde"></circle><circle cx="198.57" cy="95.36" r="2.2" fill="#d1dcea"></circle><circle cx="191.39" cy="109.57" r="2.37" fill="#bccbde"></circle><circle cx="213.48" cy="120.08" r="1.94" fill="#d1dcea"></circle><circle cx="210.2" cy="143.0" r="2.82" fill="#b8c7dc"></circle><circle cx="209.81" cy="142.4" r="2.83" fill="#c4d2e4"></circle><circle cx="215.65" cy="147.66" r="2.84" fill="#b8c7dc"></circle><circle cx="224.29" cy="139.4" r="1.9" fill="#c4d2e4"></circle><circle cx="234.79" cy="136.26" r="2.86" fill="#b8c7dc"></circle><circle cx="217.35" cy="143.26" r="2.5" fill="#c4d2e4"></circle><circle cx="238.95" cy="149.45" r="2.22" fill="#b8c7dc"></circle><circle cx="242.27" cy="133.84" r="2.76" fill="#c4d2e4"></circle><circle cx="213.87" cy="125.04" r="2.35" fill="#b8c7dc"></circle><circle cx="237.57" cy="136.26" r="2.21" fill="#c4d2e4"></circle><circle cx="222.09" cy="135.35" r="2.56" fill="#b8c7dc"></circle><circle cx="229.25" cy="124.52" r="2.72" fill="#c4d2e4"></circle><circle cx="215.58" cy="123.18" r="2.61" fill="#b8c7dc"></circle><circle cx="210.14" cy="130.76" r="2.86" fill="#c4d2e4"></circle><circle cx="216.43" cy="123.08" r="2.13" fill="#b8c7dc"></circle><circle cx="225.24" cy="127.77" r="2.66" fill="#c4d2e4"></circle><circle cx="227.0" cy="143.2" r="2.24" fill="#b8c7dc"></circle><circle cx="218.97" cy="148.24" r="2.62" fill="#c4d2e4"></circle><circle cx="233.1" cy="150.92" r="2.02" fill="#b8c7dc"></circle><circle cx="235.85" cy="139.84" r="2.68" fill="#c4d2e4"></circle></g>
-          <circle cx="237" cy="172" r="20" fill="#ede8f5" stroke="#b59dca" stroke-width="1.3"></circle>
-          <g fill="#9677b0"><path d="M234 160L239 169H229Z M244 169L249 178H239Z M231 174L236 183H226Z"></path></g>
-          <path d="M185 207C160 213 136 204 119 190" fill="none" stroke="#a9b9cd" stroke-width="1.5" stroke-dasharray="3 4"></path>
-          <path d="M120 204L119 190L133 192" fill="none" stroke="#a9b9cd" stroke-width="1.5"></path>
-          <text x="171" y="51" style="font-size:24px;fill:#7a8ba3">?</text>
-        </svg>
-        <figcaption><span>One view can miss it</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-move-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M18 8L22 12L18 16"></path>
-  <path d="M2 12H22"></path>
-</svg><span>Ask. Revisit. Discover.</span></figcaption>
-      </figure>
-      <p class="sc-project-abstract" data-abstract="llm">A rare population may disappear simply because we chose the wrong genes or view of the data. Fixed pipelines make these blind spots difficult to revisit, especially when the population is unknown. We are exploring language models that guide repeated, evidence-based reanalysis to uncover what a single pass might miss.</p>
-            <button class="sc-project-open cursor-interaction" data-page="research" data-project="llm">Explore LLM Rare Cell <span aria-hidden="true">↗</span></button>
-            </div></div></div>
-          </article>
         </div>
         <div class="sc-research-footer"><p>Beyond research: stories, games, and things made out of curiosity.</p><button class="cursor-interaction" data-page="play">Visit the playground →</button></div>
       </div>
@@ -922,78 +916,47 @@ html{color-scheme:light;background:#fff}body{margin:0;background:#fff}
   <p class="sc-page-intro">Finding the cells we overlook, understanding the clues they carry, and making discovery more accessible.</p>
   <h2 class="sc-research-group-title sc-section-label">Ongoing Projects</h2>
   <p class="sc-research-help"><span class="sc-pointer-hint">Hover to explore · click to pin · click again to close</span><span class="sc-touch-hint">Tap to open and pin · tap again to close</span></p><div class="sc-stories">
-    <article class="sc-story palma" data-detail="palma" aria-labelledby="story-palma-title" id="research-palma">
+    <article class="sc-story hiv-bcr" id="research-hiv-bcr" data-detail="hiv-bcr" aria-labelledby="story-hiv-bcr-title">
       <header class="sc-story-header">
-  <div class="sc-story-meta"><span>Single-cell discovery</span><span>Preprint · 2026</span></div>
-        <h3 id="story-palma-title"><button type="button" class="sc-project-toggle sc-story-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" id="story-toggle-palma" aria-controls="story-panel-palma" aria-label="Pin open PalmaClust"><span class="sc-story-name">PalmaClust</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <div class="sc-story-meta"><span>Antibody binding · Duke University</span><span>Ongoing · 2026</span></div>
+        <h3 id="story-hiv-bcr-title"><button type="button" class="sc-project-toggle sc-story-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" id="story-toggle-hiv-bcr" aria-controls="story-panel-hiv-bcr" aria-label="Pin open HIV BCR"><span class="sc-story-name">HIV BCR</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
   <path d="M12 17v5"></path>
   <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"></path>
 </svg><span class="sc-pin-label">Pin</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-chevron-down sc-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
   <path d="m6 9 6 6 6-6"></path>
 </svg></span></button></h3>
-  <p class="sc-story-question">What if the most important cells are the easiest to miss?</p>
+  <p class="sc-story-question">Why do some antibodies with high BEAM scores fail to bind the HIV Env trimer?</p>
         </header>
-<div class="sc-project-body sc-story-body" aria-hidden="true" inert="" role="region" id="story-panel-palma" aria-labelledby="story-toggle-palma">
+<div class="sc-project-body sc-story-body" aria-hidden="true" inert="" role="region" id="story-panel-hiv-bcr" aria-labelledby="story-toggle-hiv-bcr">
   <div class="sc-project-body-inner">
-    <div class="sc-story-content"><figure class="sc-story-figure" data-figure="palma">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 228" role="img" aria-label="Rare cells can disappear among abundant populations. The Palma ratio highlights gene expression concentrated in a small tail, helping bring rare populations into focus. Schematic, not experimental data.">
-          <ellipse cx="97" cy="115" rx="80" ry="81" fill="#e9eee4"></ellipse>
-          <g data-marks="palma-crowd"><circle cx="104.79" cy="154.86" r="3.03" fill="#c4d1b9"></circle><circle cx="116.57" cy="115.27" r="2.53" fill="#bcccb0"></circle><circle cx="40.0" cy="138.36" r="2.15" fill="#d1dbc7"></circle><circle cx="135.84" cy="98.71" r="3.04" fill="#c4d1b9"></circle><circle cx="95.04" cy="114.35" r="2.84" fill="#bcccb0"></circle><circle cx="89.42" cy="88.21" r="2.99" fill="#d1dbc7"></circle><circle cx="120.71" cy="83.22" r="2.83" fill="#c4d1b9"></circle><circle cx="98.3" cy="149.21" r="2.23" fill="#bcccb0"></circle><circle cx="105.25" cy="168.13" r="2.68" fill="#d1dbc7"></circle><circle cx="94.93" cy="100.4" r="2.56" fill="#c4d1b9"></circle><circle cx="63.96" cy="52.93" r="3.06" fill="#bcccb0"></circle><circle cx="103.1" cy="114.51" r="2.81" fill="#d1dbc7"></circle><circle cx="72.41" cy="102.98" r="2.71" fill="#c4d1b9"></circle><circle cx="138.27" cy="134.51" r="3.21" fill="#bcccb0"></circle><circle cx="98.48" cy="79.81" r="3.2" fill="#d1dbc7"></circle><circle cx="56.23" cy="71.17" r="2.38" fill="#c4d1b9"></circle><circle cx="91.22" cy="73.69" r="2.22" fill="#bcccb0"></circle><circle cx="119.24" cy="118.38" r="2.78" fill="#d1dbc7"></circle><circle cx="83.41" cy="121.1" r="2.15" fill="#c4d1b9"></circle><circle cx="109.24" cy="172.33" r="2.29" fill="#bcccb0"></circle><circle cx="114.86" cy="144.33" r="2.67" fill="#d1dbc7"></circle><circle cx="108.27" cy="141.83" r="3.02" fill="#c4d1b9"></circle><circle cx="148.45" cy="129.81" r="2.37" fill="#bcccb0"></circle><circle cx="145.69" cy="109.77" r="2.24" fill="#d1dbc7"></circle><circle cx="66.62" cy="51.49" r="2.79" fill="#c4d1b9"></circle><circle cx="39.83" cy="74.42" r="2.16" fill="#bcccb0"></circle><circle cx="95.65" cy="60.37" r="2.27" fill="#d1dbc7"></circle><circle cx="86.55" cy="45.78" r="2.84" fill="#c4d1b9"></circle><circle cx="77.26" cy="141.46" r="2.92" fill="#bcccb0"></circle><circle cx="66.53" cy="123.79" r="2.83" fill="#d1dbc7"></circle><circle cx="40.3" cy="95.55" r="2.75" fill="#c4d1b9"></circle><circle cx="58.35" cy="115.8" r="2.5" fill="#bcccb0"></circle><circle cx="92.86" cy="57.17" r="2.67" fill="#d1dbc7"></circle><circle cx="39.28" cy="116.83" r="2.66" fill="#c4d1b9"></circle><circle cx="117.1" cy="64.81" r="2.68" fill="#bcccb0"></circle><circle cx="138.28" cy="112.08" r="2.22" fill="#d1dbc7"></circle><circle cx="111.09" cy="100.14" r="3.1" fill="#c4d1b9"></circle><circle cx="101.73" cy="164.23" r="2.76" fill="#bcccb0"></circle><circle cx="68.19" cy="126.32" r="2.11" fill="#d1dbc7"></circle><circle cx="35.97" cy="91.79" r="2.65" fill="#c4d1b9"></circle><circle cx="62.58" cy="163.78" r="2.74" fill="#bcccb0"></circle><circle cx="72.93" cy="173.92" r="2.79" fill="#d1dbc7"></circle><circle cx="101.37" cy="70.11" r="2.88" fill="#c4d1b9"></circle><circle cx="115.9" cy="106.14" r="3.18" fill="#bcccb0"></circle><circle cx="85.62" cy="74.45" r="2.83" fill="#d1dbc7"></circle><circle cx="77.27" cy="134.74" r="2.69" fill="#c4d1b9"></circle><circle cx="72.73" cy="58.26" r="3.17" fill="#bcccb0"></circle><circle cx="64.23" cy="115.43" r="2.92" fill="#d1dbc7"></circle><circle cx="99.38" cy="150.42" r="2.25" fill="#c4d1b9"></circle><circle cx="112.09" cy="101.41" r="2.76" fill="#bcccb0"></circle><circle cx="65.51" cy="57.06" r="2.98" fill="#d1dbc7"></circle><circle cx="123.09" cy="85.13" r="3.18" fill="#c4d1b9"></circle><circle cx="34.89" cy="119.27" r="2.83" fill="#bcccb0"></circle><circle cx="51.61" cy="153.32" r="2.36" fill="#d1dbc7"></circle><circle cx="102.78" cy="59.78" r="2.29" fill="#c4d1b9"></circle><circle cx="74.43" cy="54.04" r="2.96" fill="#bcccb0"></circle><circle cx="62.23" cy="167.28" r="2.42" fill="#d1dbc7"></circle><circle cx="93.95" cy="112.7" r="2.84" fill="#c4d1b9"></circle><circle cx="94.83" cy="89.01" r="2.66" fill="#bcccb0"></circle><circle cx="56.76" cy="59.55" r="3.14" fill="#d1dbc7"></circle><circle cx="130.28" cy="86.92" r="2.16" fill="#c4d1b9"></circle><circle cx="116.85" cy="134.21" r="2.75" fill="#bcccb0"></circle><circle cx="86.26" cy="110.15" r="3.05" fill="#d1dbc7"></circle><circle cx="112.54" cy="108.63" r="3.06" fill="#c4d1b9"></circle><circle cx="86.86" cy="51.72" r="2.36" fill="#bcccb0"></circle><circle cx="36.69" cy="112.9" r="2.28" fill="#d1dbc7"></circle><circle cx="37.96" cy="133.18" r="2.92" fill="#c4d1b9"></circle><circle cx="89.89" cy="53.57" r="2.8" fill="#bcccb0"></circle><circle cx="112.96" cy="114.29" r="2.44" fill="#d1dbc7"></circle><circle cx="95.09" cy="130.03" r="2.83" fill="#c4d1b9"></circle><circle cx="48.1" cy="102.12" r="2.92" fill="#bcccb0"></circle><circle cx="133.62" cy="126.97" r="2.48" fill="#d1dbc7"></circle><circle cx="56.86" cy="74.85" r="3.17" fill="#c4d1b9"></circle><circle cx="62.48" cy="151.77" r="2.19" fill="#bcccb0"></circle><circle cx="63.28" cy="63.5" r="2.15" fill="#d1dbc7"></circle><circle cx="73.39" cy="126.55" r="2.18" fill="#c4d1b9"></circle><circle cx="74.89" cy="74.98" r="2.16" fill="#bcccb0"></circle><circle cx="90.53" cy="63.5" r="3.14" fill="#d1dbc7"></circle><circle cx="92.81" cy="121.5" r="2.57" fill="#c4d1b9"></circle><circle cx="116.34" cy="102.13" r="2.35" fill="#bcccb0"></circle><circle cx="123.58" cy="69.15" r="2.88" fill="#d1dbc7"></circle><circle cx="110.08" cy="68.2" r="2.68" fill="#c4d1b9"></circle><circle cx="149.04" cy="117.63" r="2.71" fill="#bcccb0"></circle><circle cx="111.59" cy="120.78" r="3.18" fill="#d1dbc7"></circle><circle cx="151.86" cy="94.07" r="2.95" fill="#c4d1b9"></circle><circle cx="85.4" cy="95.54" r="2.68" fill="#bcccb0"></circle><circle cx="134.11" cy="92.86" r="2.93" fill="#d1dbc7"></circle><circle cx="83.02" cy="92.02" r="3.15" fill="#c4d1b9"></circle><circle cx="79.15" cy="122.99" r="2.79" fill="#bcccb0"></circle><circle cx="60.64" cy="115.37" r="2.33" fill="#d1dbc7"></circle><circle cx="119.14" cy="120.96" r="2.5" fill="#c4d1b9"></circle><circle cx="36.94" cy="135.54" r="2.23" fill="#bcccb0"></circle><circle cx="81.63" cy="111.08" r="3.13" fill="#d1dbc7"></circle><circle cx="117.48" cy="169.08" r="3.09" fill="#c4d1b9"></circle><circle cx="69.88" cy="58.05" r="2.61" fill="#bcccb0"></circle><circle cx="112.15" cy="99.99" r="3.11" fill="#d1dbc7"></circle><circle cx="126.15" cy="145.94" r="2.12" fill="#c4d1b9"></circle><circle cx="117.12" cy="61.31" r="2.27" fill="#bcccb0"></circle><circle cx="63.16" cy="86.08" r="2.57" fill="#d1dbc7"></circle><circle cx="103.48" cy="105.02" r="2.23" fill="#c4d1b9"></circle><circle cx="79.14" cy="76.52" r="3.17" fill="#bcccb0"></circle><circle cx="130.78" cy="142.18" r="2.6" fill="#d1dbc7"></circle><circle cx="50.74" cy="125.95" r="3.13" fill="#c4d1b9"></circle><circle cx="62.0" cy="75.55" r="2.59" fill="#bcccb0"></circle><circle cx="81.18" cy="119.25" r="2.11" fill="#d1dbc7"></circle><circle cx="102.73" cy="60.86" r="2.14" fill="#c4d1b9"></circle><circle cx="122.17" cy="140.68" r="2.25" fill="#bcccb0"></circle><circle cx="66.94" cy="69.95" r="2.78" fill="#d1dbc7"></circle><circle cx="111.57" cy="131.43" r="2.31" fill="#c4d1b9"></circle><circle cx="47.82" cy="141.67" r="2.5" fill="#bcccb0"></circle><circle cx="107.42" cy="79.54" r="2.31" fill="#d1dbc7"></circle><circle cx="137.89" cy="130.83" r="2.89" fill="#c4d1b9"></circle><circle cx="82.02" cy="112.56" r="2.64" fill="#bcccb0"></circle><circle cx="89.83" cy="147.77" r="2.33" fill="#d1dbc7"></circle><circle cx="92.01" cy="91.49" r="2.64" fill="#c4d1b9"></circle><circle cx="55.01" cy="112.31" r="2.48" fill="#bcccb0"></circle><circle cx="55.93" cy="98.95" r="2.58" fill="#d1dbc7"></circle><circle cx="111.07" cy="81.62" r="2.16" fill="#c4d1b9"></circle><circle cx="78.76" cy="170.88" r="2.32" fill="#bcccb0"></circle><circle cx="58.36" cy="73.62" r="2.18" fill="#d1dbc7"></circle><circle cx="79.98" cy="91.89" r="2.6" fill="#c4d1b9"></circle><circle cx="90.43" cy="127.41" r="2.67" fill="#bcccb0"></circle><circle cx="105.98" cy="169.89" r="2.75" fill="#d1dbc7"></circle><circle cx="127.86" cy="130.58" r="2.43" fill="#c4d1b9"></circle><circle cx="76.97" cy="97.75" r="2.28" fill="#bcccb0"></circle></g>
-          <path d="M130 96L136 107H124Z M141 112L147 123H135Z M121 118L127 129H115Z" fill="#a27648"></path>
-          <circle cx="132" cy="113" r="25" fill="none" stroke="#879a72" stroke-width="1.5" stroke-dasharray="3 4"></circle>
-          <path d="M147 93L211 66M149 133L211 168" fill="none" stroke="#b9c8ad" stroke-width="1.2"></path>
-          <circle cx="245" cy="116" r="63" fill="#fdfefb" stroke="#cfdbc5" stroke-width="1.5"></circle>
-          <circle cx="245" cy="116" r="52" fill="#edf2e7"></circle>
-          <g fill="#d6e0ca"><circle cx="214" cy="89" r="7"></circle><circle cx="275" cy="95" r="6"></circle><circle cx="222" cy="150" r="6"></circle><circle cx="273" cy="144" r="8"></circle></g>
-          <g fill="#ad8051" stroke="#fffaf4" stroke-width="2"><path d="M238 87L250 109H226Z"></path><path d="M257 115L269 137H245Z"></path><path d="M231 122L243 144H219Z"></path></g>
-          <path d="M232 106L235 125M247 102L255 120M241 133L250 130" fill="none" stroke="#c9ae85" stroke-width="1.5"></path>
-        <g data-marks="palma-expression-tail" aria-label="Schematic expression values concentrated in a small high-expression tail; highlighted by the Palma ratio.">
-  <text x="244" y="31" class="sc-figure-keyword" fill="#58714e">Palma ratio</text>
-  <g fill="#c4d1b9">
-    <rect x="182" y="216" width="6" height="3" rx="1"></rect>
-    <rect x="192" y="216" width="6" height="3" rx="1"></rect>
-    <rect x="202" y="215" width="6" height="4" rx="1"></rect>
-    <rect x="212" y="215" width="6" height="4" rx="1"></rect>
-    <rect x="222" y="214" width="6" height="5" rx="1"></rect>
-    <rect x="232" y="213" width="6" height="6" rx="1"></rect>
-    <rect x="242" y="211" width="6" height="8" rx="1"></rect>
-  </g>
-  <g fill="#ad8051">
-    <rect x="252" y="207" width="6" height="12" rx="1"></rect>
-    <rect x="262" y="201" width="6" height="18" rx="1"></rect>
-    <rect x="272" y="191" width="6" height="28" rx="1"></rect>
-    <rect x="282" y="178" width="6" height="41" rx="1"></rect>
-  </g>
-  <text x="77" y="213" class="sc-figure-label" fill="#687b5b">A few strong signals</text>
-</g>
-</svg>
-        <figcaption><span>Lost in the crowd</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-move-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M18 8L22 12L18 16"></path>
-  <path d="M2 12H22"></path>
-</svg><span>Rare cells in focus</span></figcaption>
+    <div class="sc-story-content"><figure class="sc-story-figure" data-figure="hiv-bcr">
+        <svg viewBox="0 0 320 228" role="img" aria-label="Two observations for the same antibody: a high BEAM score and no detectable trimer binding in a follow-up assay. BCR sequences are used to prioritize candidate Env trimer binders for testing."><use href="#diagram-hiv-bcr"/></svg>
       </figure>
       <div class="sc-story-copy">
-        <p class="sc-story-abstract" data-abstract="palma">Rare cells can reveal immune defenses and treatment resistance, yet common gene-selection methods may overlook signals concentrated in very few cells. Losing these signals leaves important biology hidden. PalmaClust uses the Palma ratio, a tail-sensitive inequality measure, to prioritize rare-cell marker genes and combine complementary views for discovery.</p>
-        <div class="sc-story-links">
-          <a class="cursor-interaction" href="https://doi.org/10.64898/2026.03.16.712161" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-file-text" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path>
-  <path d="M14 2v4a2 2 0 0 0 2 2h4"></path>
-  <path d="M10 9H8"></path>
-  <path d="M16 13H8"></path>
-  <path d="M16 17H8"></path>
-</svg>Preprint<svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-arrow-up-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M7 7h10v10"></path>
-  <path d="M7 17 17 7"></path>
-</svg></a>
-          <a class="cursor-interaction" href="https://github.com/wan-mlab/PalmaClust" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-code-xml" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="m18 16 4-4-4-4"></path>
-  <path d="m6 8-4 4 4 4"></path>
-  <path d="m14.5 4-5 16"></path>
-</svg>Repository<svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-arrow-up-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-  <path d="M7 7h10v10"></path>
-  <path d="M7 17 17 7"></path>
-</svg></a>
-        </div>
+        <p class="sc-story-abstract" data-abstract="hiv-bcr">Some antibodies with high BEAM scores show no detectable binding to the HIV envelope (Env) trimer in follow-up assays. We compare the B-cell receptor (BCR) sequences of these antibodies with those of confirmed binders. Our goal is to identify sequence features that help prioritize candidate trimer-binding antibodies for experimental testing in HIV vaccine research.</p>
+      </div>
+    </div>
+  </div>
+</div>
+</article>
+    <article class="sc-story llm" id="research-llm" data-detail="llm" aria-labelledby="story-llm-title">
+      <header class="sc-story-header">
+  <div class="sc-story-meta"><span>AI for discovery</span><span>In development</span></div>
+        <h3 id="story-llm-title"><button type="button" class="sc-project-toggle sc-story-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" id="story-toggle-llm" aria-controls="story-panel-llm" aria-label="Pin open LLM Rare Cell"><span class="sc-story-name">LLM Rare Cell</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M12 17v5"></path>
+  <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"></path>
+</svg><span class="sc-pin-label">Pin</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-chevron-down sc-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="m6 9 6 6 6-6"></path>
+</svg></span></button></h3>
+  <p class="sc-story-question">Which cells belong to a rare population when its identity is uncertain?</p>
+        </header>
+<div class="sc-project-body sc-story-body" aria-hidden="true" inert="" role="region" id="story-panel-llm" aria-labelledby="story-toggle-llm">
+  <div class="sc-project-body-inner">
+    <div class="sc-story-content"><figure class="sc-story-figure" data-figure="llm">
+        <svg viewBox="0 0 320 228" role="img" aria-label="A discovery agent uses frozen multi-view RNA evidence to test proposed cell-type names across the dataset and to expand uncertain or unnamed seeds. Competing claims are reconciled into cell memberships."><use href="#diagram-llm"/></svg>
+      </figure>
+      <div class="sc-story-copy">
+        <p class="sc-story-abstract" data-abstract="llm">LLM Rare Cell starts with several views of the same single-cell RNA data, including small clusters and individual outlier cells. A discovery agent tests proposed cell-type names against expression across the dataset and expands uncertain or unnamed groups from their seed cells. It then checks overlapping claims to decide which cells belong to each population.</p>
       </div>
     </div>
   </div>
@@ -1072,52 +1035,87 @@ html{color-scheme:light;background:#fff}body{margin:0;background:#fff}
   </div>
 </div>
 </article>
-    <article class="sc-story llm" data-detail="llm" aria-labelledby="story-llm-title">
+  </div>
+  <section class="sc-archive-section" aria-labelledby="sc-archived-heading">
+    <h2 class="sc-research-group-title sc-section-label" id="sc-archived-heading">Archived Projects</h2>
+    <p class="sc-archive-intro">Earlier questions that still shape how I work.</p>
+    <article class="sc-story palma" data-detail="palma" aria-labelledby="story-palma-title" id="research-palma">
       <header class="sc-story-header">
-  <div class="sc-story-meta"><span>AI for discovery</span><span>In development</span></div>
-        <h3 id="story-llm-title"><button type="button" class="sc-project-toggle sc-story-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" id="story-toggle-llm" aria-controls="story-panel-llm" aria-label="Pin open LLM Rare Cell"><span class="sc-story-name">LLM Rare Cell</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <div class="sc-story-meta"><span>Single-cell discovery · University of Nebraska Medical Center</span><span>2026</span></div>
+        <h3 id="story-palma-title"><button type="button" class="sc-project-toggle sc-story-toggle cursor-interaction" aria-expanded="false" aria-pressed="false" id="story-toggle-palma" aria-controls="story-panel-palma" aria-label="Pin open PalmaClust"><span class="sc-story-name">PalmaClust</span><span class="sc-project-control"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-pin" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
   <path d="M12 17v5"></path>
   <path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"></path>
 </svg><span class="sc-pin-label">Pin</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-chevron-down sc-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
   <path d="m6 9 6 6 6-6"></path>
 </svg></span></button></h3>
-  <p class="sc-story-question">What are we missing when we only look once?</p>
+  <p class="sc-story-question">What if the most important cells are the easiest to miss?</p>
         </header>
-<div class="sc-project-body sc-story-body" aria-hidden="true" inert="" role="region" id="story-panel-llm" aria-labelledby="story-toggle-llm">
+<div class="sc-project-body sc-story-body" aria-hidden="true" inert="" role="region" id="story-panel-palma" aria-labelledby="story-toggle-palma">
   <div class="sc-project-body-inner">
-    <div class="sc-story-content"><figure class="sc-story-figure" data-figure="llm">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 228" role="img" aria-label="One fixed view can conceal a rare population. Revisiting the same cells through different views can expose a small group worth investigating.">
-          <rect x="21" y="60" width="113" height="118" rx="14" fill="#e9edf2" stroke="#d9e0e8"></rect>
-          <g data-marks="llm-fixed"><circle cx="67.16" cy="111.15" r="2.54" fill="#bcc9d8"></circle><circle cx="42.44" cy="100.54" r="2.72" fill="#cbd5e1"></circle><circle cx="83.71" cy="116.18" r="3.18" fill="#bcc9d8"></circle><circle cx="44.58" cy="92.12" r="2.75" fill="#cbd5e1"></circle><circle cx="50.74" cy="119.04" r="2.32" fill="#bcc9d8"></circle><circle cx="77.04" cy="106.9" r="3.05" fill="#cbd5e1"></circle><circle cx="37.09" cy="96.35" r="2.21" fill="#bcc9d8"></circle><circle cx="59.94" cy="121.46" r="2.44" fill="#cbd5e1"></circle><circle cx="82.18" cy="114.08" r="2.56" fill="#bcc9d8"></circle><circle cx="53.02" cy="126.41" r="2.39" fill="#cbd5e1"></circle><circle cx="78.87" cy="104.02" r="2.25" fill="#bcc9d8"></circle><circle cx="66.3" cy="106.22" r="2.13" fill="#cbd5e1"></circle><circle cx="47.37" cy="108.39" r="2.3" fill="#bcc9d8"></circle><circle cx="42.96" cy="95.2" r="3.0" fill="#cbd5e1"></circle><circle cx="60.76" cy="106.64" r="2.69" fill="#bcc9d8"></circle><circle cx="66.22" cy="89.08" r="2.54" fill="#cbd5e1"></circle><circle cx="42.45" cy="96.83" r="2.14" fill="#bcc9d8"></circle><circle cx="66.93" cy="119.28" r="2.86" fill="#cbd5e1"></circle><circle cx="69.26" cy="122.31" r="2.75" fill="#bcc9d8"></circle><circle cx="38.16" cy="98.75" r="2.29" fill="#cbd5e1"></circle><circle cx="64.87" cy="84.78" r="2.19" fill="#bcc9d8"></circle><circle cx="66.23" cy="102.06" r="2.48" fill="#cbd5e1"></circle><circle cx="68.3" cy="110.14" r="3.09" fill="#bcc9d8"></circle><circle cx="75.51" cy="87.68" r="2.83" fill="#cbd5e1"></circle><circle cx="66.27" cy="86.18" r="2.32" fill="#bcc9d8"></circle><circle cx="57.16" cy="89.22" r="2.12" fill="#cbd5e1"></circle><circle cx="62.53" cy="88.45" r="3.15" fill="#bcc9d8"></circle><circle cx="54.05" cy="96.29" r="2.33" fill="#cbd5e1"></circle><circle cx="53.32" cy="113.74" r="3.21" fill="#bcc9d8"></circle><circle cx="72.24" cy="116.34" r="2.77" fill="#cbd5e1"></circle><circle cx="111.75" cy="145.35" r="2.17" fill="#b9c7d8"></circle><circle cx="88.35" cy="130.55" r="2.12" fill="#c6d1e0"></circle><circle cx="85.95" cy="146.75" r="2.67" fill="#b9c7d8"></circle><circle cx="102.43" cy="158.52" r="2.77" fill="#c6d1e0"></circle><circle cx="113.82" cy="138.63" r="2.07" fill="#b9c7d8"></circle><circle cx="104.67" cy="149.26" r="2.03" fill="#c6d1e0"></circle><circle cx="114.33" cy="150.35" r="2.76" fill="#b9c7d8"></circle><circle cx="88.87" cy="128.77" r="2.27" fill="#c6d1e0"></circle><circle cx="106.84" cy="151.05" r="2.17" fill="#b9c7d8"></circle><circle cx="83.1" cy="146.84" r="2.94" fill="#c6d1e0"></circle><circle cx="104.98" cy="155.09" r="2.67" fill="#b9c7d8"></circle><circle cx="87.55" cy="138.62" r="2.49" fill="#c6d1e0"></circle><circle cx="107.08" cy="151.09" r="2.48" fill="#b9c7d8"></circle><circle cx="91.37" cy="138.3" r="2.71" fill="#c6d1e0"></circle><circle cx="96.67" cy="133.96" r="2.78" fill="#b9c7d8"></circle><circle cx="102.74" cy="135.19" r="2.67" fill="#c6d1e0"></circle><circle cx="101.72" cy="133.32" r="2.86" fill="#b9c7d8"></circle><circle cx="97.79" cy="124.03" r="2.06" fill="#c6d1e0"></circle><circle cx="85.59" cy="154.2" r="2.47" fill="#b9c7d8"></circle><circle cx="105.48" cy="150.3" r="2.69" fill="#c6d1e0"></circle><circle cx="108.39" cy="155.17" r="2.87" fill="#b9c7d8"></circle><circle cx="99.89" cy="124.68" r="2.11" fill="#c6d1e0"></circle><circle cx="115.17" cy="145.9" r="2.9" fill="#b9c7d8"></circle><circle cx="83.75" cy="143.02" r="3.05" fill="#c6d1e0"></circle></g>
-          <path d="M90 126L95 135H85Z M78 119L83 128H73Z M87 112L92 121H82Z" fill="#b3afc7"></path>
-          <path d="M142 88C163 49 210 31 249 45" fill="none" stroke="#a9b9cd" stroke-width="1.5" stroke-dasharray="3 4"></path>
-          <path d="M235 38L250 45L239 55" fill="none" stroke="#a9b9cd" stroke-width="1.5"></path>
-          <rect x="187" y="55" width="96" height="123" rx="13" transform="rotate(12 235 116)" fill="#e1e7f1" stroke="#c4cfdf"></rect>
-          <rect x="174" y="64" width="96" height="123" rx="13" transform="rotate(-6 222 125)" fill="#edf1f7" stroke="#c4cfdf"></rect>
-          <rect x="163" y="76" width="101" height="123" rx="13" fill="#fff" stroke="#b6c5d9" stroke-width="1.4"></rect>
-          <g data-marks="llm-revisit"><circle cx="206.36" cy="134.64" r="2.71" fill="#bccbde"></circle><circle cx="210.48" cy="103.58" r="2.03" fill="#d1dcea"></circle><circle cx="204.69" cy="126.13" r="1.98" fill="#bccbde"></circle><circle cx="187.55" cy="105.65" r="1.92" fill="#d1dcea"></circle><circle cx="191.4" cy="106.74" r="2.04" fill="#bccbde"></circle><circle cx="191.67" cy="133.75" r="2.07" fill="#d1dcea"></circle><circle cx="197.75" cy="97.31" r="2.68" fill="#bccbde"></circle><circle cx="181.45" cy="122.69" r="2.2" fill="#d1dcea"></circle><circle cx="176.25" cy="109.78" r="2.76" fill="#bccbde"></circle><circle cx="181.04" cy="125.54" r="2.62" fill="#d1dcea"></circle><circle cx="192.54" cy="129.86" r="1.89" fill="#bccbde"></circle><circle cx="202.89" cy="128.23" r="1.99" fill="#d1dcea"></circle><circle cx="200.44" cy="104.65" r="2.05" fill="#bccbde"></circle><circle cx="204.51" cy="111.61" r="2.79" fill="#d1dcea"></circle><circle cx="182.4" cy="115.47" r="2.0" fill="#bccbde"></circle><circle cx="195.58" cy="123.77" r="2.85" fill="#d1dcea"></circle><circle cx="204.33" cy="111.42" r="2.75" fill="#bccbde"></circle><circle cx="196.33" cy="102.98" r="2.26" fill="#d1dcea"></circle><circle cx="194.65" cy="117.05" r="1.99" fill="#bccbde"></circle><circle cx="182.11" cy="114.49" r="2.53" fill="#d1dcea"></circle><circle cx="195.81" cy="127.07" r="2.11" fill="#bccbde"></circle><circle cx="198.57" cy="95.36" r="2.2" fill="#d1dcea"></circle><circle cx="191.39" cy="109.57" r="2.37" fill="#bccbde"></circle><circle cx="213.48" cy="120.08" r="1.94" fill="#d1dcea"></circle><circle cx="210.2" cy="143.0" r="2.82" fill="#b8c7dc"></circle><circle cx="209.81" cy="142.4" r="2.83" fill="#c4d2e4"></circle><circle cx="215.65" cy="147.66" r="2.84" fill="#b8c7dc"></circle><circle cx="224.29" cy="139.4" r="1.9" fill="#c4d2e4"></circle><circle cx="234.79" cy="136.26" r="2.86" fill="#b8c7dc"></circle><circle cx="217.35" cy="143.26" r="2.5" fill="#c4d2e4"></circle><circle cx="238.95" cy="149.45" r="2.22" fill="#b8c7dc"></circle><circle cx="242.27" cy="133.84" r="2.76" fill="#c4d2e4"></circle><circle cx="213.87" cy="125.04" r="2.35" fill="#b8c7dc"></circle><circle cx="237.57" cy="136.26" r="2.21" fill="#c4d2e4"></circle><circle cx="222.09" cy="135.35" r="2.56" fill="#b8c7dc"></circle><circle cx="229.25" cy="124.52" r="2.72" fill="#c4d2e4"></circle><circle cx="215.58" cy="123.18" r="2.61" fill="#b8c7dc"></circle><circle cx="210.14" cy="130.76" r="2.86" fill="#c4d2e4"></circle><circle cx="216.43" cy="123.08" r="2.13" fill="#b8c7dc"></circle><circle cx="225.24" cy="127.77" r="2.66" fill="#c4d2e4"></circle><circle cx="227.0" cy="143.2" r="2.24" fill="#b8c7dc"></circle><circle cx="218.97" cy="148.24" r="2.62" fill="#c4d2e4"></circle><circle cx="233.1" cy="150.92" r="2.02" fill="#b8c7dc"></circle><circle cx="235.85" cy="139.84" r="2.68" fill="#c4d2e4"></circle></g>
-          <circle cx="237" cy="172" r="20" fill="#ede8f5" stroke="#b59dca" stroke-width="1.3"></circle>
-          <g fill="#9677b0"><path d="M234 160L239 169H229Z M244 169L249 178H239Z M231 174L236 183H226Z"></path></g>
-          <path d="M185 207C160 213 136 204 119 190" fill="none" stroke="#a9b9cd" stroke-width="1.5" stroke-dasharray="3 4"></path>
-          <path d="M120 204L119 190L133 192" fill="none" stroke="#a9b9cd" stroke-width="1.5"></path>
-          <text x="171" y="51" style="font-size:24px;fill:#7a8ba3">?</text>
-        </svg>
-        <figcaption><span>One view can miss it</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-move-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+    <div class="sc-story-content"><figure class="sc-story-figure" data-figure="palma">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 228" role="img" aria-label="Rare cells can disappear among abundant populations. The Palma ratio highlights gene expression concentrated in a small tail, helping bring rare populations into focus. Schematic, not experimental data.">
+          <ellipse cx="97" cy="115" rx="80" ry="81" fill="#e9eee4"></ellipse>
+          <g data-marks="palma-crowd"><circle cx="104.79" cy="154.86" r="3.03" fill="#c4d1b9"></circle><circle cx="116.57" cy="115.27" r="2.53" fill="#bcccb0"></circle><circle cx="40.0" cy="138.36" r="2.15" fill="#d1dbc7"></circle><circle cx="135.84" cy="98.71" r="3.04" fill="#c4d1b9"></circle><circle cx="95.04" cy="114.35" r="2.84" fill="#bcccb0"></circle><circle cx="89.42" cy="88.21" r="2.99" fill="#d1dbc7"></circle><circle cx="120.71" cy="83.22" r="2.83" fill="#c4d1b9"></circle><circle cx="98.3" cy="149.21" r="2.23" fill="#bcccb0"></circle><circle cx="105.25" cy="168.13" r="2.68" fill="#d1dbc7"></circle><circle cx="94.93" cy="100.4" r="2.56" fill="#c4d1b9"></circle><circle cx="63.96" cy="52.93" r="3.06" fill="#bcccb0"></circle><circle cx="103.1" cy="114.51" r="2.81" fill="#d1dbc7"></circle><circle cx="72.41" cy="102.98" r="2.71" fill="#c4d1b9"></circle><circle cx="138.27" cy="134.51" r="3.21" fill="#bcccb0"></circle><circle cx="98.48" cy="79.81" r="3.2" fill="#d1dbc7"></circle><circle cx="56.23" cy="71.17" r="2.38" fill="#c4d1b9"></circle><circle cx="91.22" cy="73.69" r="2.22" fill="#bcccb0"></circle><circle cx="119.24" cy="118.38" r="2.78" fill="#d1dbc7"></circle><circle cx="83.41" cy="121.1" r="2.15" fill="#c4d1b9"></circle><circle cx="109.24" cy="172.33" r="2.29" fill="#bcccb0"></circle><circle cx="114.86" cy="144.33" r="2.67" fill="#d1dbc7"></circle><circle cx="108.27" cy="141.83" r="3.02" fill="#c4d1b9"></circle><circle cx="148.45" cy="129.81" r="2.37" fill="#bcccb0"></circle><circle cx="145.69" cy="109.77" r="2.24" fill="#d1dbc7"></circle><circle cx="66.62" cy="51.49" r="2.79" fill="#c4d1b9"></circle><circle cx="39.83" cy="74.42" r="2.16" fill="#bcccb0"></circle><circle cx="95.65" cy="60.37" r="2.27" fill="#d1dbc7"></circle><circle cx="86.55" cy="45.78" r="2.84" fill="#c4d1b9"></circle><circle cx="77.26" cy="141.46" r="2.92" fill="#bcccb0"></circle><circle cx="66.53" cy="123.79" r="2.83" fill="#d1dbc7"></circle><circle cx="40.3" cy="95.55" r="2.75" fill="#c4d1b9"></circle><circle cx="58.35" cy="115.8" r="2.5" fill="#bcccb0"></circle><circle cx="92.86" cy="57.17" r="2.67" fill="#d1dbc7"></circle><circle cx="39.28" cy="116.83" r="2.66" fill="#c4d1b9"></circle><circle cx="117.1" cy="64.81" r="2.68" fill="#bcccb0"></circle><circle cx="138.28" cy="112.08" r="2.22" fill="#d1dbc7"></circle><circle cx="111.09" cy="100.14" r="3.1" fill="#c4d1b9"></circle><circle cx="101.73" cy="164.23" r="2.76" fill="#bcccb0"></circle><circle cx="68.19" cy="126.32" r="2.11" fill="#d1dbc7"></circle><circle cx="35.97" cy="91.79" r="2.65" fill="#c4d1b9"></circle><circle cx="62.58" cy="163.78" r="2.74" fill="#bcccb0"></circle><circle cx="72.93" cy="173.92" r="2.79" fill="#d1dbc7"></circle><circle cx="101.37" cy="70.11" r="2.88" fill="#c4d1b9"></circle><circle cx="115.9" cy="106.14" r="3.18" fill="#bcccb0"></circle><circle cx="85.62" cy="74.45" r="2.83" fill="#d1dbc7"></circle><circle cx="77.27" cy="134.74" r="2.69" fill="#c4d1b9"></circle><circle cx="72.73" cy="58.26" r="3.17" fill="#bcccb0"></circle><circle cx="64.23" cy="115.43" r="2.92" fill="#d1dbc7"></circle><circle cx="99.38" cy="150.42" r="2.25" fill="#c4d1b9"></circle><circle cx="112.09" cy="101.41" r="2.76" fill="#bcccb0"></circle><circle cx="65.51" cy="57.06" r="2.98" fill="#d1dbc7"></circle><circle cx="123.09" cy="85.13" r="3.18" fill="#c4d1b9"></circle><circle cx="34.89" cy="119.27" r="2.83" fill="#bcccb0"></circle><circle cx="51.61" cy="153.32" r="2.36" fill="#d1dbc7"></circle><circle cx="102.78" cy="59.78" r="2.29" fill="#c4d1b9"></circle><circle cx="74.43" cy="54.04" r="2.96" fill="#bcccb0"></circle><circle cx="62.23" cy="167.28" r="2.42" fill="#d1dbc7"></circle><circle cx="93.95" cy="112.7" r="2.84" fill="#c4d1b9"></circle><circle cx="94.83" cy="89.01" r="2.66" fill="#bcccb0"></circle><circle cx="56.76" cy="59.55" r="3.14" fill="#d1dbc7"></circle><circle cx="130.28" cy="86.92" r="2.16" fill="#c4d1b9"></circle><circle cx="116.85" cy="134.21" r="2.75" fill="#bcccb0"></circle><circle cx="86.26" cy="110.15" r="3.05" fill="#d1dbc7"></circle><circle cx="112.54" cy="108.63" r="3.06" fill="#c4d1b9"></circle><circle cx="86.86" cy="51.72" r="2.36" fill="#bcccb0"></circle><circle cx="36.69" cy="112.9" r="2.28" fill="#d1dbc7"></circle><circle cx="37.96" cy="133.18" r="2.92" fill="#c4d1b9"></circle><circle cx="89.89" cy="53.57" r="2.8" fill="#bcccb0"></circle><circle cx="112.96" cy="114.29" r="2.44" fill="#d1dbc7"></circle><circle cx="95.09" cy="130.03" r="2.83" fill="#c4d1b9"></circle><circle cx="48.1" cy="102.12" r="2.92" fill="#bcccb0"></circle><circle cx="133.62" cy="126.97" r="2.48" fill="#d1dbc7"></circle><circle cx="56.86" cy="74.85" r="3.17" fill="#c4d1b9"></circle><circle cx="62.48" cy="151.77" r="2.19" fill="#bcccb0"></circle><circle cx="63.28" cy="63.5" r="2.15" fill="#d1dbc7"></circle><circle cx="73.39" cy="126.55" r="2.18" fill="#c4d1b9"></circle><circle cx="74.89" cy="74.98" r="2.16" fill="#bcccb0"></circle><circle cx="90.53" cy="63.5" r="3.14" fill="#d1dbc7"></circle><circle cx="92.81" cy="121.5" r="2.57" fill="#c4d1b9"></circle><circle cx="116.34" cy="102.13" r="2.35" fill="#bcccb0"></circle><circle cx="123.58" cy="69.15" r="2.88" fill="#d1dbc7"></circle><circle cx="110.08" cy="68.2" r="2.68" fill="#c4d1b9"></circle><circle cx="149.04" cy="117.63" r="2.71" fill="#bcccb0"></circle><circle cx="111.59" cy="120.78" r="3.18" fill="#d1dbc7"></circle><circle cx="151.86" cy="94.07" r="2.95" fill="#c4d1b9"></circle><circle cx="85.4" cy="95.54" r="2.68" fill="#bcccb0"></circle><circle cx="134.11" cy="92.86" r="2.93" fill="#d1dbc7"></circle><circle cx="83.02" cy="92.02" r="3.15" fill="#c4d1b9"></circle><circle cx="79.15" cy="122.99" r="2.79" fill="#bcccb0"></circle><circle cx="60.64" cy="115.37" r="2.33" fill="#d1dbc7"></circle><circle cx="119.14" cy="120.96" r="2.5" fill="#c4d1b9"></circle><circle cx="36.94" cy="135.54" r="2.23" fill="#bcccb0"></circle><circle cx="81.63" cy="111.08" r="3.13" fill="#d1dbc7"></circle><circle cx="117.48" cy="169.08" r="3.09" fill="#c4d1b9"></circle><circle cx="69.88" cy="58.05" r="2.61" fill="#bcccb0"></circle><circle cx="112.15" cy="99.99" r="3.11" fill="#d1dbc7"></circle><circle cx="126.15" cy="145.94" r="2.12" fill="#c4d1b9"></circle><circle cx="117.12" cy="61.31" r="2.27" fill="#bcccb0"></circle><circle cx="63.16" cy="86.08" r="2.57" fill="#d1dbc7"></circle><circle cx="103.48" cy="105.02" r="2.23" fill="#c4d1b9"></circle><circle cx="79.14" cy="76.52" r="3.17" fill="#bcccb0"></circle><circle cx="130.78" cy="142.18" r="2.6" fill="#d1dbc7"></circle><circle cx="50.74" cy="125.95" r="3.13" fill="#c4d1b9"></circle><circle cx="62.0" cy="75.55" r="2.59" fill="#bcccb0"></circle><circle cx="81.18" cy="119.25" r="2.11" fill="#d1dbc7"></circle><circle cx="102.73" cy="60.86" r="2.14" fill="#c4d1b9"></circle><circle cx="122.17" cy="140.68" r="2.25" fill="#bcccb0"></circle><circle cx="66.94" cy="69.95" r="2.78" fill="#d1dbc7"></circle><circle cx="111.57" cy="131.43" r="2.31" fill="#c4d1b9"></circle><circle cx="47.82" cy="141.67" r="2.5" fill="#bcccb0"></circle><circle cx="107.42" cy="79.54" r="2.31" fill="#d1dbc7"></circle><circle cx="137.89" cy="130.83" r="2.89" fill="#c4d1b9"></circle><circle cx="82.02" cy="112.56" r="2.64" fill="#bcccb0"></circle><circle cx="89.83" cy="147.77" r="2.33" fill="#d1dbc7"></circle><circle cx="92.01" cy="91.49" r="2.64" fill="#c4d1b9"></circle><circle cx="55.01" cy="112.31" r="2.48" fill="#bcccb0"></circle><circle cx="55.93" cy="98.95" r="2.58" fill="#d1dbc7"></circle><circle cx="111.07" cy="81.62" r="2.16" fill="#c4d1b9"></circle><circle cx="78.76" cy="170.88" r="2.32" fill="#bcccb0"></circle><circle cx="58.36" cy="73.62" r="2.18" fill="#d1dbc7"></circle><circle cx="79.98" cy="91.89" r="2.6" fill="#c4d1b9"></circle><circle cx="90.43" cy="127.41" r="2.67" fill="#bcccb0"></circle><circle cx="105.98" cy="169.89" r="2.75" fill="#d1dbc7"></circle><circle cx="127.86" cy="130.58" r="2.43" fill="#c4d1b9"></circle><circle cx="76.97" cy="97.75" r="2.28" fill="#bcccb0"></circle></g>
+          <path d="M130 96L136 107H124Z M141 112L147 123H135Z M121 118L127 129H115Z" fill="#a27648"></path>
+          <circle cx="132" cy="113" r="25" fill="none" stroke="#879a72" stroke-width="1.5" stroke-dasharray="3 4"></circle>
+          <path d="M147 93L211 66M149 133L211 168" fill="none" stroke="#b9c8ad" stroke-width="1.2"></path>
+          <circle cx="245" cy="116" r="63" fill="#fdfefb" stroke="#cfdbc5" stroke-width="1.5"></circle>
+          <circle cx="245" cy="116" r="52" fill="#edf2e7"></circle>
+          <g fill="#d6e0ca"><circle cx="214" cy="89" r="7"></circle><circle cx="275" cy="95" r="6"></circle><circle cx="222" cy="150" r="6"></circle><circle cx="273" cy="144" r="8"></circle></g>
+          <g fill="#ad8051" stroke="#fffaf4" stroke-width="2"><path d="M238 87L250 109H226Z"></path><path d="M257 115L269 137H245Z"></path><path d="M231 122L243 144H219Z"></path></g>
+          <path d="M232 106L235 125M247 102L255 120M241 133L250 130" fill="none" stroke="#c9ae85" stroke-width="1.5"></path>
+        <g data-marks="palma-expression-tail" aria-label="Schematic expression values concentrated in a small high-expression tail; highlighted by the Palma ratio.">
+  <text x="244" y="31" class="sc-figure-keyword" fill="#58714e">Palma ratio</text>
+  <g fill="#c4d1b9">
+    <rect x="182" y="216" width="6" height="3" rx="1"></rect>
+    <rect x="192" y="216" width="6" height="3" rx="1"></rect>
+    <rect x="202" y="215" width="6" height="4" rx="1"></rect>
+    <rect x="212" y="215" width="6" height="4" rx="1"></rect>
+    <rect x="222" y="214" width="6" height="5" rx="1"></rect>
+    <rect x="232" y="213" width="6" height="6" rx="1"></rect>
+    <rect x="242" y="211" width="6" height="8" rx="1"></rect>
+  </g>
+  <g fill="#ad8051">
+    <rect x="252" y="207" width="6" height="12" rx="1"></rect>
+    <rect x="262" y="201" width="6" height="18" rx="1"></rect>
+    <rect x="272" y="191" width="6" height="28" rx="1"></rect>
+    <rect x="282" y="178" width="6" height="41" rx="1"></rect>
+  </g>
+  <text x="77" y="213" class="sc-figure-label" fill="#687b5b">A few strong signals</text>
+</g>
+</svg>
+        <figcaption><span>Lost in the crowd</span><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-move-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
   <path d="M18 8L22 12L18 16"></path>
   <path d="M2 12H22"></path>
-</svg><span>Ask. Revisit. Discover.</span></figcaption>
+</svg><span>Rare cells in focus</span></figcaption>
       </figure>
       <div class="sc-story-copy">
-        <p class="sc-story-abstract" data-abstract="llm">A rare population may disappear simply because we chose the wrong genes or view of the data. Fixed pipelines make these blind spots difficult to revisit, especially when the population is unknown. We are exploring language models that guide repeated, evidence-based reanalysis to uncover what a single pass might miss.</p>
+        <p class="sc-story-abstract" data-abstract="palma">Rare cells can reveal immune defenses and treatment resistance, yet common gene-selection methods may overlook signals concentrated in very few cells. Losing these signals leaves important biology hidden. PalmaClust uses the Palma ratio, a tail-sensitive inequality measure, to prioritize rare-cell marker genes and combine complementary views for discovery.</p>
+        <div class="sc-story-links">
+          <a class="cursor-interaction" href="https://doi.org/10.64898/2026.03.16.712161" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-file-text" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path>
+  <path d="M14 2v4a2 2 0 0 0 2 2h4"></path>
+  <path d="M10 9H8"></path>
+  <path d="M16 13H8"></path>
+  <path d="M16 17H8"></path>
+</svg>Preprint<svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-arrow-up-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M7 7h10v10"></path>
+  <path d="M7 17 17 7"></path>
+</svg></a>
+          <a class="cursor-interaction" href="https://github.com/wan-mlab/PalmaClust" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-code-xml" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="m18 16 4-4-4-4"></path>
+  <path d="m6 8-4 4 4 4"></path>
+  <path d="m14.5 4-5 16"></path>
+</svg>Repository<svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-arrow-up-right" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M7 7h10v10"></path>
+  <path d="M7 17 17 7"></path>
+</svg></a>
+        </div>
       </div>
     </div>
   </div>
 </div>
 </article>
-  </div>
-  <section class="sc-archive-section" aria-labelledby="sc-archived-heading">
-    <h2 class="sc-research-group-title sc-section-label" id="sc-archived-heading">Archived Projects</h2>
-    <p class="sc-archive-intro">Earlier questions that still shape how I work.</p>
     <article class="sc-story phialbcr" id="research-phialbcr" data-detail="phialbcr" aria-labelledby="sc-phialbcr-heading">
   <header class="sc-story-header">
     <div class="sc-story-meta"><span>Antibody discovery · GV20 Therapeutics</span><span>2024</span></div>
@@ -1778,7 +1776,7 @@ html{color-scheme:light;background:#fff}body{margin:0;background:#fff}
         navigate(name,projectId);
       }));
       const restoreRoute=()=>{
-        const route=/^#(home|research|play|about|personal)(?:-(palma|gamma|llm|phialbcr|dna|bwb|serverless|j\d{2}))?$/.exec(location.hash);
+        const route=/^#(home|research|play|about|personal)(?:-(hiv-bcr|llm|gamma|palma|phialbcr|dna|bwb|serverless|j\d{2}))?$/.exec(location.hash);
         navigate(route?route[1]:'home',route&&route[1]==='research'?route[2]:null,{updateUrl:false,scroll:false});
       };
       window.addEventListener('popstate',restoreRoute);
